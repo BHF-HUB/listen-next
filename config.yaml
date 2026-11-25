@@ -8,10 +8,6 @@ goodreads:
   #   https://www.goodreads.com/user/show/12345678-jane-doe  →  12345678
   user_id: "193243785"
 
-  # Optional: the "key=" value from your shelf's RSS link. You only need it
-  # if your profile is private. (Shelf page → scroll to the bottom → RSS icon.)
-  rss_key: ""
-
   # Shelf to track. "to-read" is the standard Goodreads want-to-read shelf.
   shelf: "to-read"
 
