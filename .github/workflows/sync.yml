@@ -28,11 +28,24 @@ jobs:
           for f in __init__.py __main__.py buy.py goodreads.py hoopla.py http.py libby.py matching.py notify.py; do
             [ -f "$f" ] && mv "$f" sync/
           done
-          [ -f goodreads_library_export.csv ] && cp goodreads_library_export.csv data/ || true
           touch sync/__init__.py
+          [ -f goodreads_library_export.csv ] && cp goodreads_library_export.csv data/ || true
           for f in index.html manifest.webmanifest icon.svg icon-180.png icon-512.png; do
             [ -f "$f" ] && cp "$f" site/
           done
+
+      - name: Check Goodreads access
+        run: |
+          set +e
+          curl -sSL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36" \
+            -o gr.html -w "status=%{http_code} final_url=%{url_effective}\n" \
+            "https://www.goodreads.com/review/list/193243785?shelf=to-read"
+          echo "page size: $(wc -c < gr.html) bytes"
+          grep -o '<title>[^<]*' gr.html | head -1
+          echo "book tables found: $(grep -c 'id="books"' gr.html)"
+          echo "book rows found: $(grep -c 'id="review_' gr.html)"
+          grep -io 'sign in to\|captcha\|robot\|private\|access denied\|not authorized' gr.html | sort | uniq -c | head
+          exit 0
 
       - uses: actions/setup-python@v5
         with:
