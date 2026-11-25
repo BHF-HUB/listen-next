@@ -13,30 +13,37 @@ def audible_lookup(title, author):
         "author": author,
         "num_results": 10,
         "products_sort_by": "Relevance",
-        "response_groups": "contributors,product_attrs,price",
+        # product_desc is what makes Audible include each product's title
+        "response_groups": "contributors,product_attrs,product_desc,price",
     })
     if r.status_code != 200:
         raise RuntimeError(f"Audible HTTP {r.status_code}")
+    matches = []
     for p in r.json().get("products") or []:
         authors = [a.get("name", "") for a in p.get("authors") or []]
         if not titles_match(title, p.get("title", "")) or not authors_match(author, authors):
             continue
-        price = p.get("price") or {}
-        amount = None
-        for k in ("lowest_price", "list_price"):
-            if isinstance(price.get(k), dict) and price[k].get("base") is not None:
-                amount = price[k]["base"]
-                break
-        asin = p.get("asin")
-        return {
-            "asin": asin,
-            "price": amount,
-            "currency": ((price.get("list_price") or {}).get("currency_code") or "USD"),
-            "url": f"https://www.audible.com/pd/{asin}",
-            "narrators": [n.get("name") for n in p.get("narrators") or []],
-            "runtime_min": p.get("runtime_length_min"),
-        }
-    return None
+        matches.append(p)
+    if not matches:
+        return None
+    # Prefer English editions (search results can include translations)
+    matches.sort(key=lambda p: (p.get("language") or "english").lower() != "english")
+    p = matches[0]
+    price = p.get("price") or {}
+    amount = None
+    for k in ("lowest_price", "list_price"):
+        if isinstance(price.get(k), dict) and price[k].get("base") is not None:
+            amount = round(float(price[k]["base"]), 2)
+            break
+    asin = p.get("asin")
+    return {
+        "asin": asin,
+        "price": amount,
+        "currency": ((price.get("list_price") or {}).get("currency_code") or "USD"),
+        "url": f"https://www.audible.com/pd/{asin}",
+        "narrators": [n.get("name") for n in p.get("narrators") or []],
+        "runtime_min": p.get("runtime_length_min"),
+    }
 
 
 def links(title, author):
