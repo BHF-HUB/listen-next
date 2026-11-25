@@ -177,7 +177,7 @@ def main(argv=None):
 
         if buy_cfg.get("audible_prices", True):
             c = cache["audible"].get(gid)
-            if fresh(c, AUDIBLE_TTL):
+            if fresh(c, AUDIBLE_TTL) and c.get("result"):
                 rec["buy"]["audible"] = c["result"]
             else:
                 try:
