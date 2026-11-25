@@ -31,7 +31,7 @@ jobs:
         run: |
           mkdir -p sync site data
           for f in __init__.py __main__.py buy.py goodreads.py hoopla.py http.py libby.py matching.py notify.py; do
-            [ -f "$f" ] && cp "$f" sync/
+            [ -f "$f" ] && mv "$f" sync/
           done
           touch sync/__init__.py
           for f in index.html manifest.webmanifest icon.svg icon-180.png icon-512.png; do
