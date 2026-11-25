@@ -51,6 +51,13 @@ def log(msg):
 
 def load_shelf(cfg, errors):
     gr = cfg["goodreads"]
+    if gr.get("source") == "csv":
+        if CSV_FALLBACK.exists():
+            books = goodreads.load_export_csv(CSV_FALLBACK, gr.get("shelf", "to-read"))
+            log(f"Goodreads export file: {len(books)} books")
+            return books
+        errors.append("Goodreads export file not found. Upload goodreads_library_export.csv to the repo.")
+        return []
     try:
         _, books = goodreads.fetch_shelf(str(gr["user_id"]), gr.get("shelf", "to-read"))
         log(f"Goodreads: {len(books)} books on '{gr.get('shelf', 'to-read')}'")
