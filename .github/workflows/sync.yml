@@ -10,8 +10,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: sync
@@ -21,9 +19,6 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     timeout-minutes: 40
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
@@ -37,12 +32,10 @@ jobs:
           for f in index.html manifest.webmanifest icon.svg icon-180.png icon-512.png; do
             [ -f "$f" ] && cp "$f" site/
           done
-          ls sync site
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-          cache: pip
 
       - run: pip install -r requirements.txt
 
@@ -60,9 +53,11 @@ jobs:
           git diff --cached --quiet || git commit -m "sync: update state [skip ci]"
           git push || echo "state push skipped"
 
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v4
-        with:
-          path: site
-      - id: deploy
-        uses: actions/deploy-pages@v4
+      - name: Publish website to gh-pages branch
+        run: |
+          cd site
+          touch .nojekyll
+          git init -q -b gh-pages
+          git add -A
+          git -c user.name=queue-bot -c user.email=queue-bot@users.noreply.github.com commit -q -m "Update site"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" gh-pages
