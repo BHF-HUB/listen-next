@@ -1060,568 +1060,1950 @@
  },
  "audible": {
   "35900387": {
-   "checked": "2026-11-25T17:49:24.014980+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:02.927652+00:00",
+   "result": {
+    "asin": "B06XYT3G6M",
+    "price": 18.9,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B06XYT3G6M",
+    "narrators": [
+     "Cathleen McCarron"
+    ],
+    "runtime_min": 662
+   }
   },
   "240019977": {
-   "checked": "2026-11-25T17:49:24.547183+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:03.354058+00:00",
+   "result": {
+    "asin": "B0FRB517N7",
+    "price": 18.74,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0FRB517N7",
+    "narrators": [
+     "Sara Powell"
+    ],
+    "runtime_min": 464
+   }
   },
   "250343103": {
-   "checked": "2026-11-25T17:49:25.721247+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:03.743848+00:00",
+   "result": {
+    "asin": "B0GS4RQDSY",
+    "price": 27.4,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0GS4RQDSY",
+    "narrators": [
+     "James Downing",
+     "John Wamsley",
+     "Anne Van Leeuwen",
+     "Benjamin Blais"
+    ],
+    "runtime_min": 577
+   }
   },
   "243647823": {
-   "checked": "2026-11-25T17:49:26.316992+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:04.235613+00:00",
+   "result": {
+    "asin": "B07MBBHPQ5",
+    "price": 29.69,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B07MBBHPQ5",
+    "narrators": [
+     "Ann Marie Gideon",
+     "Nancy Peterson"
+    ],
+    "runtime_min": 827
+   }
   },
   "58438537": {
-   "checked": "2026-11-25T17:49:27.656013+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:04.762828+00:00",
+   "result": {
+    "asin": "1797118811",
+    "price": 19.49,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/1797118811",
+    "narrators": [
+     "Robin Miles"
+    ],
+    "runtime_min": 571
+   }
   },
   "59903149": {
-   "checked": "2026-11-25T17:49:28.838893+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:05.262732+00:00",
+   "result": {
+    "asin": "B0BVGRB13Q",
+    "price": 15.75,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0BVGRB13Q",
+    "narrators": [
+     "Fern Brady"
+    ],
+    "runtime_min": 403
+   }
   },
   "222476127": {
-   "checked": "2026-11-25T17:49:29.991764+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:05.745310+00:00",
+   "result": {
+    "asin": "B0FXJ5LPPT",
+    "price": 7.99,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0FXJ5LPPT",
+    "narrators": [
+     "Tracie Thoms",
+     "Diontae Black",
+     "Terah Shelton Harris"
+    ],
+    "runtime_min": 786
+   }
   },
   "248116509": {
-   "checked": "2026-11-25T17:49:31.190806+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:06.240720+00:00",
+   "result": {
+    "asin": "B0GNPF41M5",
+    "price": 29.69,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0GNPF41M5",
+    "narrators": [
+     "Megan Tusing"
+    ],
+    "runtime_min": 863
+   }
   },
   "244969690": {
-   "checked": "2026-11-25T17:49:32.354270+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:06.743973+00:00",
+   "result": {
+    "asin": "B0GG157NSJ",
+    "price": 20.79,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0GG157NSJ",
+    "narrators": [
+     "Robert Petkoff"
+    ],
+    "runtime_min": 594
+   }
   },
   "242082631": {
-   "checked": "2026-11-25T17:49:34.013438+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:07.238549+00:00",
+   "result": {
+    "asin": "B0FSTD8QBZ",
+    "price": 20.79,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0FSTD8QBZ",
+    "narrators": [
+     "Robert Petkoff"
+    ],
+    "runtime_min": 395
+   }
   },
   "242975253": {
-   "checked": "2026-11-25T17:49:35.342058+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:07.750420+00:00",
+   "result": {
+    "asin": "B0FXHPWHPY",
+    "price": 11.24,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0FXHPWHPY",
+    "narrators": [
+     "Shrader Thomas"
+    ],
+    "runtime_min": 207
+   }
   },
   "242977911": {
-   "checked": "2026-11-25T17:49:36.467268+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:08.251762+00:00",
+   "result": {
+    "asin": "B0FXHPTZV7",
+    "price": 20.24,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0FXHPTZV7",
+    "narrators": [
+     "Stacy Gonzalez",
+     "Timothy Andr\u00e9s Pabon",
+     "Jackie Sanders"
+    ],
+    "runtime_min": 561
+   }
   },
   "246462348": {
-   "checked": "2026-11-25T17:49:37.622907+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:08.725043+00:00",
+   "result": {
+    "asin": "B0GGCK5LY2",
+    "price": 26.45,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0GGCK5LY2",
+    "narrators": [
+     "Charlie Thurston"
+    ],
+    "runtime_min": 668
+   }
   },
   "246254464": {
-   "checked": "2026-11-25T17:49:39.820258+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:09.644527+00:00",
+   "result": {
+    "asin": "B0GM51Y9TB",
+    "price": 21.6,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0GM51Y9TB",
+    "narrators": [
+     "Karen Murray"
+    ],
+    "runtime_min": 732
+   }
   },
   "179272908": {
-   "checked": "2026-11-25T17:49:40.727765+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:10.322276+00:00",
+   "result": {
+    "asin": "B0CVS8YY7R",
+    "price": 21.91,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0CVS8YY7R",
+    "narrators": [
+     "Adam Sims"
+    ],
+    "runtime_min": 772
+   }
   },
   "245670591": {
-   "checked": "2026-11-25T17:49:41.319230+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:10.817981+00:00",
+   "result": {
+    "asin": "B0GFZMP7D6",
+    "price": 25.2,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0GFZMP7D6",
+    "narrators": [
+     "Rebecca Soler",
+     "MacLeod Andrews",
+     "Julia Whelan",
+     "Jodi Picoult"
+    ],
+    "runtime_min": 939
+   }
   },
   "76401": {
-   "checked": "2026-11-25T17:49:42.002094+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:11.366950+00:00",
+   "result": {
+    "asin": "B002V9ZEA4",
+    "price": 20.49,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B002V9ZEA4",
+    "narrators": [
+     "Grover Gardner"
+    ],
+    "runtime_min": 860
+   }
   },
   "222794853": {
-   "checked": "2026-11-25T17:49:42.920229+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:12.038005+00:00",
+   "result": {
+    "asin": "B0DYLHRQGN",
+    "price": 20.48,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0DYLHRQGN",
+    "narrators": [
+     "Kevin Marron",
+     "Lucy Rayner"
+    ],
+    "runtime_min": 641
+   }
   },
   "242376245": {
-   "checked": "2026-11-25T17:49:44.080939+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:12.534550+00:00",
+   "result": {
+    "asin": "B0FTT6KFKR",
+    "price": 22.49,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0FTT6KFKR",
+    "narrators": [
+     "David Morse"
+    ],
+    "runtime_min": 792
+   }
   },
   "243319819": {
-   "checked": "2026-11-25T17:49:45.341241+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:13.030535+00:00",
+   "result": {
+    "asin": "B0FY513MWG",
+    "price": 20.7,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0FY513MWG",
+    "narrators": [
+     "Emilee Hackney"
+    ],
+    "runtime_min": 676
+   }
   },
   "182733784": {
-   "checked": "2026-11-25T17:49:46.507133+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:13.542073+00:00",
+   "result": {
+    "asin": "B0CF6R3R7W",
+    "price": 20.25,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0CF6R3R7W",
+    "narrators": [
+     "Annie Jacobsen"
+    ],
+    "runtime_min": 679
+   }
   },
   "54063343": {
-   "checked": "2026-11-25T17:49:47.687721+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:14.050543+00:00",
+   "result": {
+    "asin": "0593348826",
+    "price": 21.26,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/0593348826",
+    "narrators": [
+     "Grace Experience",
+     "Saskia Maarleveld",
+     "Danny Campbell",
+     "Cassandra Campbell",
+     "Arthur Morey",
+     "Mark Deakins",
+     "Julia Whelan",
+     "Kaleo Griffith",
+     "Kirby Heyborne",
+     "Rebecca Lowman",
+     "Mark Bramhall"
+    ],
+    "runtime_min": 848
+   }
   },
   "58464584": {
-   "checked": "2026-11-25T17:49:49.267763+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:14.690500+00:00",
+   "result": {
+    "asin": "B09P2QK9HH",
+    "price": 9.11,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B09P2QK9HH",
+    "narrators": [
+     "Andrea Gibson"
+    ],
+    "runtime_min": 118
+   }
   },
   "243596291": {
-   "checked": "2026-11-25T17:49:49.854357+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:15.467530+00:00",
+   "result": {
+    "asin": "B0GTMTNVXQ",
+    "price": 20.96,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0GTMTNVXQ",
+    "narrators": [
+     "Will M Watt",
+     "Fiona Mitchell"
+    ],
+    "runtime_min": 713
+   }
   },
   "244942030": {
-   "checked": "2026-11-25T17:49:50.554679+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:16.084455+00:00",
+   "result": {
+    "asin": "B0F2P9CS36",
+    "price": 21.25,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0F2P9CS36",
+    "narrators": [
+     "Christina Moore",
+     "Johnny Heller",
+     "Roger Wayne",
+     "Will Damron"
+    ],
+    "runtime_min": 689
+   }
   },
   "223641004": {
-   "checked": "2026-11-25T17:49:51.066674+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:16.732711+00:00",
+   "result": {
+    "asin": "B0GGMXVF99",
+    "price": 27.0,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0GGMXVF99",
+    "narrators": [
+     "Tara Flynn",
+     "Ariel Lawhon"
+    ],
+    "runtime_min": 1107
+   }
   },
   "214151487": {
-   "checked": "2026-11-25T17:49:52.333745+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:17.226536+00:00",
+   "result": {
+    "asin": "B0D684VBMC",
+    "price": 19.49,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0D684VBMC",
+    "narrators": [
+     "Jessica Regan",
+     "Shakira Shute",
+     "Maeve Smyth"
+    ],
+    "runtime_min": 606
+   }
   },
   "251180410": {
-   "checked": "2026-11-25T17:49:53.000240+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:17.731299+00:00",
+   "result": {
+    "asin": "B01E08EG84",
+    "price": 22.5,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B01E08EG84",
+    "narrators": [
+     "Nicholas Guy Smith"
+    ],
+    "runtime_min": 1072
+   }
   },
   "214151359": {
-   "checked": "2026-11-25T17:49:54.201783+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:18.227386+00:00",
+   "result": {
+    "asin": "B0D685F224",
+    "price": 20.24,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0D685F224",
+    "narrators": [
+     "Julia Whelan",
+     "Theo Solomon"
+    ],
+    "runtime_min": 746
+   }
   },
   "244962264": {
-   "checked": "2026-11-25T17:49:55.071477+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:18.773071+00:00",
+   "result": {
+    "asin": "B0C4Q8SZRW",
+    "price": 24.74,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0C4Q8SZRW",
+    "narrators": [
+     "Julia Whelan",
+     "Kristin Hannah"
+    ],
+    "runtime_min": 897
+   }
   },
   "63880836": {
-   "checked": "2026-11-25T17:49:55.744673+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:19.279885+00:00",
+   "result": {
+    "asin": "B0C2JDVYV7",
+    "price": 21.69,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0C2JDVYV7",
+    "narrators": [
+     "Barrie Kealoha"
+    ],
+    "runtime_min": 786
+   }
   },
   "240019805": {
-   "checked": "2026-11-25T17:49:56.945083+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:20.109656+00:00",
+   "result": {
+    "asin": "B0FP3VKX27",
+    "price": 25.98,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0FP3VKX27",
+    "narrators": [
+     "Angel Pean"
+    ],
+    "runtime_min": 982
+   }
   },
   "244206039": {
-   "checked": "2026-11-25T17:49:58.079244+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:20.609287+00:00",
+   "result": {
+    "asin": "B0G38F6328",
+    "price": 21.6,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0G38F6328",
+    "narrators": [
+     "Amanda Stribling"
+    ],
+    "runtime_min": 686
+   }
   },
   "56783258": {
-   "checked": "2026-11-25T17:49:58.757002+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:21.113161+00:00",
+   "result": {
+    "asin": "1797128531",
+    "price": 22.49,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/1797128531",
+    "narrators": [
+     "Marin Ireland",
+     "Simon Jones"
+    ],
+    "runtime_min": 892
+   }
   },
   "242693052": {
-   "checked": "2026-11-25T17:49:59.278767+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:21.621388+00:00",
+   "result": {
+    "asin": "B0FWG3S57F",
+    "price": 26.09,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0FWG3S57F",
+    "narrators": [
+     "Ann Patchett"
+    ],
+    "runtime_min": 644
+   }
   },
   "187117": {
-   "checked": "2026-11-25T17:49:59.973642+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:22.108157+00:00",
+   "result": {
+    "asin": "B0CKWP2RT1",
+    "price": 29.69,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0CKWP2RT1",
+    "narrators": [
+     "Neil Shah"
+    ],
+    "runtime_min": 830
+   }
   },
   "61964751": {
-   "checked": "2026-11-25T17:50:01.182207+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:22.608195+00:00",
+   "result": {
+    "asin": "B0B9VNJ2TB",
+    "price": 20.24,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0B9VNJ2TB",
+    "narrators": [
+     "Cynthia Erivo",
+     "Patti Callahan Henry"
+    ],
+    "runtime_min": 744
+   }
   },
   "58891551": {
-   "checked": "2026-11-25T17:50:01.829878+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:23.125393+00:00",
+   "result": {
+    "asin": "B09L5BN5XX",
+    "price": 21.68,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B09L5BN5XX",
+    "narrators": [
+     "Chris Reilly"
+    ],
+    "runtime_min": 821
+   }
   },
   "242765313": {
-   "checked": "2026-11-25T17:50:02.433719+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:23.599753+00:00",
+   "result": {
+    "asin": "B0HS8VS6RX",
+    "price": 1.0,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0HS8VS6RX",
+    "narrators": [
+     "Julia Whelan"
+    ],
+    "runtime_min": 45
+   }
   },
   "21853621": {
-   "checked": "2026-11-25T17:50:03.165720+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:24.153476+00:00",
+   "result": {
+    "asin": "B00NYBQKFQ",
+    "price": 29.24,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B00NYBQKFQ",
+    "narrators": [
+     "Polly Stone"
+    ],
+    "runtime_min": 1039
+   }
   },
   "235992376": {
-   "checked": "2026-11-25T17:50:03.849083+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:24.621360+00:00",
+   "result": {
+    "asin": "B0FCZQR5ZY",
+    "price": 20.24,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0FCZQR5ZY",
+    "narrators": [
+     "Alejandra Reynoso",
+     "Timothy Andr\u00e9s Pabon"
+    ],
+    "runtime_min": 667
+   }
   },
   "219301727": {
-   "checked": "2026-11-25T17:50:05.383336+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:25.298098+00:00",
+   "result": {
+    "asin": "B0DJHBWVLD",
+    "price": 18.0,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0DJHBWVLD",
+    "narrators": [
+     "Bahni Turpin"
+    ],
+    "runtime_min": 443
+   }
   },
   "216625366": {
-   "checked": "2026-11-25T17:50:06.873807+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:26.117973+00:00",
+   "result": {
+    "asin": "B0DK5VVF67",
+    "price": 21.16,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0DK5VVF67",
+    "narrators": [
+     "Andrew Eiden",
+     "Holly Kennedy"
+    ],
+    "runtime_min": 545
+   }
   },
   "232794526": {
-   "checked": "2026-11-25T17:50:08.027439+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:26.606840+00:00",
+   "result": {
+    "asin": "B0FBHZK5V7",
+    "price": 19.8,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0FBHZK5V7",
+    "narrators": [
+     "Zadeiah Campbell-Davies"
+    ],
+    "runtime_min": 626
+   }
   },
   "246933602": {
-   "checked": "2026-11-25T17:50:09.277444+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:27.111554+00:00",
+   "result": {
+    "asin": "B0DG3STL1G",
+    "price": 19.8,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0DG3STL1G",
+    "narrators": [
+     "Dervla Kirwan"
+    ],
+    "runtime_min": 580
+   }
   },
   "199798217": {
-   "checked": "2026-11-25T17:50:09.891310+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:27.607758+00:00",
+   "result": {
+    "asin": "B0CLFZX676",
+    "price": 19.49,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0CLFZX676",
+    "narrators": [
+     "Mozhan Navabi",
+     "Nikki Massoud"
+    ],
+    "runtime_min": 629
+   }
   },
   "228820257": {
-   "checked": "2026-11-25T17:50:10.596664+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:28.093361+00:00",
+   "result": {
+    "asin": "B0FTBK545H",
+    "price": 31.58,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0FTBK545H",
+    "narrators": [
+     "Jenna Lamia",
+     "January LaVoy"
+    ],
+    "runtime_min": 1724
+   }
   },
   "240019823": {
-   "checked": "2026-11-25T17:50:11.692135+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:28.596667+00:00",
+   "result": {
+    "asin": "B0FMLM568F",
+    "price": 20.24,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0FMLM568F",
+    "narrators": [
+     "Kimberly M. Wetherell",
+     "Maggi-Meg Reed"
+    ],
+    "runtime_min": 665
+   }
   },
   "218695909": {
-   "checked": "2026-11-25T17:50:13.190399+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:29.113280+00:00",
+   "result": {
+    "asin": "B0DJHB29FT",
+    "price": 22.5,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0DJHB29FT",
+    "narrators": [
+     "Peter Ganim",
+     "Helen Laser"
+    ],
+    "runtime_min": 701
+   }
   },
   "241126110": {
-   "checked": "2026-11-25T17:50:14.705728+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:29.762098+00:00",
+   "result": {
+    "asin": "B0FST3YJ1T",
+    "price": 22.68,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0FST3YJ1T",
+    "narrators": [
+     "Anthea Greco"
+    ],
+    "runtime_min": 694
+   }
   },
   "240077087": {
-   "checked": "2026-11-25T17:50:15.446764+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:30.274756+00:00",
+   "result": {
+    "asin": "B0FMLK9QL8",
+    "price": 26.09,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0FMLK9QL8",
+    "narrators": [
+     "Marin Ireland"
+    ],
+    "runtime_min": 646
+   }
   },
   "59900688": {
-   "checked": "2026-11-25T17:50:16.662723+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:30.786610+00:00",
+   "result": {
+    "asin": "B09SJ5WRMN",
+    "price": 22.5,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B09SJ5WRMN",
+    "narrators": [
+     "Javier Zamora"
+    ],
+    "runtime_min": 1028
+   }
   },
   "58803339": {
-   "checked": "2026-11-25T17:50:17.834248+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:31.275232+00:00",
+   "result": {
+    "asin": "B09HY5JC2L",
+    "price": 20.25,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B09HY5JC2L",
+    "narrators": [
+     "Katie Schorr"
+    ],
+    "runtime_min": 629
+   }
   },
   "8664353": {
-   "checked": "2026-11-25T17:50:18.502853+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:31.788789+00:00",
+   "result": {
+    "asin": "B004BAUKFK",
+    "price": 20.25,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B004BAUKFK",
+    "narrators": [
+     "Edward Herrmann"
+    ],
+    "runtime_min": 836
+   }
   },
   "235992395": {
-   "checked": "2026-11-25T17:50:19.680311+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:32.269300+00:00",
+   "result": {
+    "asin": "B0G8K97M2J",
+    "price": 20.24,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0G8K97M2J",
+    "narrators": [
+     "Elyse Dinh"
+    ],
+    "runtime_min": 595
+   }
   },
   "55004514": {
-   "checked": "2026-11-25T17:50:20.278463+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:32.767693+00:00",
+   "result": {
+    "asin": "1488211310",
+    "price": 29.69,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/1488211310",
+    "narrators": [
+     "Nancy Peterson",
+     "Charlie Thurston"
+    ],
+    "runtime_min": 796
+   }
   },
   "166997": {
-   "checked": "2026-11-25T17:50:21.343415+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:33.550534+00:00",
+   "result": {
+    "asin": "B003S7XFBI",
+    "price": 17.88,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B003S7XFBI",
+    "narrators": [
+     "Robin Field"
+    ],
+    "runtime_min": 586
+   }
   },
   "57429914": {
-   "checked": "2026-11-25T17:50:22.846630+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:34.246031+00:00",
+   "result": {
+    "asin": "1713614731",
+    "price": 22.77,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/1713614731",
+    "narrators": [
+     "Robin Siegerman",
+     "Hope Newhouse"
+    ],
+    "runtime_min": 902
+   }
   },
   "201794912": {
-   "checked": "2026-11-25T17:50:24.408635+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:35.017788+00:00",
+   "result": {
+    "asin": "B0CS7K3M5K",
+    "price": 5.99,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0CS7K3M5K",
+    "narrators": [
+     "Erin Bennett",
+     "Soneela Nankani"
+    ],
+    "runtime_min": 619
+   }
   },
   "232209360": {
-   "checked": "2026-11-25T17:50:25.007056+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:35.520861+00:00",
+   "result": {
+    "asin": "B0FW6QM4B7",
+    "price": 20.73,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0FW6QM4B7",
+    "narrators": [
+     "Clay Cane"
+    ],
+    "runtime_min": 635
+   }
   },
   "237693020": {
-   "checked": "2026-11-25T17:50:26.154740+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:36.049169+00:00",
+   "result": {
+    "asin": "B0FGK3BZFS",
+    "price": 17.01,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0FGK3BZFS",
+    "narrators": [
+     "T.R. Knight",
+     "Pete Holmes",
+     "Midori Francis",
+     "Carlos Miranda",
+     "Brandon Flynn",
+     "Nikki M. James",
+     "Alex Edelman",
+     "Daphne Rubin-Vega"
+    ],
+    "runtime_min": 290
+   }
   },
   "33413128": {
-   "checked": "2026-11-25T17:50:26.804898+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:36.530549+00:00",
+   "result": {
+    "asin": "B06XH9B3TH",
+    "price": 23.61,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B06XH9B3TH",
+    "narrators": [
+     "Marin Ireland"
+    ],
+    "runtime_min": 791
+   }
   },
   "49127718": {
-   "checked": "2026-11-25T17:50:28.171998+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:37.028692+00:00",
+   "result": {
+    "asin": "1797105833",
+    "price": 19.49,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/1797105833",
+    "narrators": [
+     "Marin Ireland"
+    ],
+    "runtime_min": 593
+   }
   },
   "235260861": {
-   "checked": "2026-11-25T17:50:29.486753+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:37.548634+00:00",
+   "result": {
+    "asin": "B0FXHPQRT8",
+    "price": 22.49,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0FXHPQRT8",
+    "narrators": [
+     "Lorne MacFadyen"
+    ],
+    "runtime_min": 931
+   }
   },
   "222376836": {
-   "checked": "2026-11-25T17:50:30.134096+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:38.033761+00:00",
+   "result": {
+    "asin": "B0F2P9CS36",
+    "price": 21.25,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0F2P9CS36",
+    "narrators": [
+     "Christina Moore",
+     "Johnny Heller",
+     "Roger Wayne",
+     "Will Damron"
+    ],
+    "runtime_min": 689
+   }
   },
   "235699977": {
-   "checked": "2026-11-25T17:50:32.166681+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:38.749671+00:00",
+   "result": {
+    "asin": "B0FGJWK6HY",
+    "price": 20.7,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0FGJWK6HY",
+    "narrators": [
+     "Saskia Maarleveld",
+     "Kate Schatz"
+    ],
+    "runtime_min": 701
+   }
   },
   "25893693": {
-   "checked": "2026-11-25T17:50:33.422963+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:39.236073+00:00",
+   "result": {
+    "asin": "B01CUK4LUC",
+    "price": 22.5,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B01CUK4LUC",
+    "narrators": [
+     "Cassandra Campbell",
+     "Kathleen Gati",
+     "Kathrin Kana",
+     "Martha Hall Kelly"
+    ],
+    "runtime_min": 1050
+   }
   },
   "40097951": {
-   "checked": "2026-11-25T17:50:34.046518+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:39.737282+00:00",
+   "result": {
+    "asin": "1250317533",
+    "price": 20.24,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/1250317533",
+    "narrators": [
+     "Jack Hawkins",
+     "Louise Brealey"
+    ],
+    "runtime_min": 513
+   }
   },
   "18774964": {
-   "checked": "2026-11-25T17:50:34.748357+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:40.233713+00:00",
+   "result": {
+    "asin": "1797108263",
+    "price": 19.49,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/1797108263",
+    "narrators": [
+     "J. K. Simmons"
+    ],
+    "runtime_min": 553
+   }
   },
   "241126800": {
-   "checked": "2026-11-25T17:50:36.059104+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:40.746389+00:00",
+   "result": {
+    "asin": "B0FSLJ7L9R",
+    "price": 23.4,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0FSLJ7L9R",
+    "narrators": [
+     "Angel Pean",
+     "Ashley J. Hobbs"
+    ],
+    "runtime_min": 790
+   }
   },
   "233717140": {
-   "checked": "2026-11-25T17:50:37.564487+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:41.237417+00:00",
+   "result": {
+    "asin": "B0F9QY33Y3",
+    "price": 7.99,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0F9QY33Y3",
+    "narrators": [
+     "Full Cast"
+    ],
+    "runtime_min": 607
+   }
   },
   "22929586": {
-   "checked": "2026-11-25T17:50:38.743013+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:41.752073+00:00",
+   "result": {
+    "asin": "B019YACNU6",
+    "price": 21.34,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B019YACNU6",
+    "narrators": [
+     "Thom Rivera",
+     "Dawn Harvey",
+     "Carol Monda",
+     "Hillary Huber",
+     "Bernadette Dunne",
+     "Kyla Garcia"
+    ],
+    "runtime_min": 887
+   }
   },
   "52439531": {
-   "checked": "2026-11-25T17:50:39.564450+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:42.253905+00:00",
+   "result": {
+    "asin": "154916046X",
+    "price": 27.39,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/154916046X",
+    "narrators": [
+     "Christie Moreau"
+    ],
+    "runtime_min": 645
+   }
   },
   "50623864": {
-   "checked": "2026-11-25T17:50:40.227501+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:42.746533+00:00",
+   "result": {
+    "asin": "125077795X",
+    "price": 29.24,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/125077795X",
+    "narrators": [
+     "Julia Whelan"
+    ],
+    "runtime_min": 1051
+   }
   },
   "235992421": {
-   "checked": "2026-11-25T17:50:41.368790+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:43.250681+00:00",
+   "result": {
+    "asin": "B0FCZXX1FG",
+    "price": 23.61,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0FCZXX1FG",
+    "narrators": [
+     "Ariel Blake",
+     "Karen Chilton",
+     "Adam Lazarre-White",
+     "Sadeqa Johnson"
+    ],
+    "runtime_min": 862
+   }
   },
   "127305853": {
-   "checked": "2026-11-25T17:50:41.982667+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:43.723080+00:00",
+   "result": {
+    "asin": "B0C4Q8SZRW",
+    "price": 24.74,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0C4Q8SZRW",
+    "narrators": [
+     "Julia Whelan",
+     "Kristin Hannah"
+    ],
+    "runtime_min": 897
+   }
   },
   "902": {
-   "checked": "2026-11-25T17:50:43.196183+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:44.244209+00:00",
+   "result": {
+    "asin": "B077SMSD96",
+    "price": 18.0,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B077SMSD96",
+    "narrators": [
+     "Cassandra Campbell"
+    ],
+    "runtime_min": 419
+   }
   },
   "15818107": {
-   "checked": "2026-11-25T17:50:44.381881+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:45.151007+00:00",
+   "result": {
+    "asin": "B00BOU8PZC",
+    "price": 17.21,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B00BOU8PZC",
+    "narrators": [
+     "Jessica Almasy",
+     "Suzanne Toren"
+    ],
+    "runtime_min": 501
+   }
   },
   "1972": {
-   "checked": "2026-11-25T17:50:45.303813+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:46.206173+00:00",
+   "result": {
+    "asin": "B00F3HVNBU",
+    "price": 26.24,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B00F3HVNBU",
+    "narrators": [
+     "Johnny Heller"
+    ],
+    "runtime_min": 1175
+   }
   },
   "85431": {
-   "checked": "2026-11-25T17:50:46.347926+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:46.970777+00:00",
+   "result": {
+    "asin": "B018SQNZ4U",
+    "price": 22.64,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B018SQNZ4U",
+    "narrators": [
+     "Tom Stechschulte"
+    ],
+    "runtime_min": 873
+   }
   },
   "54304031": {
-   "checked": "2026-11-25T17:50:47.470668+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:47.458790+00:00",
+   "result": {
+    "asin": "1797118811",
+    "price": 19.49,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/1797118811",
+    "narrators": [
+     "Robin Miles"
+    ],
+    "runtime_min": 571
+   }
   },
   "219848315": {
-   "checked": "2026-11-25T17:50:48.691700+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:47.985731+00:00",
+   "result": {
+    "asin": "B0DJDMKYM1",
+    "price": 23.4,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0DJDMKYM1",
+    "narrators": [
+     "James Aaron Oh"
+    ],
+    "runtime_min": 845
+   }
   },
   "16158546": {
-   "checked": "2026-11-25T17:50:49.937628+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:48.490489+00:00",
+   "result": {
+    "asin": "B00CJ1AC1K",
+    "price": 20.25,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B00CJ1AC1K",
+    "narrators": [
+     "Chris Sorensen"
+    ],
+    "runtime_min": 778
+   }
   },
   "49244342": {
-   "checked": "2026-11-25T17:50:50.509232+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:48.980909+00:00",
+   "result": {
+    "asin": "1980075700",
+    "price": 22.67,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/1980075700",
+    "narrators": [
+     "Rachel Botchan"
+    ],
+    "runtime_min": 951
+   }
   },
   "195820807": {
-   "checked": "2026-11-25T17:50:51.129141+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:49.478342+00:00",
+   "result": {
+    "asin": "B0CFC89N3C",
+    "price": 26.45,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0CFC89N3C",
+    "narrators": [
+     "Christine Lakin",
+     "Zachary Webber",
+     "Abby Jimenez"
+    ],
+    "runtime_min": 703
+   }
   },
   "56449476": {
-   "checked": "2026-11-25T17:50:52.676618+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:50.136111+00:00",
+   "result": {
+    "asin": "1713551144",
+    "price": 20.25,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/1713551144",
+    "narrators": [
+     "Danny Campbell"
+    ],
+    "runtime_min": 628
+   }
   },
   "4069": {
-   "checked": "2026-11-25T17:50:53.306339+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:50.660463+00:00",
+   "result": {
+    "asin": "B0CYNPSBNG",
+    "price": 15.81,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0CYNPSBNG",
+    "narrators": [
+     "Theo Solomon"
+    ],
+    "runtime_min": 343
+   }
   },
   "34051011": {
-   "checked": "2026-11-25T17:50:54.494140+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:51.147550+00:00",
+   "result": {
+    "asin": "B0DJ3H33MK",
+    "price": 36.84,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0DJ3H33MK",
+    "narrators": [
+     "Sandra Oh",
+     "Min Jin Lee"
+    ],
+    "runtime_min": 1068
+   }
   },
   "219319489": {
-   "checked": "2026-11-25T17:50:55.809100+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:51.642302+00:00",
+   "result": {
+    "asin": "B0DHLPYS1M",
+    "price": 22.49,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0DHLPYS1M",
+    "narrators": [
+     "Jeremy Sisto"
+    ],
+    "runtime_min": 880
+   }
   },
   "21": {
-   "checked": "2026-11-25T17:50:57.113318+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:52.165463+00:00",
+   "result": {
+    "asin": "B002V0KFPW",
+    "price": 25.99,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B002V0KFPW",
+    "narrators": [
+     "Richard Matthews"
+    ],
+    "runtime_min": 1094
+   }
   },
   "39999": {
-   "checked": "2026-11-25T17:50:58.876403+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:52.675129+00:00",
+   "result": {
+    "asin": "B002V0K4TE",
+    "price": 11.25,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B002V0K4TE",
+    "narrators": [
+     "Michael Maloney"
+    ],
+    "runtime_min": 297
+   }
   },
   "34066798": {
-   "checked": "2026-11-25T17:50:59.461840+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:53.126292+00:00",
+   "result": {
+    "asin": "B01E08EG84",
+    "price": 22.5,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B01E08EG84",
+    "narrators": [
+     "Nicholas Guy Smith"
+    ],
+    "runtime_min": 1072
+   }
   },
   "4667024": {
-   "checked": "2026-11-25T17:51:00.619261+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:53.642847+00:00",
+   "result": {
+    "asin": "B002UZKYDQ",
+    "price": 24.75,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B002UZKYDQ",
+    "narrators": [
+     "Cassandra Campbell",
+     "Jenna Lamia",
+     "Octavia Spencer",
+     "Bahni Turpin"
+    ],
+    "runtime_min": 1086
+   }
   },
   "18143977": {
-   "checked": "2026-11-25T17:51:01.880325+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:54.144202+00:00",
+   "result": {
+    "asin": "B00IZGD864",
+    "price": 22.49,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B00IZGD864",
+    "narrators": [
+     "Zach Appelman"
+    ],
+    "runtime_min": 962
+   }
   },
   "19063": {
-   "checked": "2026-11-25T17:51:03.091962+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:54.649308+00:00",
+   "result": {
+    "asin": "B002V00YSK",
+    "price": 22.95,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B002V00YSK",
+    "narrators": [
+     "Allan Corduner"
+    ],
+    "runtime_min": 836
+   }
   },
   "40968318": {
-   "checked": "2026-11-25T17:51:04.608877+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:55.295992+00:00",
+   "result": {
+    "asin": "B07L3C7PRS",
+    "price": 20.4,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B07L3C7PRS",
+    "narrators": [
+     "Sarah Mollo-Christensen"
+    ],
+    "runtime_min": 673
+   }
   },
   "54760203": {
-   "checked": "2026-11-25T17:51:06.093188+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:56.109475+00:00",
+   "result": {
+    "asin": "1713554135",
+    "price": 5.99,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/1713554135",
+    "narrators": [
+     "Sarah Mollo-Christensen"
+    ],
+    "runtime_min": 865
+   }
   },
   "41104077": {
-   "checked": "2026-11-25T17:51:06.697034+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:56.648643+00:00",
+   "result": {
+    "asin": "B0HMZW737P",
+    "price": 20.79,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0HMZW737P",
+    "narrators": [
+     "Caroline Criado Perez"
+    ],
+    "runtime_min": 564
+   }
   },
   "220292680": {
-   "checked": "2026-11-25T17:51:08.246590+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:57.350729+00:00",
+   "result": {
+    "asin": "B0DRLL8GZT",
+    "price": 21.51,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0DRLL8GZT",
+    "narrators": [
+     "Gail Shalan"
+    ],
+    "runtime_min": 625
+   }
   },
   "9684523": {
-   "checked": "2026-11-25T17:51:09.428093+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:57.856019+00:00",
+   "result": {
+    "asin": "B004ZLBE2S",
+    "price": 20.25,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B004ZLBE2S",
+    "narrators": [
+     "Jennifer Ehle"
+    ],
+    "runtime_min": 726
+   }
   },
   "35995489": {
-   "checked": "2026-11-25T17:51:10.953286+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:58.545963+00:00",
+   "result": {
+    "asin": "B07BNW151C",
+    "price": 20.4,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B07BNW151C",
+    "narrators": [
+     "Robert Dugoni"
+    ],
+    "runtime_min": 701
+   }
   },
   "58490567": {
-   "checked": "2026-11-25T17:51:11.544125+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:59.051982+00:00",
+   "result": {
+    "asin": "B09F4PQKQC",
+    "price": 29.69,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B09F4PQKQC",
+    "narrators": [
+     "Saskia Maarleveld"
+    ],
+    "runtime_min": 771
+   }
   },
   "40899464": {
-   "checked": "2026-11-25T17:51:12.142014+00:00",
-   "result": null
+   "checked": "2026-11-25T19:14:59.523333+00:00",
+   "result": {
+    "asin": "B07MBBHPQ5",
+    "price": 29.69,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B07MBBHPQ5",
+    "narrators": [
+     "Ann Marie Gideon",
+     "Nancy Peterson"
+    ],
+    "runtime_min": 827
+   }
   },
   "56970272": {
-   "checked": "2026-11-25T17:51:13.324165+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:00.055038+00:00",
+   "result": {
+    "asin": "B09DTG9GX2",
+    "price": 7.99,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B09DTG9GX2",
+    "narrators": [
+     "Edoardo Ballerini",
+     "Ruta Sepetys"
+    ],
+    "runtime_min": 430
+   }
   },
   "50089336": {
-   "checked": "2026-11-25T17:51:14.527798+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:00.544936+00:00",
+   "result": {
+    "asin": "0593169239",
+    "price": 22.5,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/0593169239",
+    "narrators": [
+     "Barrie Kreinik",
+     "Peter Ganim"
+    ],
+    "runtime_min": 1037
+   }
   },
   "205064698": {
-   "checked": "2026-11-25T17:51:15.898718+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:01.041536+00:00",
+   "result": {
+    "asin": "B0CRSSBPD7",
+    "price": 22.5,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0CRSSBPD7",
+    "narrators": [
+     "Louis Hill",
+     "Georgina Jane",
+     "Ruta Sepetys",
+     "Steve Sheinkin"
+    ],
+    "runtime_min": 570
+   }
   },
   "32051912": {
-   "checked": "2026-11-25T17:51:16.552123+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:01.553205+00:00",
+   "result": {
+    "asin": "B06Y4FV56S",
+    "price": 29.69,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B06Y4FV56S",
+    "narrators": [
+     "Saskia Maarleveld"
+    ],
+    "runtime_min": 907
+   }
   },
   "7824322": {
-   "checked": "2026-11-25T17:51:17.718108+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:02.075750+00:00",
+   "result": {
+    "asin": "B004SICBZM",
+    "price": 20.7,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B004SICBZM",
+    "narrators": [
+     "Emily Klein"
+    ],
+    "runtime_min": 467
+   }
   },
   "17262236": {
-   "checked": "2026-11-25T17:51:19.258216+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:02.833227+00:00",
+   "result": {
+    "asin": "B00E3GXRLG",
+    "price": 19.23,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B00E3GXRLG",
+    "narrators": [
+     "Sasha Pick"
+    ],
+    "runtime_min": 697
+   }
   },
   "43868109": {
-   "checked": "2026-11-25T17:51:19.881608+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:03.266407+00:00",
+   "result": {
+    "asin": "0593162390",
+    "price": 24.75,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/0593162390",
+    "narrators": [
+     "Patrick Radden Keefe"
+    ],
+    "runtime_min": 1086
+   }
   },
   "52762903": {
-   "checked": "2026-11-25T17:51:21.134550+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:03.747499+00:00",
+   "result": {
+    "asin": "1797105582",
+    "price": 19.49,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/1797105582",
+    "narrators": [
+     "Madeleine Maby"
+    ],
+    "runtime_min": 650
+   }
   },
   "50214741": {
-   "checked": "2026-11-25T17:51:22.361344+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:04.275676+00:00",
+   "result": {
+    "asin": "0593168720",
+    "price": null,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/0593168720",
+    "narrators": [
+     "Adjoa Andoh"
+    ],
+    "runtime_min": 726
+   }
   },
   "173754979": {
-   "checked": "2026-11-25T17:51:22.902020+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:04.769228+00:00",
+   "result": {
+    "asin": "B0CBCY41WF",
+    "price": 20.25,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0CBCY41WF",
+    "narrators": [
+     "Dominic Hoffman"
+    ],
+    "runtime_min": 469
+   }
   },
   "53914938": {
-   "checked": "2026-11-25T17:51:23.609246+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:05.255439+00:00",
+   "result": {
+    "asin": "0062943499",
+    "price": 29.69,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/0062943499",
+    "narrators": [
+     "Saskia Maarleveld"
+    ],
+    "runtime_min": 962
+   }
   },
   "51152447": {
-   "checked": "2026-11-25T17:51:24.816157+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:05.756536+00:00",
+   "result": {
+    "asin": "0593339800",
+    "price": 22.5,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/0593339800",
+    "narrators": [
+     "Robin Miles"
+    ],
+    "runtime_min": 910
+   }
   },
   "60435878": {
-   "checked": "2026-11-25T17:51:26.082098+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:06.275493+00:00",
+   "result": {
+    "asin": "B09SS8STH8",
+    "price": 20.25,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B09SS8STH8",
+    "narrators": [
+     "Stacy Gonzalez",
+     "Mary Carillo",
+     "Patrick Mcenroe",
+     "Rob Simmelkjaer",
+     "Brendan Wayne",
+     "Max Meyers",
+     "Reynaldo Piniella",
+     "Vidish Athavale",
+     "Tom Bromhead",
+     "Heath Miller",
+     "Julia Whelan",
+     "Sara Arrington"
+    ],
+    "runtime_min": 630
+   }
   },
   "50202953": {
-   "checked": "2026-11-25T17:51:27.328752+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:06.773217+00:00",
+   "result": {
+    "asin": "B0H75VCVGG",
+    "price": 17.0,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0H75VCVGG",
+    "narrators": [
+     "Chiwetel Ejiofor"
+    ],
+    "runtime_min": 418
+   }
   },
   "217245618": {
-   "checked": "2026-11-25T17:51:28.496023+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:07.285418+00:00",
+   "result": {
+    "asin": "B0DG3STL1G",
+    "price": 19.8,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0DG3STL1G",
+    "narrators": [
+     "Dervla Kirwan"
+    ],
+    "runtime_min": 580
+   }
   },
   "71872930": {
-   "checked": "2026-11-25T17:51:29.726898+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:07.754237+00:00",
+   "result": {
+    "asin": "B0BWSLHZ59",
+    "price": 21.26,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0BWSLHZ59",
+    "narrators": [
+     "Mark Bramhall",
+     "Michael Crouch",
+     "Jason Culp",
+     "Mark Deakins",
+     "Jayne Entwistle",
+     "Billie Fulford-Brown",
+     "Arthur Morey",
+     "George Newbern",
+     "Kirsten Potter",
+     "Simon Vance"
+    ],
+    "runtime_min": 665
+   }
   },
   "181110045": {
-   "checked": "2026-11-25T17:51:30.379241+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:08.261460+00:00",
+   "result": {
+    "asin": "B0CKZH2Y5F",
+    "price": 29.69,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0CKZH2Y5F",
+    "narrators": [
+     "Saskia Maarleveld"
+    ],
+    "runtime_min": 903
+   }
   },
   "215153740": {
-   "checked": "2026-11-25T17:51:31.555085+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:08.745061+00:00",
+   "result": {
+    "asin": "B0CPL88V2M",
+    "price": 22.5,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0CPL88V2M",
+    "narrators": [
+     "Edoardo Ballerini"
+    ],
+    "runtime_min": 877
+   }
   },
   "199698485": {
-   "checked": "2026-11-25T17:51:32.739803+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:09.252362+00:00",
+   "result": {
+    "asin": "B0CLGLVBMH",
+    "price": 24.57,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0CLGLVBMH",
+    "narrators": [
+     "Saskia Maarleveld"
+    ],
+    "runtime_min": 875
+   }
   },
   "252577": {
-   "checked": "2026-11-25T17:51:33.380756+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:09.762617+00:00",
+   "result": {
+    "asin": "B002UZZ14S",
+    "price": 22.49,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B002UZZ14S",
+    "narrators": [
+     "Frank McCourt"
+    ],
+    "runtime_min": 908
+   }
   },
   "62334530": {
-   "checked": "2026-11-25T17:51:34.627411+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:10.287159+00:00",
+   "result": {
+    "asin": "B0BHFB2WQK",
+    "price": 19.49,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0BHFB2WQK",
+    "narrators": [
+     "Kristin Atherton",
+     "Ayesha Antoine",
+     "Louise Brealey",
+     "Alix Dunmore",
+     "Elliot Fitzpatrick",
+     "Lisa Jewell",
+     "Thomas Judd",
+     "Dominic Thorburn",
+     "Nicola Walker",
+     "Jenny Walser"
+    ],
+    "runtime_min": 631
+   }
   },
   "180357146": {
-   "checked": "2026-11-25T17:51:35.339187+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:10.743388+00:00",
+   "result": {
+    "asin": "B0BVDVR6XT",
+    "price": 5.99,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0BVDVR6XT",
+    "narrators": [
+     "Abraham Verghese"
+    ],
+    "runtime_min": 1876
+   }
   },
   "52578297": {
-   "checked": "2026-11-25T17:51:36.597489+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:11.244415+00:00",
+   "result": {
+    "asin": "059334023X",
+    "price": 18.0,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/059334023X",
+    "narrators": [
+     "Carey Mulligan"
+    ],
+    "runtime_min": 530
+   }
   },
   "23692271": {
-   "checked": "2026-11-25T17:51:37.823742+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:11.761784+00:00",
+   "result": {
+    "asin": "B0741G911Q",
+    "price": 29.69,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0741G911Q",
+    "narrators": [
+     "Derek Perkins"
+    ],
+    "runtime_min": 918
+   }
   },
   "11925514": {
-   "checked": "2026-11-25T17:51:39.384207+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:12.437353+00:00",
+   "result": {
+    "asin": "B0088PHSTA",
+    "price": 18.86,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0088PHSTA",
+    "narrators": [
+     "Morven Christie",
+     "Lucy Gaskell"
+    ],
+    "runtime_min": 603
+   }
   },
   "4137": {
-   "checked": "2026-11-25T17:51:40.663264+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:12.929768+00:00",
+   "result": {
+    "asin": "B002V0QPH4",
+    "price": 17.94,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B002V0QPH4",
+    "narrators": [
+     "David Sedaris"
+    ],
+    "runtime_min": 351
+   }
   },
   "15796700": {
-   "checked": "2026-11-25T17:51:41.265958+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:13.424464+00:00",
+   "result": {
+    "asin": "B0CNFL4HRM",
+    "price": 24.75,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0CNFL4HRM",
+    "narrators": [
+     "Adjoa Andoh"
+    ],
+    "runtime_min": 1124
+   }
   },
   "61272707": {
-   "checked": "2026-11-25T17:51:42.742773+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:14.063406+00:00",
+   "result": {
+    "asin": "B0BDT3HH1D",
+    "price": 18.74,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0BDT3HH1D",
+    "narrators": [
+     "Laurel Braitman"
+    ],
+    "runtime_min": 483
+   }
   },
   "56238004": {
-   "checked": "2026-11-25T17:51:44.542646+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:15.042997+00:00",
+   "result": {
+    "asin": "1713584603",
+    "price": 18.76,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/1713584603",
+    "narrators": [
+     "Susan Dalian"
+    ],
+    "runtime_min": 486
+   }
   },
   "61771675": {
-   "checked": "2026-11-25T17:51:45.812112+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:15.551626+00:00",
+   "result": {
+    "asin": "B0B7VKMC1Y",
+    "price": 20.25,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0B7VKMC1Y",
+    "narrators": [
+     "Maura Tierney"
+    ],
+    "runtime_min": 906
+   }
   },
   "22822858": {
-   "checked": "2026-11-25T17:51:47.028312+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:16.072455+00:00",
+   "result": {
+    "asin": "B0DQQX8NVH",
+    "price": 33.07,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0DQQX8NVH",
+    "narrators": [
+     "Matt Bomer"
+    ],
+    "runtime_min": 1718
+   }
   },
   "61049": {
-   "checked": "2026-11-25T17:51:47.583014+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:16.540815+00:00",
+   "result": {
+    "asin": "B01FQJFXFQ",
+    "price": 12.86,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B01FQJFXFQ",
+    "narrators": [
+     "Paul Boehmer"
+    ],
+    "runtime_min": 235
+   }
   },
   "18693910": {
-   "checked": "2026-11-25T17:51:49.193437+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:17.292717+00:00",
+   "result": {
+    "asin": "B00YMMTOI6",
+    "price": 23.83,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B00YMMTOI6",
+    "narrators": [
+     "William Finnegan"
+    ],
+    "runtime_min": 1088
+   }
   },
   "15798109": {
-   "checked": "2026-11-25T17:51:50.389777+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:17.786385+00:00",
+   "result": {
+    "asin": "B00B4ETZ8O",
+    "price": 22.5,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B00B4ETZ8O",
+    "narrators": [
+     "Dan Woren"
+    ],
+    "runtime_min": 1111
+   }
   },
   "33253215": {
-   "checked": "2026-11-25T17:51:51.580066+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:18.283883+00:00",
+   "result": {
+    "asin": "B073XSZJKR",
+    "price": 24.75,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B073XSZJKR",
+    "narrators": [
+     "Stephen Hogan"
+    ],
+    "runtime_min": 1270
+   }
   },
   "27189194": {
-   "checked": "2026-11-25T17:51:52.817350+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:18.781885+00:00",
+   "result": {
+    "asin": "B0C7WK74GP",
+    "price": 18.74,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/B0C7WK74GP",
+    "narrators": [
+     "Julia Whelan",
+     "Taylor Jenkins Reid"
+    ],
+    "runtime_min": 533
+   }
   },
   "52149789": {
-   "checked": "2026-11-25T17:51:54.973951+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:19.727472+00:00",
+   "result": {
+    "asin": "1799759156",
+    "price": 18.76,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/1799759156",
+    "narrators": [
+     "Amy Rubinate",
+     "Tara Sands",
+     "Coleen Marlo"
+    ],
+    "runtime_min": 480
+   }
   },
   "45299992": {
-   "checked": "2026-11-25T17:51:56.769763+00:00",
-   "result": null
+   "checked": "2026-11-25T19:15:20.642676+00:00",
+   "result": {
+    "asin": "1799708225",
+    "price": 20.06,
+    "currency": "USD",
+    "url": "https://www.audible.com/pd/1799708225",
+    "narrators": [
+     "Karen Peakes"
+    ],
+    "runtime_min": 634
+   }
   }
  }
 }
