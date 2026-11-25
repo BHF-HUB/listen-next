@@ -1,0 +1,57 @@
+name: Sync audiobook queue
+
+on:
+  schedule:
+    # Every 6 hours (times are UTC). Edit to taste, e.g. "23 */3 * * *" for every 3 hours.
+    - cron: "23 */6 * * *"
+  workflow_dispatch:        # "Run workflow" button in the Actions tab = sync now
+  push:
+    branches: [main]
+    paths: ["config.yaml", "site/**", "sync/**", "data/goodreads_library_export.csv"]
+
+permissions:
+  contents: write   # commit the small state/cache files back
+  pages: write
+  id-token: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Sync Goodreads, Libby, Hoopla, Audible
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: python -m sync
+
+      - name: Save state between runs
+        run: |
+          git config user.name  "queue-bot"
+          git config user.email "queue-bot@users.noreply.github.com"
+          git add data/state.json data/cache.json
+          git diff --cached --quiet || git commit -m "sync: update state [skip ci]"
+          git push || echo "state push skipped"
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4

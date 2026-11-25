@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Listen Next</title>
+<meta name="theme-color" content="#1f3a34">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Listen Next">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon-180.png">
+<style>
+  :root {
+    --bg: #f6f2ea; --card: #fffdf8; --ink: #1d1b18; --muted: #6d665b; --line: #e6dfd2;
+    --brand: #1f3a34; --brand-ink: #f6f2ea;
+    --now: #1d7a4e; --now-bg: #e1f2e8; --hold: #9a5b00; --hold-bg: #fbeed6;
+    --buy: #3f4da8; --buy-bg: #e6e9fa; --none: #7a7368; --none-bg: #eee9df;
+    --friend: #a13b62; --friend-bg: #f8e3ec;
+    --radius: 14px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #141513; --card: #1d1f1c; --ink: #ece8df; --muted: #a39d92; --line: #2e312c;
+      --brand: #1b2f2a; --brand-ink: #ece8df;
+      --now: #6fd3a0; --now-bg: #1c3a2b; --hold: #f0b45c; --hold-bg: #3a2c15;
+      --buy: #a9b4ff; --buy-bg: #262b4d; --none: #a39d92; --none-bg: #2a2c28;
+      --friend: #f08cb3; --friend-bg: #3d2230;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+    font: 16px/1.4 ui-sans-serif, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  header { background: var(--brand); color: var(--brand-ink);
+    padding: calc(env(safe-area-inset-top) + 18px) 18px 14px; position: sticky; top: 0; z-index: 5; }
+  .top { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+  h1 { margin: 0; font: 600 24px/1.1 ui-serif, Georgia, "Iowan Old Style", serif; letter-spacing: -.01em; }
+  .synced { font-size: 12px; opacity: .75; white-space: nowrap; }
+  .synced button { background: none; border: 0; color: inherit; font: inherit; text-decoration: underline; padding: 0; cursor: pointer; }
+  .search { margin-top: 12px; display: flex; gap: 8px; }
+  .search input, .search select { font: inherit; font-size: 15px; border-radius: 10px; border: 0;
+    padding: 9px 12px; background: rgba(255,255,255,.12); color: inherit; }
+  .search input { flex: 1; min-width: 0; }
+  .search input::placeholder { color: inherit; opacity: .6; }
+  .search select option { color: #000; }
+  .chips { display: flex; gap: 8px; overflow-x: auto; padding: 12px 18px 4px; scrollbar-width: none;
+    background: var(--bg); position: sticky; top: var(--hdr, 118px); z-index: 4; }
+  .chips::-webkit-scrollbar { display: none; }
+  .chip { flex: none; border: 1px solid var(--line); background: var(--card); color: var(--ink);
+    border-radius: 999px; padding: 7px 13px; font-size: 14px; cursor: pointer; }
+  .chip b { font-weight: 600; margin-left: 4px; color: var(--muted); }
+  .chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+  .chip[aria-pressed="true"] b { color: inherit; opacity: .7; }
+  main { padding: 10px 14px calc(env(safe-area-inset-bottom) + 40px); max-width: 760px; margin: 0 auto; }
+  .banner { background: var(--hold-bg); color: var(--hold); border-radius: var(--radius);
+    padding: 10px 14px; font-size: 14px; margin: 6px 0 12px; }
+  .banner summary { cursor: pointer; font-weight: 600; }
+  .book { display: grid; grid-template-columns: 68px 1fr; gap: 14px; background: var(--card);
+    border: 1px solid var(--line); border-radius: var(--radius); padding: 14px; margin-bottom: 12px; }
+  .cover { width: 68px; height: 102px; border-radius: 6px; object-fit: cover; background: var(--none-bg);
+    box-shadow: 0 1px 3px rgba(0,0,0,.15); display: grid; place-items: center; font-size: 26px; color: var(--muted); }
+  .title { font: 600 17px/1.25 ui-serif, Georgia, serif; margin: 0; }
+  .title a { color: inherit; text-decoration: none; }
+  .author { color: var(--muted); font-size: 14px; margin: 2px 0 8px; }
+  .new { display: inline-block; font: 700 10px/1 ui-sans-serif, sans-serif; letter-spacing: .06em;
+    background: var(--now); color: var(--card); padding: 4px 6px; border-radius: 4px; vertical-align: 3px; margin-left: 6px; }
+  .rows { display: grid; gap: 6px; }
+  .row { display: grid; grid-template-columns: 58px 1fr; align-items: start; gap: 6px; font-size: 13.5px; }
+  .pills { display: flex; flex-wrap: wrap; gap: 6px; min-width: 0; }
+  .row > div, .book > div { min-width: 0; }
+  .book > a { text-decoration: none; }
+  .src { padding-top: 5px; color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .05em; }
+  .pill { display: inline-flex; align-items: center; gap: 5px; border-radius: 999px; padding: 4px 10px;
+    text-decoration: none; font-weight: 500; }
+  .pill.now { background: var(--now-bg); color: var(--now); }
+  .pill.hold { background: var(--hold-bg); color: var(--hold); }
+  .pill.buy { background: var(--buy-bg); color: var(--buy); }
+  .pill.none { background: var(--none-bg); color: var(--none); }
+  .pill .lib { opacity: .75; font-weight: 400; }
+  .friends { margin-top: 10px; border-top: 1px dashed var(--line); padding-top: 8px; display: grid; gap: 6px; }
+  .friend { font-size: 13.5px; }
+  .friend summary { cursor: pointer; list-style: none; display: flex; align-items: center; gap: 6px; }
+  .friend summary::-webkit-details-marker { display: none; }
+  .avatar { width: 22px; height: 22px; border-radius: 50%; background: var(--friend-bg); color: var(--friend);
+    display: grid; place-items: center; font-size: 11px; font-weight: 700; flex: none; }
+  .stars { color: var(--friend); letter-spacing: 1px; }
+  .review { margin: 6px 0 2px 28px; color: var(--muted); white-space: pre-line; font-size: 13.5px; }
+  .review a { color: var(--friend); }
+  .empty { text-align: center; color: var(--muted); padding: 50px 20px; }
+  footer { text-align: center; color: var(--muted); font-size: 12px; padding: 10px 0 30px; }
+</style>
+</head>
+<body>
+<header id="hdr">
+  <div class="top">
+    <h1>Listen Next</h1>
+    <div class="synced"><span id="synced">Loading…</span> · <button id="reload" type="button">refresh</button></div>
+  </div>
+  <div class="search">
+    <input id="q" type="search" placeholder="Search your queue" autocomplete="off">
+    <select id="sort" aria-label="Sort">
+      <option value="best">Best bet</option>
+      <option value="wait">Shortest wait</option>
+      <option value="added">Recently added</option>
+      <option value="title">Title</option>
+    </select>
+  </div>
+</header>
+<nav class="chips" id="chips" aria-label="Filter"></nav>
+<main id="main"><div class="empty">Loading your queue…</div></main>
+<footer id="foot"></footer>
+
+<script>
+const FILTERS = [
+  ["all", "All"], ["now", "Borrow now"], ["hold", "Waitlist"], ["buy", "Buy only"],
+  ["friends", "Friends read"], ["none", "Not found"],
+];
+const RANK = { now: 0, hold: 1, buy: 2, none: 3 };
+let DATA = null, filter = "all";
+try { filter = localStorage.getItem("ln.filter") || "all"; } catch (e) {}
+
+const $ = (s) => document.querySelector(s);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+function ago(iso) {
+  if (!iso) return "never";
+  const m = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (m < 1) return "just now";
+  if (m < 60) return `${m} min ago`;
+  const h = Math.round(m / 60);
+  if (h < 24) return `${h} hr ago`;
+  return `${Math.round(h / 24)} d ago`;
+}
+
+function minWait(b) {
+  let w = Infinity;
+  for (const l of b.libby) {
+    if (l.status === "available" || l.status === "always") return 0;
+    if (l.status === "hold" && l.wait_days != null) w = Math.min(w, l.wait_days);
+    else if (l.status === "hold") w = Math.min(w, 9999);
+  }
+  if (b.hoopla.status === "available") return 0;
+  return w;
+}
+
+function matches(b) {
+  const q = $("#q").value.trim().toLowerCase();
+  if (q && !(`${b.title} ${b.author}`.toLowerCase().includes(q))) return false;
+  if (filter === "all") return true;
+  if (filter === "friends") return b.friends && b.friends.length;
+  return b.best === filter;
+}
+
+function sorted(list) {
+  const s = $("#sort").value;
+  const by = {
+    best: (a, b) => (RANK[a.best] - RANK[b.best]) || (minWait(a) - minWait(b)) || a.title.localeCompare(b.title),
+    wait: (a, b) => (minWait(a) - minWait(b)) || a.title.localeCompare(b.title),
+    added: (a, b) => new Date(b.date_added || 0) - new Date(a.date_added || 0),
+    title: (a, b) => a.title.localeCompare(b.title),
+  }[s];
+  return [...list].sort(by);
+}
+
+function libbyPill(l) {
+  const lib = DATA.libraries.length > 1 ? ` <span class="lib">${esc(l.library_name)}</span>` : "";
+  if (l.status === "available")
+    return `<a class="pill now" href="${esc(l.url)}" target="_blank" rel="noopener">Borrow now${lib}</a>`;
+  if (l.status === "always")
+    return `<a class="pill now" href="${esc(l.url)}" target="_blank" rel="noopener">Always available${lib}</a>`;
+  if (l.status === "hold") {
+    const wait = l.wait_days != null ? `~${l.wait_days < 7 ? l.wait_days + " days" : Math.round(l.wait_days / 7) + " wks"}` : "Waitlist";
+    const q = l.holds != null ? ` · ${l.holds} waiting / ${l.owned ?? "?"} copies` : "";
+    return `<a class="pill hold" href="${esc(l.url)}" target="_blank" rel="noopener">${wait}${q}${lib}</a>`;
+  }
+  if (l.status === "error")
+    return `<span class="pill none" title="${esc(l.note)}">Couldn't check${lib}</span>`;
+  return `<a class="pill none" href="${esc(l.search_url)}" target="_blank" rel="noopener">Not in catalog${lib}</a>`;
+}
+
+function hooplaPill(h) {
+  if (h.status === "available")
+    return `<a class="pill now" href="${esc(h.url)}" target="_blank" rel="noopener">Borrow now</a>`;
+  if (h.status === "not_found")
+    return `<a class="pill none" href="${esc(h.search_url)}" target="_blank" rel="noopener">Not found</a>`;
+  if (h.status === "unknown")
+    return `<a class="pill none" href="${esc(h.search_url)}" target="_blank" rel="noopener">Search Hoopla ↗</a>`;
+  return "";
+}
+
+function buyPills(buy) {
+  const out = [];
+  const a = buy.audible;
+  if (a && a.asin) {
+    const price = a.price != null ? `$${Number(a.price).toFixed(2)}` : "Audible";
+    out.push(`<a class="pill buy" href="${esc(a.url)}" target="_blank" rel="noopener">${price} <span class="lib">Audible</span></a>`);
+  } else if (buy.audible_search) {
+    out.push(`<a class="pill none" href="${esc(buy.audible_search)}" target="_blank" rel="noopener">Audible ↗</a>`);
+  }
+  if (buy.librofm_search)
+    out.push(`<a class="pill none" href="${esc(buy.librofm_search)}" target="_blank" rel="noopener">Libro.fm ↗</a>`);
+  return out.join("");
+}
+
+function friendHtml(f) {
+  const initials = f.name.split(/\s+/).map((p) => p[0]).join("").slice(0, 2).toUpperCase();
+  const stars = f.rating ? `<span class="stars">${"★".repeat(f.rating)}${"☆".repeat(5 - f.rating)}</span>` : `<span class="author" style="margin:0">read it</span>`;
+  const body = f.review
+    ? `<div class="review">${esc(f.review)}${f.review.length >= 600 ? "…" : ""} <a href="${esc(f.review_url)}" target="_blank" rel="noopener">Full review</a></div>`
+    : `<div class="review">No written review. <a href="${esc(f.review_url || f.profile_url)}" target="_blank" rel="noopener">View on Goodreads</a></div>`;
+  return `<details class="friend"><summary><span class="avatar">${esc(initials)}</span><strong>${esc(f.name)}</strong> ${stars}</summary>${body}</details>`;
+}
+
+function isNew(b) {
+  return b.available_since && (Date.now() - new Date(b.available_since)) < 7 * 864e5;
+}
+
+function card(b) {
+  const cover = b.cover && !/nophoto/.test(b.cover)
+    ? `<img class="cover" src="${esc(b.cover)}" alt="" loading="lazy">`
+    : `<div class="cover">📖</div>`;
+  const rows = [];
+  if (b.libby.length) rows.push(`<div class="row"><span class="src">Libby</span><div class="pills">${b.libby.map(libbyPill).join("")}</div></div>`);
+  const hp = hooplaPill(b.hoopla);
+  if (hp) rows.push(`<div class="row"><span class="src">Hoopla</span><div class="pills">${hp}</div></div>`);
+  const bp = buyPills(b.buy);
+  if (bp) rows.push(`<div class="row"><span class="src">Buy</span><div class="pills">${bp}</div></div>`);
+  const friends = b.friends && b.friends.length ? `<div class="friends">${b.friends.map(friendHtml).join("")}</div>` : "";
+  return `<article class="book">
+    <a href="${esc(b.goodreads_url)}" target="_blank" rel="noopener">${cover}</a>
+    <div>
+      <h2 class="title"><a href="${esc(b.goodreads_url)}" target="_blank" rel="noopener">${esc(b.title)}</a>${isNew(b) ? '<span class="new">NEW</span>' : ""}</h2>
+      <div class="author">${esc(b.author)}</div>
+      <div class="rows">${rows.join("")}</div>
+      ${friends}
+    </div>
+  </article>`;
+}
+
+function renderChips() {
+  const count = (k) => k === "all" ? DATA.books.length
+    : k === "friends" ? DATA.books.filter((b) => b.friends && b.friends.length).length
+    : DATA.books.filter((b) => b.best === k).length;
+  $("#chips").innerHTML = FILTERS
+    .filter(([k]) => k !== "friends" || DATA.friends_tracked)
+    .map(([k, label]) => `<button class="chip" type="button" data-f="${k}" aria-pressed="${k === filter}">${label}<b>${count(k)}</b></button>`)
+    .join("");
+}
+
+function render() {
+  if (!DATA) return;
+  renderChips();
+  const list = sorted(DATA.books.filter(matches));
+  let html = "";
+  if (DATA.errors && DATA.errors.length) {
+    html += `<details class="banner"><summary>Last sync had ${DATA.errors.length} problem${DATA.errors.length > 1 ? "s" : ""}</summary>${DATA.errors.map((e) => `<div>${esc(e)}</div>`).join("")}</details>`;
+  }
+  html += list.length ? list.map(card).join("") : `<div class="empty">Nothing here${$("#q").value ? " matching your search" : ""}.</div>`;
+  $("#main").innerHTML = html;
+  $("#synced").textContent = `Synced ${ago(DATA.generated_at)}`;
+  $("#synced").title = new Date(DATA.generated_at).toLocaleString();
+  $("#foot").textContent = `${DATA.books.length} books on “${DATA.shelf}” · ${DATA.libraries.map((l) => l.name).join(", ") || "no Libby library set"}`;
+}
+
+async function load() {
+  $("#synced").textContent = "Loading…";
+  try {
+    const r = await fetch(`data.json?t=${Date.now()}`, { cache: "no-store" });
+    if (!r.ok) throw new Error(r.status);
+    DATA = await r.json();
+    render();
+  } catch (e) {
+    $("#main").innerHTML = `<div class="empty">Couldn't load data.json yet. The first sync may still be running.</div>`;
+    $("#synced").textContent = "Not synced";
+  }
+}
+
+$("#chips").addEventListener("click", (e) => {
+  const btn = e.target.closest(".chip");
+  if (!btn) return;
+  filter = btn.dataset.f;
+  try { localStorage.setItem("ln.filter", filter); } catch (err) {}
+  render();
+});
+$("#q").addEventListener("input", render);
+$("#sort").addEventListener("change", () => { try { localStorage.setItem("ln.sort", $("#sort").value); } catch (e) {} render(); });
+$("#reload").addEventListener("click", load);
+try { const s = localStorage.getItem("ln.sort"); if (s) $("#sort").value = s; } catch (e) {}
+const setHdr = () => document.documentElement.style.setProperty("--hdr", $("#hdr").offsetHeight + "px");
+window.addEventListener("resize", setHdr); setHdr();
+document.addEventListener("visibilitychange", () => { if (!document.hidden && DATA && Date.now() - new Date(DATA.generated_at) > 30 * 60000) load(); });
+load();
+</script>
+</body>
+</html>

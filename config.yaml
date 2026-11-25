@@ -1,0 +1,48 @@
+# ─────────────────────────────────────────────────────────────
+#  Audiobook Queue — your settings
+#  Edit the values below, commit, and the next sync picks them up.
+# ─────────────────────────────────────────────────────────────
+
+goodreads:
+  # Your Goodreads user ID: the number in your profile URL.
+  #   https://www.goodreads.com/user/show/12345678-jane-doe  →  12345678
+  user_id: "12345678"
+
+  # Optional: the "key=" value from your shelf's RSS link. You only need it
+  # if your profile is private. (Shelf page → scroll to the bottom → RSS icon.)
+  rss_key: ""
+
+  # Shelf to track. "to-read" is the standard Goodreads want-to-read shelf.
+  shelf: "to-read"
+
+  # Friends whose "read" shelves are checked for your to-read books.
+  # Their profiles must be public (or visible to "anyone").
+  # The ID is the number in their profile URL. Name is optional.
+  friends:
+    # - id: "23456789"
+    #   name: "Sam"
+    # - id: "34567890"
+
+# Libby / OverDrive libraries. The key is the word in your Libby URL:
+#   https://libbyapp.com/library/lapl  →  lapl
+# List more than one if you have several library cards.
+libby:
+  libraries:
+    - key: "lapl"
+      name: "LA Public Library"
+
+hoopla:
+  enabled: true
+
+buy:
+  # Look up Audible prices (US store). Set to false to show only search links.
+  audible_prices: true
+  # Show a Libro.fm search link (buys audiobooks while supporting indie bookstores).
+  librofm_link: true
+
+# Optional phone notifications when a book becomes available.
+# Uses ntfy.sh (free, no account): install the ntfy app, subscribe to a
+# hard-to-guess topic name, then add that name as a GitHub secret
+# called NTFY_TOPIC. Nothing else to set here.
+notifications:
+  notify_on_new_availability: true
