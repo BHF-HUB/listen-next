@@ -6,7 +6,7 @@
 goodreads:
   # Your Goodreads user ID: the number in your profile URL.
   #   https://www.goodreads.com/user/show/12345678-jane-doe  →  12345678
-  user_id: "12345678"
+  user_id: "193243785"
 
   # Optional: the "key=" value from your shelf's RSS link. You only need it
   # if your profile is private. (Shelf page → scroll to the bottom → RSS icon.)
@@ -19,17 +19,18 @@ goodreads:
   # Their profiles must be public (or visible to "anyone").
   # The ID is the number in their profile URL. Name is optional.
   friends:
-    # - id: "23456789"
-    #   name: "Sam"
-    # - id: "34567890"
+    # - id: "192924278"
+    #   name: "AM"
+    # - id: "92294534"
+    #   name: "KV"
 
 # Libby / OverDrive libraries. The key is the word in your Libby URL:
 #   https://libbyapp.com/library/lapl  →  lapl
 # List more than one if you have several library cards.
 libby:
   libraries:
-    - key: "lapl"
-      name: "LA Public Library"
+    - key: "minuteman"
+      name: "Minuteman"
 
 hoopla:
   enabled: true
