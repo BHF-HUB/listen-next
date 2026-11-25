@@ -52,14 +52,13 @@ def log(msg):
 def load_shelf(cfg, errors):
     gr = cfg["goodreads"]
     try:
-        _, books = goodreads.fetch_shelf(str(gr["user_id"]), gr.get("shelf", "to-read"),
-                                         gr.get("rss_key", ""))
+        _, books = goodreads.fetch_shelf(str(gr["user_id"]), gr.get("shelf", "to-read"))
         log(f"Goodreads: {len(books)} books on '{gr.get('shelf', 'to-read')}'")
         if books:
             return books
     except Exception as e:
         errors.append(f"Goodreads shelf: {e}")
-        log(f"!! Goodreads RSS failed: {e}")
+        log(f"!! Goodreads shelf page failed: {e}")
     if CSV_FALLBACK.exists():
         books = goodreads.load_export_csv(CSV_FALLBACK, gr.get("shelf", "to-read"))
         log(f"Using Goodreads export CSV fallback: {len(books)} books")
@@ -84,7 +83,7 @@ def load_friends(cfg, errors):
             entry = {
                 "name": name,
                 "profile_url": f"https://www.goodreads.com/user/show/{fid}",
-                "rating": int(b["user_rating"]) if b.get("user_rating", "").isdigit() else 0,
+                "rating": b.get("user_rating") or 0,
                 "review": (b.get("user_review") or "")[:600],
                 "review_url": b.get("review_url"),
                 "read_at": b.get("read_at"),

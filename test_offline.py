@@ -12,22 +12,50 @@ from unittest import mock
 from sync import __main__ as runner
 from sync import goodreads, http, libby, matching
 
-RSS_TEMPLATE = """<?xml version="1.0"?><rss version="2.0"><channel>
-<title>{owner}'s bookshelf: {shelf}</title>{items}</channel></rss>"""
-ITEM = """<item><title><![CDATA[{title}]]></title><link><![CDATA[https://www.goodreads.com/review/show/{rid}?utm_source=rss]]></link>
-<book_id>{bid}</book_id><book_large_image_url><![CDATA[https://img/{bid}.jpg]]></book_large_image_url>
-<author_name>{author}</author_name><isbn>{isbn}</isbn><user_rating>{rating}</user_rating>
-<user_read_at></user_read_at><user_date_added><![CDATA[Mon, 03 Nov 2026 10:00:00 -0800]]></user_date_added>
-<average_rating>4.12</average_rating><book_published>2020</book_published>
-<user_review><![CDATA[{review}]]></user_review><book id="{bid}"><num_pages>400</num_pages></book></item>"""
+STARS = {0: "", 1: "did not like it", 2: "it was ok", 3: "liked it",
+         4: "really liked it", 5: "it was amazing"}
+PAGE_TEMPLATE = """<!DOCTYPE html><html><head><title>{owner}’s {shelf} books on Goodreads ({n} books)</title></head>
+<body><table id="books" class="table stacked"><thead><tr><th>cover</th></tr></thead><tbody id="booksBody">{rows}</tbody></table></body></html>"""
+ROW = """<tr id="review_{rid}" class="bookalike review">
+<td class="field cover"><div class="value"><a href="/book/show/{bid}-x"><img alt="{title}" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1/{bid}._SY75_.jpg"></a></div></td>
+<td class="field title"><label>title</label><div class="value"><a title="{title}" href="/book/show/{bid}-slug">{title}</a></div></td>
+<td class="field author"><label>author</label><div class="value"><a href="/author/show/1.x">{author_lf}</a>*</div></td>
+<td class="field isbn"><label>isbn</label><div class="value">9780000000{bid}</div></td>
+<td class="field avg_rating"><label>avg rating</label><div class="value">4.12</div></td>
+<td class="field rating"><label>Betsy's rating</label><div class="value">{stars}</div></td>
+<td class="field review"><label>review</label><div class="value">{review}</div></td>
+<td class="field date_read"><label>date read</label><div class="value"><span class="date_read_value">Oct 01, 2026</span></div></td>
+<td class="field date_added"><label>date added</label><div class="value"><span title="November 3, 2026">Nov 03, 2026</span></div></td>
+</tr>"""
 
 
-def rss(owner, shelf, books):
-    items = "".join(ITEM.format(rid=i, bid=b[0], title=b[1], author=b[2], isbn="",
-                                rating=b[3] if len(b) > 3 else 0,
-                                review=b[4] if len(b) > 4 else "")
-                    for i, b in enumerate(books))
-    return RSS_TEMPLATE.format(owner=owner, shelf=shelf, items=items)
+def stars_html(r):
+    if not r:
+        return '<span class=" staticStars notranslate"></span>'
+    if r != int(r):  # half-star rating, no text title
+        icons = '<span class="staticStar p10"></span>' * int(r) + '<span class="staticStar p5"></span>'
+        return f'<span class=" staticStars notranslate">{icons}</span>'
+    return f'<span class=" staticStars notranslate" title="{STARS[int(r)]}"></span>'
+
+
+def review_html(rid, text):
+    if not text:
+        return '<a href="/review/edit/1">Write a review</a>'
+    return (f'<span id="freeTextContainer{rid}">{text[:20]}</span>'
+            f'<span id="freeText{rid}" style="display:none">{text}</span>')
+
+
+def lf(name):  # "Andy Weir" -> "Weir, Andy"
+    first, _, last = name.rpartition(" ")
+    return f"{last}, {first}" if first else name
+
+
+def page(owner, shelf, books):
+    rows = "".join(ROW.format(rid=1000 + i, bid=b[0], title=b[1], author_lf=lf(b[2]),
+                              stars=stars_html(b[3] if len(b) > 3 else 0),
+                              review=review_html(1000 + i, b[4] if len(b) > 4 else ""))
+                   for i, b in enumerate(books))
+    return PAGE_TEMPLATE.format(owner=owner, shelf=shelf, n=len(books), rows=rows)
 
 
 MY_SHELF = [
@@ -38,7 +66,7 @@ MY_SHELF = [
 ]
 FRIEND_SHELF = [
     ("999", "Educated", "Tara Westover", 5, "Couldn't put it down.<br/>Read it!"),  # other edition
-    ("4", "Project Hail Mary", "Andy Weir", 4, ""),
+    ("4", "Project Hail Mary", "Andy Weir", 4.5, ""),
 ]
 
 OD_ITEMS = {
@@ -67,12 +95,12 @@ class FakeResp:
 
 def fake_get(url, host_key=None, min_interval=0, params=None, **kw):
     params = params or {}
-    if "goodreads.com/review/list_rss/" in url:
-        if params.get("page", 1) > 1:
-            return FakeResp(text=rss("x", "x", []))
+    if "goodreads.com/review/list/" in url:
+        if params.get("page", 1) > 1:   # Goodreads repeats/ends; we stop when nothing new
+            return FakeResp(text=page("x", "x", []))
         if url.endswith("/555"):
-            return FakeResp(text=rss("Sam", "read", FRIEND_SHELF))
-        return FakeResp(text=rss("Me", "to-read", MY_SHELF))
+            return FakeResp(text=page("Sam", "read", FRIEND_SHELF))
+        return FakeResp(text=page("Betsy", "to-read", MY_SHELF))
     if "thunder.api.overdrive.com" in url:
         q = params.get("query", "")
         for k, items in OD_ITEMS.items():
@@ -118,16 +146,31 @@ class Matching(unittest.TestCase):
 
 
 class Parsing(unittest.TestCase):
-    def test_rss(self):
-        owner, books = goodreads.parse_rss(rss("Jane", "read", FRIEND_SHELF))
-        self.assertTrue(owner.startswith("Jane"))
-        self.assertEqual(books[0]["user_rating"], "5")
-        self.assertEqual(books[0]["user_review"], "Couldn't put it down.\nRead it!")
-        self.assertEqual(books[0]["review_url"], "https://www.goodreads.com/review/show/0")
+    def test_shelf_page(self):
+        owner, books = goodreads.parse_shelf_page(page("Jane", "read", FRIEND_SHELF))
+        self.assertEqual(owner, "Jane")
+        b = books[0]
+        self.assertEqual((b["goodreads_id"], b["title"], b["author"]), ("999", "Educated", "Tara Westover"))
+        self.assertEqual(b["user_rating"], 5)
+        self.assertEqual(b["user_review"], "Couldn't put it down.\nRead it!")
+        self.assertEqual(b["review_url"], "https://www.goodreads.com/review/show/1000")
+        self.assertEqual(b["date_added"], "November 3, 2026")
+        self.assertTrue(b["cover"].endswith("/999.jpg"))
+        self.assertEqual(books[1]["user_rating"], 4.5)   # half stars
+        self.assertEqual(books[1]["user_review"], "")
 
-    def test_bad_rss(self):
+    def test_series_title_and_author(self):
+        _, books = goodreads.parse_shelf_page(page("Me", "to-read", MY_SHELF))
+        self.assertEqual(books[0]["title"], "Leviathan Wakes (The Expanse, #1)")
+        self.assertEqual(books[0]["author"], "James S.A. Corey")
+
+    def test_private_profile(self):
         with self.assertRaises(goodreads.GoodreadsError):
-            goodreads.parse_rss("<html>login</html")
+            goodreads.parse_shelf_page("<html><body>This profile is private. Sign in</body></html>")
+
+    def test_layout_change(self):
+        with self.assertRaises(goodreads.GoodreadsError):
+            goodreads.parse_shelf_page("<html><body><div>new layout</div></body></html>")
 
     def test_libby_summary(self):
         s = libby.summarise(OD_ITEMS["Educated"][1], "lapl", "LAPL")
@@ -166,7 +209,7 @@ notifications: {notify_on_new_availability: true}
                 self.assertEqual(by["3"]["libby"][0]["status"], "not_owned")
                 self.assertEqual(by["4"]["libby"][0]["status"], "always")
                 self.assertEqual(by["4"]["buy"]["audible"]["price"], 17.47)
-                self.assertEqual(by["4"]["friends"][0]["rating"], 4)
+                self.assertEqual(by["4"]["friends"][0]["rating"], 4.5)
 
                 # Second run: book 2 becomes available -> counted as newly available + notified
                 OD_ITEMS["Educated"][1].update(isAvailable=True, availableCopies=1)

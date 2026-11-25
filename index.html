@@ -206,7 +206,8 @@ function buyPills(buy) {
 
 function friendHtml(f) {
   const initials = f.name.split(/\s+/).map((p) => p[0]).join("").slice(0, 2).toUpperCase();
-  const stars = f.rating ? `<span class="stars">${"★".repeat(f.rating)}${"☆".repeat(5 - f.rating)}</span>` : `<span class="author" style="margin:0">read it</span>`;
+  const r = Number(f.rating) || 0, full = Math.floor(r), half = r - full >= 0.5;
+  const stars = r ? `<span class="stars" aria-label="${r} of 5 stars">${"★".repeat(full)}${half ? "½" : ""}${"☆".repeat(5 - full - (half ? 1 : 0))}</span>` : `<span class="author" style="margin:0">read it</span>`;
   const body = f.review
     ? `<div class="review">${esc(f.review)}${f.review.length >= 600 ? "…" : ""} <a href="${esc(f.review_url)}" target="_blank" rel="noopener">Full review</a></div>`
     : `<div class="review">No written review. <a href="${esc(f.review_url || f.profile_url)}" target="_blank" rel="noopener">View on Goodreads</a></div>`;
