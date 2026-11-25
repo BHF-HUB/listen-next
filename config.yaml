@@ -7,7 +7,7 @@ goodreads:
   # Your Goodreads user ID: the number in your profile URL.
   #   https://www.goodreads.com/user/show/12345678-jane-doe  →  12345678
   user_id: "193243785"
-
+  source: "csv"
   # Shelf to track. "to-read" is the standard Goodreads want-to-read shelf.
   shelf: "to-read"
 
@@ -35,7 +35,7 @@ buy:
   # Look up Audible prices (US store). Set to false to show only search links.
   audible_prices: true
   # Show a Libro.fm search link (buys audiobooks while supporting indie bookstores).
-  librofm_link: true
+  librofm_link: false
 
 # Optional phone notifications when a book becomes available.
 # Uses ntfy.sh (free, no account): install the ntfy app, subscribe to a
