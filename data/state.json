@@ -325,8 +325,8 @@
    "now_since": null
   },
   "219848315": {
-   "best": "hold",
-   "now_since": null
+   "best": "now",
+   "now_since": "2026-11-27T01:45:50.832742+00:00"
   },
   "16158546": {
    "best": "now",
