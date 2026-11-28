@@ -1,0 +1,6834 @@
+{
+ "generated_at": "2026-11-28T07:41:07.382370+00:00",
+ "duration_sec": 67,
+ "goodreads_user": "193243785",
+ "shelf": "to-read",
+ "libraries": [
+  {
+   "key": "minuteman",
+   "name": "Minuteman"
+  }
+ ],
+ "friends_tracked": 0,
+ "errors": [],
+ "books": [
+  {
+   "id": "35900387",
+   "title": "Eleanor Oliphant Is Completely Fine",
+   "full_title": "Eleanor Oliphant Is Completely Fine",
+   "author": "Gail Honeyman",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/35900387",
+   "date_added": "11/24/2026",
+   "avg_rating": "",
+   "year": "2017",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "2911091",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/2911091",
+     "share_url": "https://share.libbyapp.com/title/2911091",
+     "owned": 59,
+     "available_copies": 25,
+     "holds": 0,
+     "wait_days": 1,
+     "narrators": [
+      "Cathleen McCarron"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Eleanor%20Oliphant%20Is%20Completely%20Fine%20honeyman&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Eleanor%20Oliphant%20Is%20Completely%20Fine%20honeyman",
+    "audible": {
+     "asin": "B06XYT3G6M",
+     "price": 18.9,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B06XYT3G6M",
+     "narrators": [
+      "Cathleen McCarron"
+     ],
+     "runtime_min": 662
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:49:24.015030+00:00"
+  },
+  {
+   "id": "240019977",
+   "title": "Sweet Pea",
+   "full_title": "Sweet Pea",
+   "author": "Kit de Waal",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/240019977",
+   "date_added": "11/16/2026",
+   "avg_rating": "",
+   "year": "2025",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "12266452",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12266452",
+     "share_url": "https://share.libbyapp.com/title/12266452",
+     "owned": 4,
+     "available_copies": 0,
+     "holds": 139,
+     "wait_days": 490,
+     "narrators": [
+      "Sara Powell"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "18435857",
+    "url": "https://www.hoopladigital.com/title/18435857"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Sweet%20Pea%20waal",
+    "audible": {
+     "asin": "B0FRB517N7",
+     "price": 18.74,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0FRB517N7",
+     "narrators": [
+      "Sara Powell"
+     ],
+     "runtime_min": 464
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:49:24.547231+00:00"
+  },
+  {
+   "id": "250343103",
+   "title": "Solace in Winter",
+   "full_title": "Solace in Winter (Solace, #2)",
+   "author": "Mary Lawson",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/250343103",
+   "date_added": "11/16/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "12976752",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12976752",
+     "share_url": "https://share.libbyapp.com/title/12976752",
+     "owned": 12,
+     "available_copies": 0,
+     "holds": 157,
+     "wait_days": 185,
+     "narrators": [
+      "James Downing",
+      "John Wamsley",
+      "Anne Van Leeuwen",
+      "Benjamin Blais"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Solace%20in%20Winter%20lawson&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Solace%20in%20Winter%20lawson",
+    "audible": {
+     "asin": "B0GS4RQDSY",
+     "price": 27.4,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0GS4RQDSY",
+     "narrators": [
+      "James Downing",
+      "John Wamsley",
+      "Anne Van Leeuwen",
+      "Benjamin Blais"
+     ],
+     "runtime_min": 577
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "243647823",
+   "title": "The Things We Cannot Say",
+   "full_title": "The Things We Cannot Say",
+   "author": "Kelly Rimmer",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/243647823",
+   "date_added": "11/16/2026",
+   "avg_rating": "",
+   "year": "2019",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "4493259",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/4493259",
+     "share_url": "https://share.libbyapp.com/title/4493259",
+     "owned": 18,
+     "available_copies": 8,
+     "holds": 0,
+     "wait_days": 3,
+     "narrators": [
+      "Ann Marie Gideon",
+      "Nancy Peterson"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "12291312",
+    "url": "https://www.hoopladigital.com/title/12291312"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Things%20We%20Cannot%20Say%20rimmer",
+    "audible": {
+     "asin": "B07MBBHPQ5",
+     "price": 29.69,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B07MBBHPQ5",
+     "narrators": [
+      "Ann Marie Gideon",
+      "Nancy Peterson"
+     ],
+     "runtime_min": 827
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:49:26.317038+00:00"
+  },
+  {
+   "id": "58438537",
+   "title": "Yellow Wife",
+   "full_title": "Yellow Wife",
+   "author": "Sadeqa  Johnson",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/58438537",
+   "date_added": "11/16/2026",
+   "avg_rating": "",
+   "year": "2021",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "5589570",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/5589570",
+     "share_url": "https://share.libbyapp.com/title/5589570",
+     "owned": 3,
+     "available_copies": 0,
+     "holds": 34,
+     "wait_days": 164,
+     "narrators": [
+      "Robin Miles"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Yellow%20Wife%20johnson&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Yellow%20Wife%20johnson",
+    "audible": {
+     "asin": "1797118811",
+     "price": 19.49,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/1797118811",
+     "narrators": [
+      "Robin Miles"
+     ],
+     "runtime_min": 571
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "59903149",
+   "title": "Strong Female Character",
+   "full_title": "Strong Female Character",
+   "author": "Fern  Brady",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/59903149",
+   "date_added": "11/10/2026",
+   "avg_rating": "",
+   "year": "2023",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "9596137",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/9596137",
+     "share_url": "https://share.libbyapp.com/title/9596137",
+     "owned": 2,
+     "available_copies": 0,
+     "holds": 5,
+     "wait_days": 84,
+     "narrators": [
+      "Fern Brady"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "15749135",
+    "url": "https://www.hoopladigital.com/title/15749135"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Strong%20Female%20Character%20brady",
+    "audible": {
+     "asin": "B0BVGRB13Q",
+     "price": 15.75,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0BVGRB13Q",
+     "narrators": [
+      "Fern Brady"
+     ],
+     "runtime_min": 403
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:49:28.838938+00:00"
+  },
+  {
+   "id": "222476127",
+   "title": "Where the Wildflowers Grow",
+   "full_title": "Where the Wildflowers Grow",
+   "author": "Terah Shelton Harris",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/222476127",
+   "date_added": "11/10/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "12481230",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12481230",
+     "share_url": "https://share.libbyapp.com/title/12481230",
+     "owned": 16,
+     "available_copies": 0,
+     "holds": 116,
+     "wait_days": 205,
+     "narrators": [
+      "Tracie Thoms",
+      "Diontae Black",
+      "Terah Shelton Harris"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Where%20the%20Wildflowers%20Grow%20harris&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Where%20the%20Wildflowers%20Grow%20harris",
+    "audible": {
+     "asin": "B0FXJ5LPPT",
+     "price": 7.99,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0FXJ5LPPT",
+     "narrators": [
+      "Tracie Thoms",
+      "Diontae Black",
+      "Terah Shelton Harris"
+     ],
+     "runtime_min": 786
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "248116509",
+   "title": "Partita",
+   "full_title": "Partita",
+   "author": "Barbara Kingsolver",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/248116509",
+   "date_added": "11/10/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "12891995",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12891995",
+     "share_url": "https://share.libbyapp.com/title/12891995",
+     "owned": 57,
+     "available_copies": 0,
+     "holds": 733,
+     "wait_days": 643,
+     "narrators": [
+      "Megan Tusing"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Partita%20kingsolver&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Partita%20kingsolver",
+    "audible": {
+     "asin": "B0GNPF41M5",
+     "price": 29.69,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0GNPF41M5",
+     "narrators": [
+      "Megan Tusing"
+     ],
+     "runtime_min": 863
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "244969690",
+   "title": "Switzy",
+   "full_title": "Switzy",
+   "author": "Emma Cline",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/244969690",
+   "date_added": "11/10/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "12776941",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12776941",
+     "share_url": "https://share.libbyapp.com/title/12776941",
+     "owned": 40,
+     "available_copies": 0,
+     "holds": 188,
+     "wait_days": 133,
+     "narrators": [
+      "Robert Petkoff"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Switzy%20cline&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Switzy%20cline",
+    "audible": {
+     "asin": "B0GG157NSJ",
+     "price": 20.79,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0GG157NSJ",
+     "narrators": [
+      "Robert Petkoff"
+     ],
+     "runtime_min": 594
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "242082631",
+   "title": "The Things We Never Say",
+   "full_title": "The Things We Never Say",
+   "author": "Elizabeth Strout",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/242082631",
+   "date_added": "11/10/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "12368824",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12368824",
+     "share_url": "https://share.libbyapp.com/title/12368824",
+     "owned": 155,
+     "available_copies": 2,
+     "holds": 664,
+     "wait_days": 194,
+     "narrators": [
+      "Robert Petkoff"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "17252488",
+    "url": "https://www.hoopladigital.com/title/17252488"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Things%20We%20Never%20Say%20strout",
+    "audible": {
+     "asin": "B0FSTD8QBZ",
+     "price": 20.79,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0FSTD8QBZ",
+     "narrators": [
+      "Robert Petkoff"
+     ],
+     "runtime_min": 395
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:49:34.013481+00:00"
+  },
+  {
+   "id": "242975253",
+   "title": "Etna",
+   "full_title": "Etna",
+   "author": "Paul Yoon",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/242975253",
+   "date_added": "11/10/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "12449360",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12449360",
+     "share_url": "https://share.libbyapp.com/title/12449360",
+     "owned": 14,
+     "available_copies": 0,
+     "holds": 167,
+     "wait_days": 588,
+     "narrators": [
+      "Shrader Thomas"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Etna%20yoon&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Etna%20yoon",
+    "audible": {
+     "asin": "B0FXHPWHPY",
+     "price": 11.24,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0FXHPWHPY",
+     "narrators": [
+      "Shrader Thomas"
+     ],
+     "runtime_min": 207
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "242977911",
+   "title": "The Burning Side",
+   "full_title": "The Burning Side",
+   "author": "Sarah Damoff",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/242977911",
+   "date_added": "11/10/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "12449641",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12449641",
+     "share_url": "https://share.libbyapp.com/title/12449641",
+     "owned": 47,
+     "available_copies": 0,
+     "holds": 129,
+     "wait_days": 73,
+     "narrators": [
+      "Stacy Gonzalez",
+      "Timothy Andr\u00e9s Pabon",
+      "Jackie Sanders"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20Burning%20Side%20damoff&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Burning%20Side%20damoff",
+    "audible": {
+     "asin": "B0FXHPTZV7",
+     "price": 20.24,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0FXHPTZV7",
+     "narrators": [
+      "Stacy Gonzalez",
+      "Timothy Andr\u00e9s Pabon",
+      "Jackie Sanders"
+     ],
+     "runtime_min": 561
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "246462348",
+   "title": "Love, Like Apples",
+   "full_title": "Love, Like Apples",
+   "author": "Jeff Zentner",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/246462348",
+   "date_added": "11/10/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "12777686",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12777686",
+     "share_url": "https://share.libbyapp.com/title/12777686",
+     "owned": 2,
+     "available_copies": 0,
+     "holds": 105,
+     "wait_days": 742,
+     "narrators": [
+      "Charlie Thurston"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Love%2C%20Like%20Apples%20zentner&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Love%2C%20Like%20Apples%20zentner",
+    "audible": {
+     "asin": "B0GGCK5LY2",
+     "price": 26.45,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0GGCK5LY2",
+     "narrators": [
+      "Charlie Thurston"
+     ],
+     "runtime_min": 668
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "246254464",
+   "title": "Friends and Family",
+   "full_title": "Friends and Family",
+   "author": "Natalie Baszile",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/246254464",
+   "date_added": "11/4/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-Friends%20and%20Family/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Friends%20and%20Family%20baszile&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Friends%20and%20Family%20baszile",
+    "audible": {
+     "asin": "B0GM51Y9TB",
+     "price": 21.6,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0GM51Y9TB",
+     "narrators": [
+      "Karen Murray"
+     ],
+     "runtime_min": 732
+    }
+   },
+   "friends": [],
+   "best": "buy",
+   "available_since": null
+  },
+  {
+   "id": "179272908",
+   "title": "Munich Wolf",
+   "full_title": "Munich Wolf (Sebastian Wolff #1)",
+   "author": "Rory Clements",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/179272908",
+   "date_added": "11/4/2026",
+   "avg_rating": "",
+   "year": "2024",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-Munich%20Wolf/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "16628106",
+    "url": "https://www.hoopladigital.com/title/16628106"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Munich%20Wolf%20clements",
+    "audible": {
+     "asin": "B0CVS8YY7R",
+     "price": 21.91,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0CVS8YY7R",
+     "narrators": [
+      "Adam Sims"
+     ],
+     "runtime_min": 772
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:49:40.727807+00:00"
+  },
+  {
+   "id": "245670591",
+   "title": "Hollow Bones",
+   "full_title": "Hollow Bones",
+   "author": "Jodi Picoult",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/245670591",
+   "date_added": "11/2/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "12777369",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12777369",
+     "share_url": "https://share.libbyapp.com/title/12777369",
+     "owned": 87,
+     "available_copies": 1,
+     "holds": 837,
+     "wait_days": 587,
+     "narrators": [
+      "Rebecca Soler",
+      "MacLeod Andrews",
+      "Julia Whelan",
+      "Jodi Picoult"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "18009970",
+    "url": "https://www.hoopladigital.com/title/18009970"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Hollow%20Bones%20picoult",
+    "audible": {
+     "asin": "B0GFZMP7D6",
+     "price": 25.2,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0GFZMP7D6",
+     "narrators": [
+      "Rebecca Soler",
+      "MacLeod Andrews",
+      "Julia Whelan",
+      "Jodi Picoult"
+     ],
+     "runtime_min": 939
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:49:41.319270+00:00"
+  },
+  {
+   "id": "76401",
+   "title": "Bury My Heart at Wounded Knee: An Indian History of the American West",
+   "full_title": "Bury My Heart at Wounded Knee: An Indian History of the American West",
+   "author": "Dee Brown",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/76401",
+   "date_added": "10/15/2026",
+   "avg_rating": "",
+   "year": "1970",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "274285",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/274285",
+     "share_url": "https://share.libbyapp.com/title/274285",
+     "owned": 3,
+     "available_copies": 0,
+     "holds": 4,
+     "wait_days": 24,
+     "narrators": [
+      "Grover Gardner"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "13486011",
+    "url": "https://www.hoopladigital.com/title/13486011"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Bury%20My%20Heart%20at%20Wounded%20Knee%20brown",
+    "audible": {
+     "asin": "B002V9ZEA4",
+     "price": 20.49,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B002V9ZEA4",
+     "narrators": [
+      "Grover Gardner"
+     ],
+     "runtime_min": 860
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:49:42.002142+00:00"
+  },
+  {
+   "id": "222794853",
+   "title": "The First Witch of Boston",
+   "full_title": "The First Witch of Boston",
+   "author": "Andrea  Catalano",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/222794853",
+   "date_added": "11/25/2025",
+   "avg_rating": "",
+   "year": "2025",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-The%20First%20Witch%20of%20Boston/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "11993848",
+    "url": "https://www.hoopladigital.com/title/11993848"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20First%20Witch%20of%20Boston%20catalano",
+    "audible": {
+     "asin": "B0DYLHRQGN",
+     "price": 20.48,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0DYLHRQGN",
+     "narrators": [
+      "Kevin Marron",
+      "Lucy Rayner"
+     ],
+     "runtime_min": 641
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:49:42.920276+00:00"
+  },
+  {
+   "id": "242376245",
+   "title": "Theo of Golden",
+   "full_title": "Theo of Golden",
+   "author": "Allen  Levi",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/242376245",
+   "date_added": "12/22/2025",
+   "avg_rating": "",
+   "year": "2023",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "12410594",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12410594",
+     "share_url": "https://share.libbyapp.com/title/12410594",
+     "owned": 383,
+     "available_copies": 0,
+     "holds": 1428,
+     "wait_days": 230,
+     "narrators": [
+      "David Morse"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Theo%20of%20Golden%20levi&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Theo%20of%20Golden%20levi",
+    "audible": {
+     "asin": "B0FTT6KFKR",
+     "price": 22.49,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0FTT6KFKR",
+     "narrators": [
+      "David Morse"
+     ],
+     "runtime_min": 792
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "243319819",
+   "title": "All That's Unseen: An Appalachian Memoir",
+   "full_title": "All That's Unseen: An Appalachian Memoir",
+   "author": "Emilee Hackney",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/243319819",
+   "date_added": "10/15/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "12509734",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12509734",
+     "share_url": "https://share.libbyapp.com/title/12509734",
+     "owned": 11,
+     "available_copies": 0,
+     "holds": 76,
+     "wait_days": 270,
+     "narrators": [
+      "Emilee Hackney"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=All%20That%27s%20Unseen%20hackney&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=All%20That%27s%20Unseen%20hackney",
+    "audible": {
+     "asin": "B0FY513MWG",
+     "price": 20.7,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0FY513MWG",
+     "narrators": [
+      "Emilee Hackney"
+     ],
+     "runtime_min": 676
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "182733784",
+   "title": "Nuclear War: A Scenario",
+   "full_title": "Nuclear War: A Scenario",
+   "author": "Annie Jacobsen",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/182733784",
+   "date_added": "10/15/2026",
+   "avg_rating": "",
+   "year": "2024",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "10043401",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/10043401",
+     "share_url": "https://share.libbyapp.com/title/10043401",
+     "owned": 9,
+     "available_copies": 0,
+     "holds": 15,
+     "wait_days": 32,
+     "narrators": [
+      "Annie Jacobsen"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Nuclear%20War%20jacobsen&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Nuclear%20War%20jacobsen",
+    "audible": {
+     "asin": "B0CF6R3R7W",
+     "price": 20.25,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0CF6R3R7W",
+     "narrators": [
+      "Annie Jacobsen"
+     ],
+     "runtime_min": 679
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "54063343",
+   "title": "Hour of the Witch",
+   "full_title": "Hour of the Witch",
+   "author": "Chris Bohjalian",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/54063343",
+   "date_added": "10/10/2026",
+   "avg_rating": "",
+   "year": "2021",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "5537294",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/5537294",
+     "share_url": "https://share.libbyapp.com/title/5537294",
+     "owned": 4,
+     "available_copies": 1,
+     "holds": 0,
+     "wait_days": 14,
+     "narrators": [
+      "Grace Experience",
+      "Saskia Maarleveld",
+      "Danny Campbell",
+      "Cassandra Campbell",
+      "Arthur Morey",
+      "Mark Deakins",
+      "Julia Whelan",
+      "Kaleo Griffith",
+      "Kirby Heyborne",
+      "Rebecca Lowman",
+      "Mark Bramhall"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Hour%20of%20the%20Witch%20bohjalian&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Hour%20of%20the%20Witch%20bohjalian",
+    "audible": {
+     "asin": "0593348826",
+     "price": 21.26,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/0593348826",
+     "narrators": [
+      "Grace Experience",
+      "Saskia Maarleveld",
+      "Danny Campbell",
+      "Cassandra Campbell",
+      "Arthur Morey",
+      "Mark Deakins",
+      "Julia Whelan",
+      "Kaleo Griffith",
+      "Kirby Heyborne",
+      "Rebecca Lowman",
+      "Mark Bramhall"
+     ],
+     "runtime_min": 848
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:49:47.687769+00:00"
+  },
+  {
+   "id": "58464584",
+   "title": "You Better Be Lightning",
+   "full_title": "You Better Be Lightning",
+   "author": "Andrea Gibson",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/58464584",
+   "date_added": "10/10/2026",
+   "avg_rating": "",
+   "year": "2021",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-You%20Better%20Be%20Lightning/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=You%20Better%20Be%20Lightning%20gibson&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=You%20Better%20Be%20Lightning%20gibson",
+    "audible": {
+     "asin": "B09P2QK9HH",
+     "price": 9.11,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B09P2QK9HH",
+     "narrators": [
+      "Andrea Gibson"
+     ],
+     "runtime_min": 118
+    }
+   },
+   "friends": [],
+   "best": "buy",
+   "available_since": null
+  },
+  {
+   "id": "243596291",
+   "title": "Fruit Fly",
+   "full_title": "Fruit Fly",
+   "author": "Josh  Silver",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/243596291",
+   "date_added": "9/26/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "13338759",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/13338759",
+     "share_url": "https://share.libbyapp.com/title/13338759",
+     "owned": 27,
+     "available_copies": 0,
+     "holds": 377,
+     "wait_days": 882,
+     "narrators": [
+      "Will M Watt",
+      "Fiona Mitchell"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "20043525",
+    "url": "https://www.hoopladigital.com/title/20043525"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Fruit%20Fly%20silver",
+    "audible": {
+     "asin": "B0GTMTNVXQ",
+     "price": 20.96,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0GTMTNVXQ",
+     "narrators": [
+      "Will M Watt",
+      "Fiona Mitchell"
+     ],
+     "runtime_min": 713
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:49:49.854399+00:00"
+  },
+  {
+   "id": "244942030",
+   "title": "Life, and Death, and Giants",
+   "full_title": "Life, and Death, and Giants",
+   "author": "Ron Rindo",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/244942030",
+   "date_added": "9/22/2026",
+   "avg_rating": "",
+   "year": "2025",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "11638596",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/11638596",
+     "share_url": "https://share.libbyapp.com/title/11638596",
+     "owned": 14,
+     "available_copies": 1,
+     "holds": 127,
+     "wait_days": 448,
+     "narrators": [
+      "Christina Moore",
+      "Johnny Heller",
+      "Roger Wayne",
+      "Will Damron"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "18067122",
+    "url": "https://www.hoopladigital.com/title/18067122"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Life%2C%20and%20Death%2C%20and%20Giants%20rindo",
+    "audible": {
+     "asin": "B0F2P9CS36",
+     "price": 21.25,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0F2P9CS36",
+     "narrators": [
+      "Christina Moore",
+      "Johnny Heller",
+      "Roger Wayne",
+      "Will Damron"
+     ],
+     "runtime_min": 689
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:49:50.554724+00:00"
+  },
+  {
+   "id": "223641004",
+   "title": "The Pirate Queen",
+   "full_title": "The Pirate Queen",
+   "author": "Ariel Lawhon",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/223641004",
+   "date_added": "9/10/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "12807725",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12807725",
+     "share_url": "https://share.libbyapp.com/title/12807725",
+     "owned": 126,
+     "available_copies": 1,
+     "holds": 1132,
+     "wait_days": 289,
+     "narrators": [
+      "Tara Flynn",
+      "Ariel Lawhon"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "10756517",
+    "url": "https://www.hoopladigital.com/title/10756517"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Pirate%20Queen%20lawhon",
+    "audible": {
+     "asin": "B0GGMXVF99",
+     "price": 27.0,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0GGMXVF99",
+     "narrators": [
+      "Tara Flynn",
+      "Ariel Lawhon"
+     ],
+     "runtime_min": 1107
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:49:51.066720+00:00"
+  },
+  {
+   "id": "214151487",
+   "title": "The Women on Platform Two",
+   "full_title": "The Women on Platform Two",
+   "author": "Laura     Anthony",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/214151487",
+   "date_added": "9/8/2026",
+   "avg_rating": "",
+   "year": "2025",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "10823892",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/10823892",
+     "share_url": "https://share.libbyapp.com/title/10823892",
+     "owned": 11,
+     "available_copies": 0,
+     "holds": 100,
+     "wait_days": 472,
+     "narrators": [
+      "Jessica Regan",
+      "Shakira Shute",
+      "Maeve Smyth"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20Women%20on%20Platform%20Two%20anthony&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Women%20on%20Platform%20Two%20anthony",
+    "audible": {
+     "asin": "B0D684VBMC",
+     "price": 19.49,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0D684VBMC",
+     "narrators": [
+      "Jessica Regan",
+      "Shakira Shute",
+      "Maeve Smyth"
+     ],
+     "runtime_min": 606
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "251180410",
+   "title": "A Gentleman in Moscow",
+   "full_title": "A Gentleman in Moscow",
+   "author": "Amor Towles",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/251180410",
+   "date_added": "9/6/2026",
+   "avg_rating": "",
+   "year": "2016",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "2629332",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/2629332",
+     "share_url": "https://share.libbyapp.com/title/2629332",
+     "owned": 47,
+     "available_copies": 0,
+     "holds": 7,
+     "wait_days": 10,
+     "narrators": [
+      "Nicholas Guy Smith"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "15203576",
+    "url": "https://www.hoopladigital.com/title/15203576"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=A%20Gentleman%20in%20Moscow%20towles",
+    "audible": {
+     "asin": "B01E08EG84",
+     "price": 22.5,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B01E08EG84",
+     "narrators": [
+      "Nicholas Guy Smith"
+     ],
+     "runtime_min": 1072
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:49:53.000286+00:00"
+  },
+  {
+   "id": "214151359",
+   "title": "The Story She Left Behind",
+   "full_title": "The Story She Left Behind",
+   "author": "Patti Callahan Henry",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/214151359",
+   "date_added": "9/3/2026",
+   "avg_rating": "",
+   "year": "2025",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "10823865",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/10823865",
+     "share_url": "https://share.libbyapp.com/title/10823865",
+     "owned": 17,
+     "available_copies": 3,
+     "holds": 0,
+     "wait_days": 2,
+     "narrators": [
+      "Julia Whelan",
+      "Theo Solomon"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20Story%20She%20Left%20Behind%20henry&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Story%20She%20Left%20Behind%20henry",
+    "audible": {
+     "asin": "B0D685F224",
+     "price": 20.24,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0D685F224",
+     "narrators": [
+      "Julia Whelan",
+      "Theo Solomon"
+     ],
+     "runtime_min": 746
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:49:54.201828+00:00"
+  },
+  {
+   "id": "244962264",
+   "title": "The Women",
+   "full_title": "The Women",
+   "author": "Kristin Hannah",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/244962264",
+   "date_added": "9/1/2026",
+   "avg_rating": "",
+   "year": "2024",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "9852641",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/9852641",
+     "share_url": "https://share.libbyapp.com/title/9852641",
+     "owned": 331,
+     "available_copies": 158,
+     "holds": 0,
+     "wait_days": 1,
+     "narrators": [
+      "Julia Whelan",
+      "Kristin Hannah"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "16139679",
+    "url": "https://www.hoopladigital.com/title/16139679"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Women%20hannah",
+    "audible": {
+     "asin": "B0C4Q8SZRW",
+     "price": 24.74,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0C4Q8SZRW",
+     "narrators": [
+      "Julia Whelan",
+      "Kristin Hannah"
+     ],
+     "runtime_min": 897
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:49:55.071518+00:00"
+  },
+  {
+   "id": "63880836",
+   "title": "The Postcard",
+   "full_title": "The Postcard",
+   "author": "Anne Berest",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/63880836",
+   "date_added": "8/25/2026",
+   "avg_rating": "",
+   "year": "2021",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "9690757",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/9690757",
+     "share_url": "https://share.libbyapp.com/title/9690757",
+     "owned": 21,
+     "available_copies": 16,
+     "holds": 0,
+     "wait_days": 3,
+     "narrators": [
+      "Barrie Kealoha"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "15910083",
+    "url": "https://www.hoopladigital.com/title/15910083"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Postcard%20berest",
+    "audible": {
+     "asin": "B0C2JDVYV7",
+     "price": 21.69,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0C2JDVYV7",
+     "narrators": [
+      "Barrie Kealoha"
+     ],
+     "runtime_min": 786
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:49:55.744711+00:00"
+  },
+  {
+   "id": "240019805",
+   "title": "Meet Me in the Garden",
+   "full_title": "Meet Me in the Garden",
+   "author": "Nina LaCour",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/240019805",
+   "date_added": "8/18/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "12212665",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12212665",
+     "share_url": "https://share.libbyapp.com/title/12212665",
+     "owned": 3,
+     "available_copies": 0,
+     "holds": 67,
+     "wait_days": 476,
+     "narrators": [
+      "Angel Pean"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Meet%20Me%20in%20the%20Garden%20lacour&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Meet%20Me%20in%20the%20Garden%20lacour",
+    "audible": {
+     "asin": "B0FP3VKX27",
+     "price": 25.98,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0FP3VKX27",
+     "narrators": [
+      "Angel Pean"
+     ],
+     "runtime_min": 982
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "244206039",
+   "title": "Sunlight Finds You",
+   "full_title": "Sunlight Finds You",
+   "author": "Laura Moriarty",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/244206039",
+   "date_added": "8/10/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "12588607",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12588607",
+     "share_url": "https://share.libbyapp.com/title/12588607",
+     "owned": 8,
+     "available_copies": 0,
+     "holds": 146,
+     "wait_days": 2058,
+     "narrators": [
+      "Amanda Stribling"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Sunlight%20Finds%20You%20moriarty&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Sunlight%20Finds%20You%20moriarty",
+    "audible": {
+     "asin": "B0G38F6328",
+     "price": 21.6,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0G38F6328",
+     "narrators": [
+      "Amanda Stribling"
+     ],
+     "runtime_min": 686
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "56783258",
+   "title": "Cloud Cuckoo Land",
+   "full_title": "Cloud Cuckoo Land",
+   "author": "Anthony Doerr",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/56783258",
+   "date_added": "7/27/2026",
+   "avg_rating": "",
+   "year": "2021",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "6032358",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/6032358",
+     "share_url": "https://share.libbyapp.com/title/6032358",
+     "owned": 7,
+     "available_copies": 0,
+     "holds": 7,
+     "wait_days": 112,
+     "narrators": [
+      "Marin Ireland",
+      "Simon Jones"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "15694391",
+    "url": "https://www.hoopladigital.com/title/15694391"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Cloud%20Cuckoo%20Land%20doerr",
+    "audible": {
+     "asin": "1797128531",
+     "price": 22.49,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/1797128531",
+     "narrators": [
+      "Marin Ireland",
+      "Simon Jones"
+     ],
+     "runtime_min": 892
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:49:58.757046+00:00"
+  },
+  {
+   "id": "242693052",
+   "title": "Whistler",
+   "full_title": "Whistler",
+   "author": "Ann Patchett",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/242693052",
+   "date_added": "7/27/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "12449100",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12449100",
+     "share_url": "https://share.libbyapp.com/title/12449100",
+     "owned": 245,
+     "available_copies": 0,
+     "holds": 1590,
+     "wait_days": 372,
+     "narrators": [
+      "Ann Patchett"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "15023172",
+    "url": "https://www.hoopladigital.com/title/15023172"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Whistler%20patchett",
+    "audible": {
+     "asin": "B0FWG3S57F",
+     "price": 26.09,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0FWG3S57F",
+     "narrators": [
+      "Ann Patchett"
+     ],
+     "runtime_min": 644
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:49:59.278812+00:00"
+  },
+  {
+   "id": "187117",
+   "title": "The Tennis Partner",
+   "full_title": "The Tennis Partner",
+   "author": "Abraham   Verghese",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/187117",
+   "date_added": "7/25/2026",
+   "avg_rating": "",
+   "year": "1998",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "10195103",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/10195103",
+     "share_url": "https://share.libbyapp.com/title/10195103",
+     "owned": 8,
+     "available_copies": 3,
+     "holds": 0,
+     "wait_days": 14,
+     "narrators": [
+      "Neil Shah"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "16324620",
+    "url": "https://www.hoopladigital.com/title/16324620"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Tennis%20Partner%20verghese",
+    "audible": {
+     "asin": "B0CKWP2RT1",
+     "price": 29.69,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0CKWP2RT1",
+     "narrators": [
+      "Neil Shah"
+     ],
+     "runtime_min": 830
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:49:59.973688+00:00"
+  },
+  {
+   "id": "61964751",
+   "title": "The Secret Book of Flora Lea",
+   "full_title": "The Secret Book of Flora Lea",
+   "author": "Patti Callahan Henry",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/61964751",
+   "date_added": "7/25/2026",
+   "avg_rating": "",
+   "year": "2023",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "9173964",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/9173964",
+     "share_url": "https://share.libbyapp.com/title/9173964",
+     "owned": 4,
+     "available_copies": 0,
+     "holds": 23,
+     "wait_days": 168,
+     "narrators": [
+      "Cynthia Erivo",
+      "Patti Callahan Henry"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20Secret%20Book%20of%20Flora%20Lea%20henry&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Secret%20Book%20of%20Flora%20Lea%20henry",
+    "audible": {
+     "asin": "B0B9VNJ2TB",
+     "price": 20.24,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0B9VNJ2TB",
+     "narrators": [
+      "Cynthia Erivo",
+      "Patti Callahan Henry"
+     ],
+     "runtime_min": 744
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "58891551",
+   "title": "Young Mungo",
+   "full_title": "Young Mungo",
+   "author": "Douglas   Stuart",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/58891551",
+   "date_added": "7/23/2026",
+   "avg_rating": "",
+   "year": "2022",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "7416601",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/7416601",
+     "share_url": "https://share.libbyapp.com/title/7416601",
+     "owned": 6,
+     "available_copies": 4,
+     "holds": 0,
+     "wait_days": 5,
+     "narrators": [
+      "Chris Reilly"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "14634454",
+    "url": "https://www.hoopladigital.com/title/14634454"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Young%20Mungo%20stuart",
+    "audible": {
+     "asin": "B09L5BN5XX",
+     "price": 21.68,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B09L5BN5XX",
+     "narrators": [
+      "Chris Reilly"
+     ],
+     "runtime_min": 821
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:01.829921+00:00"
+  },
+  {
+   "id": "242765313",
+   "title": "Into the Blue",
+   "full_title": "Into the Blue",
+   "author": "Emma Brodie",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/242765313",
+   "date_added": "7/8/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "12449117",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12449117",
+     "share_url": "https://share.libbyapp.com/title/12449117",
+     "owned": 109,
+     "available_copies": 2,
+     "holds": 461,
+     "wait_days": 259,
+     "narrators": [
+      "Julia Whelan"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "14092385",
+    "url": "https://www.hoopladigital.com/title/14092385"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Into%20the%20Blue%20brodie",
+    "audible": {
+     "asin": "B0HS8VS6RX",
+     "price": 1.0,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0HS8VS6RX",
+     "narrators": [
+      "Julia Whelan"
+     ],
+     "runtime_min": 45
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:02.433762+00:00"
+  },
+  {
+   "id": "21853621",
+   "title": "The Nightingale",
+   "full_title": "The Nightingale",
+   "author": "Kristin Hannah",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/21853621",
+   "date_added": "7/7/2026",
+   "avg_rating": "",
+   "year": "2015",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "2097034",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/2097034",
+     "share_url": "https://share.libbyapp.com/title/2097034",
+     "owned": 116,
+     "available_copies": 2,
+     "holds": 169,
+     "wait_days": 184,
+     "narrators": [
+      "Polly Stone"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "12028166",
+    "url": "https://www.hoopladigital.com/title/12028166"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Nightingale%20hannah",
+    "audible": {
+     "asin": "B00NYBQKFQ",
+     "price": 29.24,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B00NYBQKFQ",
+     "narrators": [
+      "Polly Stone"
+     ],
+     "runtime_min": 1039
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:03.165767+00:00"
+  },
+  {
+   "id": "235992376",
+   "title": "Every Version of You",
+   "full_title": "Every Version of You",
+   "author": "Natalie Messier",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/235992376",
+   "date_added": "7/7/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "11986258",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/11986258",
+     "share_url": "https://share.libbyapp.com/title/11986258",
+     "owned": 8,
+     "available_copies": 0,
+     "holds": 61,
+     "wait_days": 290,
+     "narrators": [
+      "Alejandra Reynoso",
+      "Timothy Andr\u00e9s Pabon"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "17753332",
+    "url": "https://www.hoopladigital.com/title/17753332"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Every%20Version%20of%20You%20messier",
+    "audible": {
+     "asin": "B0FCZQR5ZY",
+     "price": 20.24,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0FCZQR5ZY",
+     "narrators": [
+      "Alejandra Reynoso",
+      "Timothy Andr\u00e9s Pabon"
+     ],
+     "runtime_min": 667
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:03.849127+00:00"
+  },
+  {
+   "id": "219301727",
+   "title": "These Heathens",
+   "full_title": "These Heathens",
+   "author": "Mia McKenzie",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/219301727",
+   "date_added": "6/18/2026",
+   "avg_rating": "",
+   "year": "2025",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-These%20Heathens/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=These%20Heathens%20mckenzie&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=These%20Heathens%20mckenzie",
+    "audible": {
+     "asin": "B0DJHBWVLD",
+     "price": 18.0,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0DJHBWVLD",
+     "narrators": [
+      "Bahni Turpin"
+     ],
+     "runtime_min": 443
+    }
+   },
+   "friends": [],
+   "best": "buy",
+   "available_since": null
+  },
+  {
+   "id": "216625366",
+   "title": "The Sideways Life of Denny Voss",
+   "full_title": "The Sideways Life of Denny Voss",
+   "author": "Holly  Kennedy",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/216625366",
+   "date_added": "6/16/2026",
+   "avg_rating": "",
+   "year": "2025",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-The%20Sideways%20Life%20of%20Denny%20Voss/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20Sideways%20Life%20of%20Denny%20Voss%20kennedy&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Sideways%20Life%20of%20Denny%20Voss%20kennedy",
+    "audible": {
+     "asin": "B0DK5VVF67",
+     "price": 21.16,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0DK5VVF67",
+     "narrators": [
+      "Andrew Eiden",
+      "Holly Kennedy"
+     ],
+     "runtime_min": 545
+    }
+   },
+   "friends": [],
+   "best": "buy",
+   "available_since": null
+  },
+  {
+   "id": "232794526",
+   "title": "This Book Made Me Think of You",
+   "full_title": "This Book Made Me Think of You",
+   "author": "Libby  Page",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/232794526",
+   "date_added": "6/16/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "11942155",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/11942155",
+     "share_url": "https://share.libbyapp.com/title/11942155",
+     "owned": 89,
+     "available_copies": 2,
+     "holds": 880,
+     "wait_days": 823,
+     "narrators": [
+      "Zadeiah Campbell-Davies"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=This%20Book%20Made%20Me%20Think%20of%20You%20page&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=This%20Book%20Made%20Me%20Think%20of%20You%20page",
+    "audible": {
+     "asin": "B0FBHZK5V7",
+     "price": 19.8,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0FBHZK5V7",
+     "narrators": [
+      "Zadeiah Campbell-Davies"
+     ],
+     "runtime_min": 626
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:08.027486+00:00"
+  },
+  {
+   "id": "246933602",
+   "title": "The Names",
+   "full_title": "The Names",
+   "author": "Florence Knapp",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/246933602",
+   "date_added": "6/15/2026",
+   "avg_rating": "",
+   "year": "2025",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "11126192",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/11126192",
+     "share_url": "https://share.libbyapp.com/title/11126192",
+     "owned": 40,
+     "available_copies": 0,
+     "holds": 84,
+     "wait_days": 1190,
+     "narrators": [
+      "Dervla Kirwan"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "12207046",
+    "url": "https://www.hoopladigital.com/title/12207046"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Names%20knapp",
+    "audible": {
+     "asin": "B0DG3STL1G",
+     "price": 19.8,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0DG3STL1G",
+     "narrators": [
+      "Dervla Kirwan"
+     ],
+     "runtime_min": 580
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:09.277487+00:00"
+  },
+  {
+   "id": "199798217",
+   "title": "The Lion Women of Tehran",
+   "full_title": "The Lion Women of Tehran",
+   "author": "Marjan Kamali",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/199798217",
+   "date_added": "6/15/2026",
+   "avg_rating": "",
+   "year": "2024",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "10216825",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/10216825",
+     "share_url": "https://share.libbyapp.com/title/10216825",
+     "owned": 43,
+     "available_copies": 0,
+     "holds": 77,
+     "wait_days": 1092,
+     "narrators": [
+      "Mozhan Navabi",
+      "Nikki Massoud"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "16348964",
+    "url": "https://www.hoopladigital.com/title/16348964"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Lion%20Women%20of%20Tehran%20kamali",
+    "audible": {
+     "asin": "B0CLFZX676",
+     "price": 19.49,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0CLFZX676",
+     "narrators": [
+      "Mozhan Navabi",
+      "Nikki Massoud"
+     ],
+     "runtime_min": 629
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:09.891353+00:00"
+  },
+  {
+   "id": "228820257",
+   "title": "The Calamity Club",
+   "full_title": "The Calamity Club",
+   "author": "Kathryn Stockett",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/228820257",
+   "date_added": "6/15/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "13043215",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/13043215",
+     "share_url": "https://share.libbyapp.com/title/13043215",
+     "owned": 244,
+     "available_copies": 2,
+     "holds": 2987,
+     "wait_days": 698,
+     "narrators": [
+      "Jenna Lamia",
+      "January LaVoy"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "19769978",
+    "url": "https://www.hoopladigital.com/title/19769978"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Calamity%20Club%20stockett",
+    "audible": {
+     "asin": "B0FTBK545H",
+     "price": 31.58,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0FTBK545H",
+     "narrators": [
+      "Jenna Lamia",
+      "January LaVoy"
+     ],
+     "runtime_min": 1724
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:10.596708+00:00"
+  },
+  {
+   "id": "240019823",
+   "title": "Good Joy, Bad Joy",
+   "full_title": "Good Joy, Bad Joy",
+   "author": "Mikki Brammer",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/240019823",
+   "date_added": "6/8/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "12187306",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12187306",
+     "share_url": "https://share.libbyapp.com/title/12187306",
+     "owned": 3,
+     "available_copies": 0,
+     "holds": 75,
+     "wait_days": 532,
+     "narrators": [
+      "Kimberly M. Wetherell",
+      "Maggi-Meg Reed"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Good%20Joy%2C%20Bad%20Joy%20brammer&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Good%20Joy%2C%20Bad%20Joy%20brammer",
+    "audible": {
+     "asin": "B0FMLM568F",
+     "price": 20.24,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0FMLM568F",
+     "narrators": [
+      "Kimberly M. Wetherell",
+      "Maggi-Meg Reed"
+     ],
+     "runtime_min": 665
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "218695909",
+   "title": "What Kind of Paradise",
+   "full_title": "What Kind of Paradise",
+   "author": "Janelle Brown",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/218695909",
+   "date_added": "6/3/2026",
+   "avg_rating": "",
+   "year": "2025",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "11220683",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/11220683",
+     "share_url": "https://share.libbyapp.com/title/11220683",
+     "owned": 8,
+     "available_copies": 2,
+     "holds": 0,
+     "wait_days": 14,
+     "narrators": [
+      "Peter Ganim",
+      "Helen Laser"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=What%20Kind%20of%20Paradise%20brown&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=What%20Kind%20of%20Paradise%20brown",
+    "audible": {
+     "asin": "B0DJHB29FT",
+     "price": 22.5,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0DJHB29FT",
+     "narrators": [
+      "Peter Ganim",
+      "Helen Laser"
+     ],
+     "runtime_min": 701
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T18:30:57.249585+00:00"
+  },
+  {
+   "id": "241126110",
+   "title": "The Chateau on Sunset",
+   "full_title": "The Chateau on Sunset",
+   "author": "Natasha Lester",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/241126110",
+   "date_added": "6/3/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-The%20Chateau%20on%20Sunset/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20Chateau%20on%20Sunset%20lester&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Chateau%20on%20Sunset%20lester",
+    "audible": {
+     "asin": "B0FST3YJ1T",
+     "price": 22.68,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0FST3YJ1T",
+     "narrators": [
+      "Anthea Greco"
+     ],
+     "runtime_min": 694
+    }
+   },
+   "friends": [],
+   "best": "buy",
+   "available_since": null
+  },
+  {
+   "id": "240077087",
+   "title": "The Foursome",
+   "full_title": "The Foursome",
+   "author": "Christina Baker Kline",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/240077087",
+   "date_added": "5/23/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "12207233",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12207233",
+     "share_url": "https://share.libbyapp.com/title/12207233",
+     "owned": 3,
+     "available_copies": 0,
+     "holds": 54,
+     "wait_days": 770,
+     "narrators": [
+      "Marin Ireland"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "18649058",
+    "url": "https://www.hoopladigital.com/title/18649058"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Foursome%20kline",
+    "audible": {
+     "asin": "B0FMLK9QL8",
+     "price": 26.09,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0FMLK9QL8",
+     "narrators": [
+      "Marin Ireland"
+     ],
+     "runtime_min": 646
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:15.446809+00:00"
+  },
+  {
+   "id": "59900688",
+   "title": "Solito",
+   "full_title": "Solito",
+   "author": "Javier Zamora",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/59900688",
+   "date_added": "5/18/2026",
+   "avg_rating": "",
+   "year": "2022",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "8740573",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/8740573",
+     "share_url": "https://share.libbyapp.com/title/8740573",
+     "owned": 9,
+     "available_copies": 0,
+     "holds": 4,
+     "wait_days": 35,
+     "narrators": [
+      "Javier Zamora"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Solito%20zamora&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Solito%20zamora",
+    "audible": {
+     "asin": "B09SJ5WRMN",
+     "price": 22.5,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B09SJ5WRMN",
+     "narrators": [
+      "Javier Zamora"
+     ],
+     "runtime_min": 1028
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "58803339",
+   "title": "The Book Woman's Daughter",
+   "full_title": "The Book Woman's Daughter (The Book Woman of Troublesome Creek, #2)",
+   "author": "Kim Michele Richardson",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/58803339",
+   "date_added": "5/14/2026",
+   "avg_rating": "",
+   "year": "2022",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "7003103",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/7003103",
+     "share_url": "https://share.libbyapp.com/title/7003103",
+     "owned": 11,
+     "available_copies": 7,
+     "holds": 0,
+     "wait_days": 3,
+     "narrators": [
+      "Katie Schorr"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "19284376",
+    "url": "https://www.hoopladigital.com/title/19284376"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Book%20Woman%27s%20Daughter%20richardson",
+    "audible": {
+     "asin": "B09HY5JC2L",
+     "price": 20.25,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B09HY5JC2L",
+     "narrators": [
+      "Katie Schorr"
+     ],
+     "runtime_min": 629
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:17.834294+00:00"
+  },
+  {
+   "id": "8664353",
+   "title": "Unbroken: A World War II Story of Survival, Resilience and Redemption",
+   "full_title": "Unbroken: A World War II Story of Survival, Resilience and Redemption",
+   "author": "Laura Hillenbrand",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/8664353",
+   "date_added": "5/14/2026",
+   "avg_rating": "",
+   "year": "2010",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "299474",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/299474",
+     "share_url": "https://share.libbyapp.com/title/299474",
+     "owned": 27,
+     "available_copies": 14,
+     "holds": 0,
+     "wait_days": 2,
+     "narrators": [
+      "Edward Herrmann"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "18390258",
+    "url": "https://www.hoopladigital.com/title/18390258"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Unbroken%20hillenbrand",
+    "audible": {
+     "asin": "B004BAUKFK",
+     "price": 20.25,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B004BAUKFK",
+     "narrators": [
+      "Edward Herrmann"
+     ],
+     "runtime_min": 836
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:18.502897+00:00"
+  },
+  {
+   "id": "235992395",
+   "title": "Cleo Dang Would Rather Be Dead",
+   "full_title": "Cleo Dang Would Rather Be Dead",
+   "author": "Mai  Nguyen",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/235992395",
+   "date_added": "4/29/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "12684775",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12684775",
+     "share_url": "https://share.libbyapp.com/title/12684775",
+     "owned": 6,
+     "available_copies": 0,
+     "holds": 98,
+     "wait_days": 347,
+     "narrators": [
+      "Elyse Dinh"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Cleo%20Dang%20Would%20Rather%20Be%20Dead%20nguyen&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Cleo%20Dang%20Would%20Rather%20Be%20Dead%20nguyen",
+    "audible": {
+     "asin": "B0G8K97M2J",
+     "price": 20.24,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0G8K97M2J",
+     "narrators": [
+      "Elyse Dinh"
+     ],
+     "runtime_min": 595
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "55004514",
+   "title": "The Warsaw Orphan",
+   "full_title": "The Warsaw Orphan",
+   "author": "Kelly Rimmer",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/55004514",
+   "date_added": "4/29/2026",
+   "avg_rating": "",
+   "year": "2021",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "5962255",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/5962255",
+     "share_url": "https://share.libbyapp.com/title/5962255",
+     "owned": 5,
+     "available_copies": 0,
+     "holds": 0,
+     "wait_days": 4,
+     "narrators": [
+      "Nancy Peterson",
+      "Charlie Thurston"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "13824393",
+    "url": "https://www.hoopladigital.com/title/13824393"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Warsaw%20Orphan%20rimmer",
+    "audible": {
+     "asin": "1488211310",
+     "price": 29.69,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/1488211310",
+     "narrators": [
+      "Nancy Peterson",
+      "Charlie Thurston"
+     ],
+     "runtime_min": 796
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:20.278507+00:00"
+  },
+  {
+   "id": "166997",
+   "title": "Stoner",
+   "full_title": "Stoner",
+   "author": "John  Williams",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/166997",
+   "date_added": "4/23/2026",
+   "avg_rating": "",
+   "year": "1965",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-Stoner/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "13485096",
+    "url": "https://www.hoopladigital.com/title/13485096"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Stoner%20williams",
+    "audible": {
+     "asin": "B003S7XFBI",
+     "price": 17.88,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B003S7XFBI",
+     "narrators": [
+      "Robin Field"
+     ],
+     "runtime_min": 586
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:21.343457+00:00"
+  },
+  {
+   "id": "57429914",
+   "title": "The Keeper of Happy Endings",
+   "full_title": "The Keeper of Happy Endings",
+   "author": "Barbara  Davis",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/57429914",
+   "date_added": "4/23/2026",
+   "avg_rating": "",
+   "year": "2021",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-The%20Keeper%20of%20Happy%20Endings/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20Keeper%20of%20Happy%20Endings%20davis&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Keeper%20of%20Happy%20Endings%20davis",
+    "audible": {
+     "asin": "1713614731",
+     "price": 22.77,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/1713614731",
+     "narrators": [
+      "Robin Siegerman",
+      "Hope Newhouse"
+     ],
+     "runtime_min": 902
+    }
+   },
+   "friends": [],
+   "best": "buy",
+   "available_since": null
+  },
+  {
+   "id": "201794912",
+   "title": "The Last Secret of Lily Adams",
+   "full_title": "The Last Secret of Lily Adams",
+   "author": "Sara Blaydes",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/201794912",
+   "date_added": "4/23/2026",
+   "avg_rating": "",
+   "year": "2024",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-The%20Last%20Secret%20of%20Lily%20Adams/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20Last%20Secret%20of%20Lily%20Adams%20blaydes&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Last%20Secret%20of%20Lily%20Adams%20blaydes",
+    "audible": {
+     "asin": "B0CS7K3M5K",
+     "price": 5.99,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0CS7K3M5K",
+     "narrators": [
+      "Erin Bennett",
+      "Soneela Nankani"
+     ],
+     "runtime_min": 619
+    }
+   },
+   "friends": [],
+   "best": "buy",
+   "available_since": null
+  },
+  {
+   "id": "232209360",
+   "title": "Burn Down Master's House",
+   "full_title": "Burn Down Master's House",
+   "author": "Clay Cane",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/232209360",
+   "date_added": "4/12/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "12440958",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12440958",
+     "share_url": "https://share.libbyapp.com/title/12440958",
+     "owned": 1,
+     "available_copies": 0,
+     "holds": 20,
+     "wait_days": null,
+     "narrators": [
+      "Clay Cane"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "18781833",
+    "url": "https://www.hoopladigital.com/title/18781833"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Burn%20Down%20Master%27s%20House%20cane",
+    "audible": {
+     "asin": "B0FW6QM4B7",
+     "price": 20.73,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0FW6QM4B7",
+     "narrators": [
+      "Clay Cane"
+     ],
+     "runtime_min": 635
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:25.007100+00:00"
+  },
+  {
+   "id": "237693020",
+   "title": "Upward Bound",
+   "full_title": "Upward Bound",
+   "author": "Woody Brown",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/237693020",
+   "date_added": "4/12/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "12062872",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12062872",
+     "share_url": "https://share.libbyapp.com/title/12062872",
+     "owned": 7,
+     "available_copies": 3,
+     "holds": 0,
+     "wait_days": 5,
+     "narrators": [
+      "T.R. Knight",
+      "Pete Holmes",
+      "Midori Francis",
+      "Carlos Miranda",
+      "Brandon Flynn",
+      "Nikki M. James",
+      "Alex Edelman",
+      "Daphne Rubin-Vega"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Upward%20Bound%20brown&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Upward%20Bound%20brown",
+    "audible": {
+     "asin": "B0FGK3BZFS",
+     "price": 17.01,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0FGK3BZFS",
+     "narrators": [
+      "T.R. Knight",
+      "Pete Holmes",
+      "Midori Francis",
+      "Carlos Miranda",
+      "Brandon Flynn",
+      "Nikki M. James",
+      "Alex Edelman",
+      "Daphne Rubin-Vega"
+     ],
+     "runtime_min": 290
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:26.154785+00:00"
+  },
+  {
+   "id": "33413128",
+   "title": "Beartown",
+   "full_title": "Beartown (Beartown, #1)",
+   "author": "Fredrik Backman",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/33413128",
+   "date_added": "4/9/2026",
+   "avg_rating": "",
+   "year": "2016",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "3225083",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/3225083",
+     "share_url": "https://share.libbyapp.com/title/3225083",
+     "owned": 31,
+     "available_copies": 0,
+     "holds": 12,
+     "wait_days": 31,
+     "narrators": [
+      "Marin Ireland"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "15156258",
+    "url": "https://www.hoopladigital.com/title/15156258"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Beartown%20backman",
+    "audible": {
+     "asin": "B06XH9B3TH",
+     "price": 23.61,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B06XH9B3TH",
+     "narrators": [
+      "Marin Ireland"
+     ],
+     "runtime_min": 791
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:26.804939+00:00"
+  },
+  {
+   "id": "49127718",
+   "title": "Anxious People",
+   "full_title": "Anxious People",
+   "author": "Fredrik Backman",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/49127718",
+   "date_added": "4/9/2026",
+   "avg_rating": "",
+   "year": "2019",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "5254460",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/5254460",
+     "share_url": "https://share.libbyapp.com/title/5254460",
+     "owned": 29,
+     "available_copies": 0,
+     "holds": 113,
+     "wait_days": 320,
+     "narrators": [
+      "Marin Ireland"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Anxious%20People%20backman&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Anxious%20People%20backman",
+    "audible": {
+     "asin": "1797105833",
+     "price": 19.49,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/1797105833",
+     "narrators": [
+      "Marin Ireland"
+     ],
+     "runtime_min": 593
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "235260861",
+   "title": "John of John",
+   "full_title": "John of John",
+   "author": "Douglas   Stuart",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/235260861",
+   "date_added": "3/31/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "12449445",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12449445",
+     "share_url": "https://share.libbyapp.com/title/12449445",
+     "owned": 68,
+     "available_copies": 0,
+     "holds": 429,
+     "wait_days": 241,
+     "narrators": [
+      "Lorne MacFadyen"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "19652044",
+    "url": "https://www.hoopladigital.com/title/19652044"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=John%20of%20John%20stuart",
+    "audible": {
+     "asin": "B0FXHPQRT8",
+     "price": 22.49,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0FXHPQRT8",
+     "narrators": [
+      "Lorne MacFadyen"
+     ],
+     "runtime_min": 931
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:29.486796+00:00"
+  },
+  {
+   "id": "222376836",
+   "title": "Life, and Death, and Giants",
+   "full_title": "Life, and Death, and Giants",
+   "author": "Ron Rindo",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/222376836",
+   "date_added": "3/31/2026",
+   "avg_rating": "",
+   "year": "2025",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "11638596",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/11638596",
+     "share_url": "https://share.libbyapp.com/title/11638596",
+     "owned": 14,
+     "available_copies": 1,
+     "holds": 127,
+     "wait_days": 448,
+     "narrators": [
+      "Christina Moore",
+      "Johnny Heller",
+      "Roger Wayne",
+      "Will Damron"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "18067122",
+    "url": "https://www.hoopladigital.com/title/18067122"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Life%2C%20and%20Death%2C%20and%20Giants%20rindo",
+    "audible": {
+     "asin": "B0F2P9CS36",
+     "price": 21.25,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0F2P9CS36",
+     "narrators": [
+      "Christina Moore",
+      "Johnny Heller",
+      "Roger Wayne",
+      "Will Damron"
+     ],
+     "runtime_min": 689
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:30.134143+00:00"
+  },
+  {
+   "id": "235699977",
+   "title": "Where the Girls Were",
+   "full_title": "Where the Girls Were",
+   "author": "Kate Schatz",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/235699977",
+   "date_added": "3/24/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-Where%20the%20Girls%20Were/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Where%20the%20Girls%20Were%20schatz&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Where%20the%20Girls%20Were%20schatz",
+    "audible": {
+     "asin": "B0FGJWK6HY",
+     "price": 20.7,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0FGJWK6HY",
+     "narrators": [
+      "Saskia Maarleveld",
+      "Kate Schatz"
+     ],
+     "runtime_min": 701
+    }
+   },
+   "friends": [],
+   "best": "buy",
+   "available_since": null
+  },
+  {
+   "id": "25893693",
+   "title": "Lilac Girls",
+   "full_title": "Lilac Girls (Woolsey-Ferriday, #1)",
+   "author": "Martha Hall Kelly",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/25893693",
+   "date_added": "2/25/2026",
+   "avg_rating": "",
+   "year": "2016",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "2285941",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/2285941",
+     "share_url": "https://share.libbyapp.com/title/2285941",
+     "owned": 24,
+     "available_copies": 15,
+     "holds": 0,
+     "wait_days": 2,
+     "narrators": [
+      "Cassandra Campbell",
+      "Kathleen Gati",
+      "Kathrin Kana",
+      "Martha Hall Kelly"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Lilac%20Girls%20kelly&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Lilac%20Girls%20kelly",
+    "audible": {
+     "asin": "B01CUK4LUC",
+     "price": 22.5,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B01CUK4LUC",
+     "narrators": [
+      "Cassandra Campbell",
+      "Kathleen Gati",
+      "Kathrin Kana",
+      "Martha Hall Kelly"
+     ],
+     "runtime_min": 1050
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:33.423006+00:00"
+  },
+  {
+   "id": "40097951",
+   "title": "The Silent Patient",
+   "full_title": "The Silent Patient",
+   "author": "Alex Michaelides",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/40097951",
+   "date_added": "2/12/2026",
+   "avg_rating": "",
+   "year": "2019",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "4002443",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/4002443",
+     "share_url": "https://share.libbyapp.com/title/4002443",
+     "owned": 72,
+     "available_copies": 0,
+     "holds": 3,
+     "wait_days": 4,
+     "narrators": [
+      "Jack Hawkins",
+      "Louise Brealey"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "12637626",
+    "url": "https://www.hoopladigital.com/title/12637626"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Silent%20Patient%20michaelides",
+    "audible": {
+     "asin": "1250317533",
+     "price": 20.24,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/1250317533",
+     "narrators": [
+      "Jack Hawkins",
+      "Louise Brealey"
+     ],
+     "runtime_min": 513
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:34.046592+00:00"
+  },
+  {
+   "id": "18774964",
+   "title": "A Man Called Ove",
+   "full_title": "A Man Called Ove",
+   "author": "Fredrik Backman",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/18774964",
+   "date_added": "2/12/2026",
+   "avg_rating": "",
+   "year": "2012",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "1766162",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/1766162",
+     "share_url": "https://share.libbyapp.com/title/1766162",
+     "owned": 38,
+     "available_copies": 2,
+     "holds": 0,
+     "wait_days": 2,
+     "narrators": [
+      "George Newbern"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "15177318",
+    "url": "https://www.hoopladigital.com/title/15177318"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=A%20Man%20Called%20Ove%20backman",
+    "audible": {
+     "asin": "1797108263",
+     "price": 19.49,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/1797108263",
+     "narrators": [
+      "J. K. Simmons"
+     ],
+     "runtime_min": 553
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:34.748400+00:00"
+  },
+  {
+   "id": "241126800",
+   "title": "Kin",
+   "full_title": "Kin",
+   "author": "Tayari Jones",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/241126800",
+   "date_added": "2/12/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "12347275",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/12347275",
+     "share_url": "https://share.libbyapp.com/title/12347275",
+     "owned": 108,
+     "available_copies": 2,
+     "holds": 668,
+     "wait_days": 586,
+     "narrators": [
+      "Angel Pean",
+      "Ashley J. Hobbs"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Kin%20jones&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Kin%20jones",
+    "audible": {
+     "asin": "B0FSLJ7L9R",
+     "price": 23.4,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0FSLJ7L9R",
+     "narrators": [
+      "Angel Pean",
+      "Ashley J. Hobbs"
+     ],
+     "runtime_min": 790
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:36.059144+00:00"
+  },
+  {
+   "id": "233717140",
+   "title": "Good People",
+   "full_title": "Good People",
+   "author": "Patmeena Sabit",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/233717140",
+   "date_added": "2/12/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "11942030",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/11942030",
+     "share_url": "https://share.libbyapp.com/title/11942030",
+     "owned": 66,
+     "available_copies": 1,
+     "holds": 532,
+     "wait_days": 1244,
+     "narrators": [
+      "Full Cast"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "16631676",
+    "url": "https://www.hoopladigital.com/title/16631676"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Good%20People%20sabit",
+    "audible": {
+     "asin": "B0F9QY33Y3",
+     "price": 7.99,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0F9QY33Y3",
+     "narrators": [
+      "Full Cast"
+     ],
+     "runtime_min": 607
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:37.564527+00:00"
+  },
+  {
+   "id": "22929586",
+   "title": "A Manual for Cleaning Women: Selected Stories",
+   "full_title": "A Manual for Cleaning Women: Selected Stories",
+   "author": "Lucia Berlin",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/22929586",
+   "date_added": "2/11/2026",
+   "avg_rating": "",
+   "year": "2015",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "2396858",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/2396858",
+     "share_url": "https://share.libbyapp.com/title/2396858",
+     "owned": 5,
+     "available_copies": 3,
+     "holds": 0,
+     "wait_days": 7,
+     "narrators": [
+      "Thom Rivera",
+      "Dawn Harvey",
+      "Carol Monda",
+      "Hillary Huber",
+      "Bernadette Dunne",
+      "Kyla Garcia",
+      "various narrators"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=A%20Manual%20for%20Cleaning%20Women%20berlin&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=A%20Manual%20for%20Cleaning%20Women%20berlin",
+    "audible": {
+     "asin": "B019YACNU6",
+     "price": 21.34,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B019YACNU6",
+     "narrators": [
+      "Thom Rivera",
+      "Dawn Harvey",
+      "Carol Monda",
+      "Hillary Huber",
+      "Bernadette Dunne",
+      "Kyla Garcia"
+     ],
+     "runtime_min": 887
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:38.743059+00:00"
+  },
+  {
+   "id": "52439531",
+   "title": "The Inheritance Games",
+   "full_title": "The Inheritance Games (The Inheritance Games, #1)",
+   "author": "Jennifer Lynn Barnes",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/52439531",
+   "date_added": "2/10/2026",
+   "avg_rating": "",
+   "year": "2020",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "10546337",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/10546337",
+     "share_url": "https://share.libbyapp.com/title/10546337",
+     "owned": 1,
+     "available_copies": 0,
+     "holds": 0,
+     "wait_days": 14,
+     "narrators": [
+      "Leonie Landa"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "17385075",
+    "url": "https://www.hoopladigital.com/title/17385075"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Inheritance%20Games%20barnes",
+    "audible": {
+     "asin": "154916046X",
+     "price": 27.39,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/154916046X",
+     "narrators": [
+      "Christie Moreau"
+     ],
+     "runtime_min": 645
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:39.564495+00:00"
+  },
+  {
+   "id": "50623864",
+   "title": "The Invisible Life of Addie LaRue",
+   "full_title": "The Invisible Life of Addie LaRue",
+   "author": "V.E. Schwab",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/50623864",
+   "date_added": "2/10/2026",
+   "avg_rating": "",
+   "year": "2020",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "5243411",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/5243411",
+     "share_url": "https://share.libbyapp.com/title/5243411",
+     "owned": 94,
+     "available_copies": 1,
+     "holds": 2,
+     "wait_days": 2,
+     "narrators": [
+      "Julia Whelan"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "13027284",
+    "url": "https://www.hoopladigital.com/title/13027284"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Invisible%20Life%20of%20Addie%20LaRue%20schwab",
+    "audible": {
+     "asin": "125077795X",
+     "price": 29.24,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/125077795X",
+     "narrators": [
+      "Julia Whelan"
+     ],
+     "runtime_min": 1051
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:40.227547+00:00"
+  },
+  {
+   "id": "235992421",
+   "title": "Keeper of Lost Children",
+   "full_title": "Keeper of Lost Children",
+   "author": "Sadeqa  Johnson",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/235992421",
+   "date_added": "2/3/2026",
+   "avg_rating": "",
+   "year": "2026",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "11986284",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/11986284",
+     "share_url": "https://share.libbyapp.com/title/11986284",
+     "owned": 30,
+     "available_copies": 0,
+     "holds": 6,
+     "wait_days": 7,
+     "narrators": [
+      "Ariel Blake",
+      "Karen Chilton",
+      "Adam Lazarre-White",
+      "Sadeqa Johnson"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Keeper%20of%20Lost%20Children%20johnson&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Keeper%20of%20Lost%20Children%20johnson",
+    "audible": {
+     "asin": "B0FCZXX1FG",
+     "price": 23.61,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0FCZXX1FG",
+     "narrators": [
+      "Ariel Blake",
+      "Karen Chilton",
+      "Adam Lazarre-White",
+      "Sadeqa Johnson"
+     ],
+     "runtime_min": 862
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "127305853",
+   "title": "The Women",
+   "full_title": "The Women",
+   "author": "Kristin Hannah",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/127305853",
+   "date_added": "8/23/2025",
+   "avg_rating": "",
+   "year": "2024",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "9852641",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/9852641",
+     "share_url": "https://share.libbyapp.com/title/9852641",
+     "owned": 331,
+     "available_copies": 158,
+     "holds": 0,
+     "wait_days": 1,
+     "narrators": [
+      "Julia Whelan",
+      "Kristin Hannah"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "16139679",
+    "url": "https://www.hoopladigital.com/title/16139679"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Women%20hannah",
+    "audible": {
+     "asin": "B0C4Q8SZRW",
+     "price": 24.74,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0C4Q8SZRW",
+     "narrators": [
+      "Julia Whelan",
+      "Kristin Hannah"
+     ],
+     "runtime_min": 897
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:41.982711+00:00"
+  },
+  {
+   "id": "902",
+   "title": "The Westing Game",
+   "full_title": "The Westing Game",
+   "author": "Ellen Raskin",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/902",
+   "date_added": "12/29/2025",
+   "avg_rating": "",
+   "year": "1978",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "3326221",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/3326221",
+     "share_url": "https://share.libbyapp.com/title/3326221",
+     "owned": 6,
+     "available_copies": 0,
+     "holds": 1,
+     "wait_days": 14,
+     "narrators": [
+      "Cassandra Campbell"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20Westing%20Game%20raskin&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Westing%20Game%20raskin",
+    "audible": {
+     "asin": "B077SMSD96",
+     "price": 18.0,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B077SMSD96",
+     "narrators": [
+      "Cassandra Campbell"
+     ],
+     "runtime_min": 419
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "15818107",
+   "title": "Orphan Train",
+   "full_title": "Orphan Train",
+   "author": "Christina Baker Kline",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/15818107",
+   "date_added": "12/29/2025",
+   "avg_rating": "",
+   "year": "2013",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-Orphan%20Train/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "13341160",
+    "url": "https://www.hoopladigital.com/title/13341160"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Orphan%20Train%20kline",
+    "audible": {
+     "asin": "B00BOU8PZC",
+     "price": 17.21,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B00BOU8PZC",
+     "narrators": [
+      "Jessica Almasy",
+      "Suzanne Toren"
+     ],
+     "runtime_min": 501
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:44.381926+00:00"
+  },
+  {
+   "id": "1972",
+   "title": "Den of Thieves",
+   "full_title": "Den of Thieves",
+   "author": "James B. Stewart",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/1972",
+   "date_added": "12/22/2025",
+   "avg_rating": "",
+   "year": "1991",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-Den%20of%20Thieves/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "11373691",
+    "url": "https://www.hoopladigital.com/title/11373691"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Den%20of%20Thieves%20stewart",
+    "audible": {
+     "asin": "B00F3HVNBU",
+     "price": 26.24,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B00F3HVNBU",
+     "narrators": [
+      "Johnny Heller"
+     ],
+     "runtime_min": 1175
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:45.303859+00:00"
+  },
+  {
+   "id": "85431",
+   "title": "Friday Night Lights",
+   "full_title": "Friday Night Lights",
+   "author": "H.G. Bissinger",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/85431",
+   "date_added": "12/22/2025",
+   "avg_rating": "",
+   "year": "1988",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-Friday%20Night%20Lights/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "13523374",
+    "url": "https://www.hoopladigital.com/title/13523374"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Friday%20Night%20Lights%20bissinger",
+    "audible": {
+     "asin": "B018SQNZ4U",
+     "price": 22.64,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B018SQNZ4U",
+     "narrators": [
+      "Tom Stechschulte"
+     ],
+     "runtime_min": 873
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:46.347970+00:00"
+  },
+  {
+   "id": "54304031",
+   "title": "Yellow Wife",
+   "full_title": "Yellow Wife",
+   "author": "Sadeqa  Johnson",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/54304031",
+   "date_added": "11/25/2025",
+   "avg_rating": "",
+   "year": "2021",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "5589570",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/5589570",
+     "share_url": "https://share.libbyapp.com/title/5589570",
+     "owned": 3,
+     "available_copies": 0,
+     "holds": 34,
+     "wait_days": 164,
+     "narrators": [
+      "Robin Miles"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Yellow%20Wife%20johnson&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Yellow%20Wife%20johnson",
+    "audible": {
+     "asin": "1797118811",
+     "price": 19.49,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/1797118811",
+     "narrators": [
+      "Robin Miles"
+     ],
+     "runtime_min": 571
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "219848315",
+   "title": "The Emperor of Gladness",
+   "full_title": "The Emperor of Gladness",
+   "author": "Ocean Vuong",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/219848315",
+   "date_added": "11/25/2025",
+   "avg_rating": "",
+   "year": "2025",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "11220670",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/11220670",
+     "share_url": "https://share.libbyapp.com/title/11220670",
+     "owned": 19,
+     "available_copies": 3,
+     "holds": 0,
+     "wait_days": 2,
+     "narrators": [
+      "James Aaron Oh"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20Emperor%20of%20Gladness%20vuong&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Emperor%20of%20Gladness%20vuong",
+    "audible": {
+     "asin": "B0DJDMKYM1",
+     "price": 23.4,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0DJDMKYM1",
+     "narrators": [
+      "James Aaron Oh"
+     ],
+     "runtime_min": 845
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-27T01:45:50.832742+00:00"
+  },
+  {
+   "id": "16158546",
+   "title": "Bunker Hill: A City, a Siege, a Revolution",
+   "full_title": "Bunker Hill: A City, a Siege, a Revolution",
+   "author": "Nathaniel Philbrick",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/16158546",
+   "date_added": "11/6/2025",
+   "avg_rating": "",
+   "year": "2013",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "2616907",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/2616907",
+     "share_url": "https://share.libbyapp.com/title/2616907",
+     "owned": 4,
+     "available_copies": 1,
+     "holds": 0,
+     "wait_days": 5,
+     "narrators": [
+      "Chris Sorensen"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "14447993",
+    "url": "https://www.hoopladigital.com/title/14447993"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Bunker%20Hill%20philbrick",
+    "audible": {
+     "asin": "B00CJ1AC1K",
+     "price": 20.25,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B00CJ1AC1K",
+     "narrators": [
+      "Chris Sorensen"
+     ],
+     "runtime_min": 778
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:49.937673+00:00"
+  },
+  {
+   "id": "49244342",
+   "title": "The Orphan Collector",
+   "full_title": "The Orphan Collector",
+   "author": "Ellen Marie Wiseman",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/49244342",
+   "date_added": "11/2/2025",
+   "avg_rating": "",
+   "year": "2020",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "5515201",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/5515201",
+     "share_url": "https://share.libbyapp.com/title/5515201",
+     "owned": 2,
+     "available_copies": 0,
+     "holds": 4,
+     "wait_days": null,
+     "narrators": [
+      "Rachel Botchan"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "13496356",
+    "url": "https://www.hoopladigital.com/title/13496356"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Orphan%20Collector%20wiseman",
+    "audible": {
+     "asin": "1980075700",
+     "price": 22.67,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/1980075700",
+     "narrators": [
+      "Rachel Botchan"
+     ],
+     "runtime_min": 951
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:50.509284+00:00"
+  },
+  {
+   "id": "195820807",
+   "title": "Just for the Summer",
+   "full_title": "Just for the Summer (Part of Your World, #3)",
+   "author": "Abby Jimenez",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/195820807",
+   "date_added": "8/23/2025",
+   "avg_rating": "",
+   "year": "2024",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "10048035",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/10048035",
+     "share_url": "https://share.libbyapp.com/title/10048035",
+     "owned": 4,
+     "available_copies": 0,
+     "holds": 98,
+     "wait_days": 1386,
+     "narrators": [
+      "Christine Lakin",
+      "Zachary Webber",
+      "Abby Jimenez"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "16422230",
+    "url": "https://www.hoopladigital.com/title/16422230"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Just%20for%20the%20Summer%20jimenez",
+    "audible": {
+     "asin": "B0CFC89N3C",
+     "price": 26.45,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0CFC89N3C",
+     "narrators": [
+      "Christine Lakin",
+      "Zachary Webber",
+      "Abby Jimenez"
+     ],
+     "runtime_min": 703
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:51.129185+00:00"
+  },
+  {
+   "id": "56449476",
+   "title": "West with Giraffes",
+   "full_title": "West with Giraffes",
+   "author": "Lynda Rutledge",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/56449476",
+   "date_added": "10/7/2025",
+   "avg_rating": "",
+   "year": "2021",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-West%20with%20Giraffes/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=West%20with%20Giraffes%20rutledge&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=West%20with%20Giraffes%20rutledge",
+    "audible": {
+     "asin": "1713551144",
+     "price": 20.25,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/1713551144",
+     "narrators": [
+      "Danny Campbell"
+     ],
+     "runtime_min": 628
+    }
+   },
+   "friends": [],
+   "best": "buy",
+   "available_since": null
+  },
+  {
+   "id": "4069",
+   "title": "Man's Search for Meaning",
+   "full_title": "Man's Search for Meaning",
+   "author": "Viktor E. Frankl",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/4069",
+   "date_added": "10/1/2025",
+   "avg_rating": "",
+   "year": "1946",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "63301",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/63301",
+     "share_url": "https://share.libbyapp.com/title/63301",
+     "owned": 16,
+     "available_copies": 0,
+     "holds": 4,
+     "wait_days": 24,
+     "narrators": [
+      "Simon Vance"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "16724819",
+    "url": "https://www.hoopladigital.com/title/16724819"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Man%27s%20Search%20for%20Meaning%20frankl",
+    "audible": {
+     "asin": "B0CYNPSBNG",
+     "price": 15.81,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0CYNPSBNG",
+     "narrators": [
+      "Theo Solomon"
+     ],
+     "runtime_min": 343
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:53.306385+00:00"
+  },
+  {
+   "id": "34051011",
+   "title": "Pachinko",
+   "full_title": "Pachinko",
+   "author": "Min Jin Lee",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/34051011",
+   "date_added": "10/1/2025",
+   "avg_rating": "",
+   "year": "2017",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "3007208",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/3007208",
+     "share_url": "https://share.libbyapp.com/title/3007208",
+     "owned": 45,
+     "available_copies": 0,
+     "holds": 125,
+     "wait_days": 221,
+     "narrators": [
+      "Allison Hiroto"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "15480419",
+    "url": "https://www.hoopladigital.com/title/15480419"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Pachinko%20lee",
+    "audible": {
+     "asin": "B0DJ3H33MK",
+     "price": 36.84,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0DJ3H33MK",
+     "narrators": [
+      "Sandra Oh",
+      "Min Jin Lee"
+     ],
+     "runtime_min": 1068
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:54.494184+00:00"
+  },
+  {
+   "id": "219319489",
+   "title": "The River Is Waiting",
+   "full_title": "The River Is Waiting",
+   "author": "Wally Lamb",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/219319489",
+   "date_added": "10/1/2025",
+   "avg_rating": "",
+   "year": "2025",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "11165144",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/11165144",
+     "share_url": "https://share.libbyapp.com/title/11165144",
+     "owned": 76,
+     "available_copies": 1,
+     "holds": 2,
+     "wait_days": 3,
+     "narrators": [
+      "Jeremy Sisto"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20River%20Is%20Waiting%20lamb&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20River%20Is%20Waiting%20lamb",
+    "audible": {
+     "asin": "B0DHLPYS1M",
+     "price": 22.49,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0DHLPYS1M",
+     "narrators": [
+      "Jeremy Sisto"
+     ],
+     "runtime_min": 880
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-28T01:43:08.190778+00:00"
+  },
+  {
+   "id": "21",
+   "title": "A Short History of Nearly Everything",
+   "full_title": "A Short History of Nearly Everything",
+   "author": "Bill  Bryson",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/21",
+   "date_added": "10/1/2025",
+   "avg_rating": "",
+   "year": "2003",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "114376",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/114376",
+     "share_url": "https://share.libbyapp.com/title/114376",
+     "owned": 14,
+     "available_copies": 0,
+     "holds": 4,
+     "wait_days": 18,
+     "narrators": [
+      "Richard Matthews"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=A%20Short%20History%20of%20Nearly%20Everything%20bryson&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=A%20Short%20History%20of%20Nearly%20Everything%20bryson",
+    "audible": {
+     "asin": "B002V0KFPW",
+     "price": 25.99,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B002V0KFPW",
+     "narrators": [
+      "Richard Matthews"
+     ],
+     "runtime_min": 1094
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "39999",
+   "title": "The Boy in the Striped Pajamas",
+   "full_title": "The Boy in the Striped Pajamas",
+   "author": "John Boyne",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/39999",
+   "date_added": "10/1/2025",
+   "avg_rating": "",
+   "year": "2006",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "109935",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/109935",
+     "share_url": "https://share.libbyapp.com/title/109935",
+     "owned": 4,
+     "available_copies": 0,
+     "holds": 1,
+     "wait_days": 28,
+     "narrators": [
+      "Michael Maloney"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20Boy%20in%20the%20Striped%20Pajamas%20boyne&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Boy%20in%20the%20Striped%20Pajamas%20boyne",
+    "audible": {
+     "asin": "B002V0K4TE",
+     "price": 11.25,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B002V0K4TE",
+     "narrators": [
+      "Michael Maloney"
+     ],
+     "runtime_min": 297
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "34066798",
+   "title": "A Gentleman in Moscow",
+   "full_title": "A Gentleman in Moscow",
+   "author": "Amor Towles",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/34066798",
+   "date_added": "10/1/2025",
+   "avg_rating": "",
+   "year": "2016",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "2629332",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/2629332",
+     "share_url": "https://share.libbyapp.com/title/2629332",
+     "owned": 47,
+     "available_copies": 0,
+     "holds": 7,
+     "wait_days": 10,
+     "narrators": [
+      "Nicholas Guy Smith"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "15203576",
+    "url": "https://www.hoopladigital.com/title/15203576"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=A%20Gentleman%20in%20Moscow%20towles",
+    "audible": {
+     "asin": "B01E08EG84",
+     "price": 22.5,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B01E08EG84",
+     "narrators": [
+      "Nicholas Guy Smith"
+     ],
+     "runtime_min": 1072
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:50:59.461881+00:00"
+  },
+  {
+   "id": "4667024",
+   "title": "The Help",
+   "full_title": "The Help",
+   "author": "Kathryn Stockett",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/4667024",
+   "date_added": "10/1/2025",
+   "avg_rating": "",
+   "year": "2009",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "196745",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/196745",
+     "share_url": "https://share.libbyapp.com/title/196745",
+     "owned": 17,
+     "available_copies": 0,
+     "holds": 23,
+     "wait_days": 31,
+     "narrators": [
+      "Cassandra Campbell",
+      "Jenna Lamia",
+      "Octavia Spencer",
+      "Bahni Turpin"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20Help%20stockett&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Help%20stockett",
+    "audible": {
+     "asin": "B002UZKYDQ",
+     "price": 24.75,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B002UZKYDQ",
+     "narrators": [
+      "Cassandra Campbell",
+      "Jenna Lamia",
+      "Octavia Spencer",
+      "Bahni Turpin"
+     ],
+     "runtime_min": 1086
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "18143977",
+   "title": "All the Light We Cannot See",
+   "full_title": "All the Light We Cannot See",
+   "author": "Anthony Doerr",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/18143977",
+   "date_added": "10/1/2025",
+   "avg_rating": "",
+   "year": "2014",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "1395881",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/1395881",
+     "share_url": "https://share.libbyapp.com/title/1395881",
+     "owned": 63,
+     "available_copies": 4,
+     "holds": 0,
+     "wait_days": 1,
+     "narrators": [
+      "Zach Appelman"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=All%20the%20Light%20We%20Cannot%20See%20doerr&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=All%20the%20Light%20We%20Cannot%20See%20doerr",
+    "audible": {
+     "asin": "B00IZGD864",
+     "price": 22.49,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B00IZGD864",
+     "narrators": [
+      "Zach Appelman"
+     ],
+     "runtime_min": 962
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:01.880368+00:00"
+  },
+  {
+   "id": "19063",
+   "title": "The Book Thief",
+   "full_title": "The Book Thief",
+   "author": "Markus Zusak",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/19063",
+   "date_added": "10/1/2025",
+   "avg_rating": "",
+   "year": "2005",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "109933",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/109933",
+     "share_url": "https://share.libbyapp.com/title/109933",
+     "owned": 24,
+     "available_copies": 0,
+     "holds": 0,
+     "wait_days": 2,
+     "narrators": [
+      "Allan Corduner"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "19755179",
+    "url": "https://www.hoopladigital.com/title/19755179"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Book%20Thief%20zusak",
+    "audible": {
+     "asin": "B002V00YSK",
+     "price": 22.95,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B002V00YSK",
+     "narrators": [
+      "Allan Corduner"
+     ],
+     "runtime_min": 836
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:03.092004+00:00"
+  },
+  {
+   "id": "40968318",
+   "title": "The Beantown Girls",
+   "full_title": "The Beantown Girls",
+   "author": "Jane Healey",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/40968318",
+   "date_added": "10/1/2025",
+   "avg_rating": "",
+   "year": "2019",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-The%20Beantown%20Girls/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20Beantown%20Girls%20healey&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Beantown%20Girls%20healey",
+    "audible": {
+     "asin": "B07L3C7PRS",
+     "price": 20.4,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B07L3C7PRS",
+     "narrators": [
+      "Sarah Mollo-Christensen"
+     ],
+     "runtime_min": 673
+    }
+   },
+   "friends": [],
+   "best": "buy",
+   "available_since": null
+  },
+  {
+   "id": "54760203",
+   "title": "The Secret Stealers",
+   "full_title": "The Secret Stealers",
+   "author": "Jane Healey",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/54760203",
+   "date_added": "10/1/2025",
+   "avg_rating": "",
+   "year": "2021",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-The%20Secret%20Stealers/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20Secret%20Stealers%20healey&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Secret%20Stealers%20healey",
+    "audible": {
+     "asin": "1713554135",
+     "price": 5.99,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/1713554135",
+     "narrators": [
+      "Sarah Mollo-Christensen"
+     ],
+     "runtime_min": 865
+    }
+   },
+   "friends": [],
+   "best": "buy",
+   "available_since": null
+  },
+  {
+   "id": "41104077",
+   "title": "Invisible Women: Data Bias in a World Designed for Men",
+   "full_title": "Invisible Women: Data Bias in a World Designed for Men",
+   "author": "Caroline Criado P\u00e9rez",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/41104077",
+   "date_added": "9/30/2025",
+   "avg_rating": "",
+   "year": "2019",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "4657720",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/4657720",
+     "share_url": "https://share.libbyapp.com/title/4657720",
+     "owned": 8,
+     "available_copies": 0,
+     "holds": 1,
+     "wait_days": 7,
+     "narrators": []
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "11932961",
+    "url": "https://www.hoopladigital.com/title/11932961"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Invisible%20Women%20perez",
+    "audible": {
+     "asin": "B0HMZW737P",
+     "price": 20.79,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0HMZW737P",
+     "narrators": [
+      "Caroline Criado Perez"
+     ],
+     "runtime_min": 564
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:06.697083+00:00"
+  },
+  {
+   "id": "220292680",
+   "title": "The Women of Arlington Hall",
+   "full_title": "The Women of Arlington Hall",
+   "author": "Jane Healey",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/220292680",
+   "date_added": "9/30/2025",
+   "avg_rating": "",
+   "year": "2025",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-The%20Women%20of%20Arlington%20Hall/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20Women%20of%20Arlington%20Hall%20healey&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Women%20of%20Arlington%20Hall%20healey",
+    "audible": {
+     "asin": "B0DRLL8GZT",
+     "price": 21.51,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0DRLL8GZT",
+     "narrators": [
+      "Gail Shalan"
+     ],
+     "runtime_min": 625
+    }
+   },
+   "friends": [],
+   "best": "buy",
+   "available_since": null
+  },
+  {
+   "id": "9684523",
+   "title": "Caleb's Crossing",
+   "full_title": "Caleb's Crossing",
+   "author": "Geraldine Brooks",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/9684523",
+   "date_added": "9/30/2025",
+   "avg_rating": "",
+   "year": "2011",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "528022",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/528022",
+     "share_url": "https://share.libbyapp.com/title/528022",
+     "owned": 13,
+     "available_copies": 4,
+     "holds": 0,
+     "wait_days": 2,
+     "narrators": [
+      "Jennifer Ehle"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Caleb%27s%20Crossing%20brooks&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Caleb%27s%20Crossing%20brooks",
+    "audible": {
+     "asin": "B004ZLBE2S",
+     "price": 20.25,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B004ZLBE2S",
+     "narrators": [
+      "Jennifer Ehle"
+     ],
+     "runtime_min": 726
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:09.428138+00:00"
+  },
+  {
+   "id": "35995489",
+   "title": "The Extraordinary Life of Sam Hell",
+   "full_title": "The Extraordinary Life of Sam Hell",
+   "author": "Robert Dugoni",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/35995489",
+   "date_added": "9/30/2025",
+   "avg_rating": "",
+   "year": "2018",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-The%20Extraordinary%20Life%20of%20Sam%20Hell/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20Extraordinary%20Life%20of%20Sam%20Hell%20dugoni&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Extraordinary%20Life%20of%20Sam%20Hell%20dugoni",
+    "audible": {
+     "asin": "B07BNW151C",
+     "price": 20.4,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B07BNW151C",
+     "narrators": [
+      "Robert Dugoni"
+     ],
+     "runtime_min": 701
+    }
+   },
+   "friends": [],
+   "best": "buy",
+   "available_since": null
+  },
+  {
+   "id": "58490567",
+   "title": "The Diamond Eye",
+   "full_title": "The Diamond Eye",
+   "author": "Kate Quinn",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/58490567",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2022",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "6525113",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/6525113",
+     "share_url": "https://share.libbyapp.com/title/6525113",
+     "owned": 47,
+     "available_copies": 12,
+     "holds": 0,
+     "wait_days": 1,
+     "narrators": [
+      "Saskia Maarleveld"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "14508607",
+    "url": "https://www.hoopladigital.com/title/14508607"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Diamond%20Eye%20quinn",
+    "audible": {
+     "asin": "B09F4PQKQC",
+     "price": 29.69,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B09F4PQKQC",
+     "narrators": [
+      "Saskia Maarleveld"
+     ],
+     "runtime_min": 771
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:11.544166+00:00"
+  },
+  {
+   "id": "40899464",
+   "title": "The Things We Cannot Say",
+   "full_title": "The Things We Cannot Say",
+   "author": "Kelly Rimmer",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/40899464",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2019",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "4493259",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/4493259",
+     "share_url": "https://share.libbyapp.com/title/4493259",
+     "owned": 18,
+     "available_copies": 8,
+     "holds": 0,
+     "wait_days": 3,
+     "narrators": [
+      "Ann Marie Gideon",
+      "Nancy Peterson"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "12291312",
+    "url": "https://www.hoopladigital.com/title/12291312"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Things%20We%20Cannot%20Say%20rimmer",
+    "audible": {
+     "asin": "B07MBBHPQ5",
+     "price": 29.69,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B07MBBHPQ5",
+     "narrators": [
+      "Ann Marie Gideon",
+      "Nancy Peterson"
+     ],
+     "runtime_min": 827
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:12.142061+00:00"
+  },
+  {
+   "id": "56970272",
+   "title": "I Must Betray You",
+   "full_title": "I Must Betray You",
+   "author": "Ruta Sepetys",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/56970272",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2022",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "6522723",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/6522723",
+     "share_url": "https://share.libbyapp.com/title/6522723",
+     "owned": 7,
+     "available_copies": 4,
+     "holds": 0,
+     "wait_days": 14,
+     "narrators": [
+      "Edoardo Ballerini",
+      "Ruta Sepetys"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=I%20Must%20Betray%20You%20sepetys&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=I%20Must%20Betray%20You%20sepetys",
+    "audible": {
+     "asin": "B09DTG9GX2",
+     "price": 7.99,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B09DTG9GX2",
+     "narrators": [
+      "Edoardo Ballerini",
+      "Ruta Sepetys"
+     ],
+     "runtime_min": 430
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:13.324208+00:00"
+  },
+  {
+   "id": "50089336",
+   "title": "Code Name H\u00e9l\u00e8ne",
+   "full_title": "Code Name H\u00e9l\u00e8ne",
+   "author": "Ariel Lawhon",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/50089336",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2020",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "4837154",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/4837154",
+     "share_url": "https://share.libbyapp.com/title/4837154",
+     "owned": 10,
+     "available_copies": 0,
+     "holds": 50,
+     "wait_days": 357,
+     "narrators": [
+      "Barrie Kreinik",
+      "Peter Ganim"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Code%20Name%20H%C3%A9l%C3%A8ne%20lawhon&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Code%20Name%20H%C3%A9l%C3%A8ne%20lawhon",
+    "audible": {
+     "asin": "0593169239",
+     "price": 22.5,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/0593169239",
+     "narrators": [
+      "Barrie Kreinik",
+      "Peter Ganim"
+     ],
+     "runtime_min": 1037
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "205064698",
+   "title": "The Bletchley Riddle",
+   "full_title": "The Bletchley Riddle",
+   "author": "Ruta Sepetys",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/205064698",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2024",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "10392232",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/10392232",
+     "share_url": "https://share.libbyapp.com/title/10392232",
+     "owned": 13,
+     "available_copies": 8,
+     "holds": 0,
+     "wait_days": 7,
+     "narrators": [
+      "Louis Hill",
+      "Georgina Jane",
+      "Ruta Sepetys",
+      "Steve Sheinkin"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20Bletchley%20Riddle%20sepetys&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Bletchley%20Riddle%20sepetys",
+    "audible": {
+     "asin": "B0CRSSBPD7",
+     "price": 22.5,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0CRSSBPD7",
+     "narrators": [
+      "Louis Hill",
+      "Georgina Jane",
+      "Ruta Sepetys",
+      "Steve Sheinkin"
+     ],
+     "runtime_min": 570
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:15.898762+00:00"
+  },
+  {
+   "id": "32051912",
+   "title": "The Alice Network",
+   "full_title": "The Alice Network",
+   "author": "Kate Quinn",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/32051912",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2017",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "2985766",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/2985766",
+     "share_url": "https://share.libbyapp.com/title/2985766",
+     "owned": 29,
+     "available_copies": 0,
+     "holds": 0,
+     "wait_days": 3,
+     "narrators": [
+      "Saskia Maarleveld"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "11876861",
+    "url": "https://www.hoopladigital.com/title/11876861"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Alice%20Network%20quinn",
+    "audible": {
+     "asin": "B06Y4FV56S",
+     "price": 29.69,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B06Y4FV56S",
+     "narrators": [
+      "Saskia Maarleveld"
+     ],
+     "runtime_min": 907
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:16.552166+00:00"
+  },
+  {
+   "id": "7824322",
+   "title": "Between Shades of Gray",
+   "full_title": "Between Shades of Gray",
+   "author": "Ruta Sepetys",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/7824322",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2011",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "543193",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/543193",
+     "share_url": "https://share.libbyapp.com/title/543193",
+     "owned": 4,
+     "available_copies": 3,
+     "holds": 0,
+     "wait_days": 7,
+     "narrators": [
+      "Emily Klein"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Between%20Shades%20of%20Gray%20sepetys&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Between%20Shades%20of%20Gray%20sepetys",
+    "audible": {
+     "asin": "B004SICBZM",
+     "price": 20.7,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B004SICBZM",
+     "narrators": [
+      "Emily Klein"
+     ],
+     "runtime_min": 467
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:17.718153+00:00"
+  },
+  {
+   "id": "17262236",
+   "title": "Rose Under Fire",
+   "full_title": "Rose Under Fire",
+   "author": "Elizabeth Wein",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/17262236",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2013",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-Rose%20Under%20Fire/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Rose%20Under%20Fire%20wein&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Rose%20Under%20Fire%20wein",
+    "audible": {
+     "asin": "B00E3GXRLG",
+     "price": 19.23,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B00E3GXRLG",
+     "narrators": [
+      "Sasha Pick"
+     ],
+     "runtime_min": 697
+    }
+   },
+   "friends": [],
+   "best": "buy",
+   "available_since": null
+  },
+  {
+   "id": "43868109",
+   "title": "Empire of Pain: The Secret History of the Sackler Dynasty",
+   "full_title": "Empire of Pain: The Secret History of the Sackler Dynasty",
+   "author": "Patrick Radden Keefe",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/43868109",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2021",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "5851743",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/5851743",
+     "share_url": "https://share.libbyapp.com/title/5851743",
+     "owned": 18,
+     "available_copies": 0,
+     "holds": 46,
+     "wait_days": 658,
+     "narrators": [
+      "Patrick Radden Keefe"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "15973857",
+    "url": "https://www.hoopladigital.com/title/15973857"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Empire%20of%20Pain%20keefe",
+    "audible": {
+     "asin": "0593162390",
+     "price": 24.75,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/0593162390",
+     "narrators": [
+      "Patrick Radden Keefe"
+     ],
+     "runtime_min": 1086
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:19.881659+00:00"
+  },
+  {
+   "id": "52762903",
+   "title": "The Book of Lost Names",
+   "full_title": "The Book of Lost Names",
+   "author": "Kristin Harmel",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/52762903",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2020",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "5042152",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/5042152",
+     "share_url": "https://share.libbyapp.com/title/5042152",
+     "owned": 9,
+     "available_copies": 0,
+     "holds": 29,
+     "wait_days": 420,
+     "narrators": [
+      "Madeleine Maby"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20Book%20of%20Lost%20Names%20harmel&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Book%20of%20Lost%20Names%20harmel",
+    "audible": {
+     "asin": "1797105582",
+     "price": 19.49,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/1797105582",
+     "narrators": [
+      "Madeleine Maby"
+     ],
+     "runtime_min": 650
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "50214741",
+   "title": "The Girl with the Louding Voice",
+   "full_title": "The Girl with the Louding Voice",
+   "author": "Abi Dar\u00e9",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/50214741",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2020",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "4754353",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/4754353",
+     "share_url": "https://share.libbyapp.com/title/4754353",
+     "owned": 9,
+     "available_copies": 6,
+     "holds": 0,
+     "wait_days": 5,
+     "narrators": [
+      "Adjoa Andoh"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20Girl%20with%20the%20Louding%20Voice%20dare&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Girl%20with%20the%20Louding%20Voice%20dare",
+    "audible": {
+     "asin": "0593168720",
+     "price": 20.25,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/0593168720",
+     "narrators": [
+      "Adjoa Andoh"
+     ],
+     "runtime_min": 726
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:22.361392+00:00"
+  },
+  {
+   "id": "173754979",
+   "title": "James",
+   "full_title": "James",
+   "author": "Percival Everett",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/173754979",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2024",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "9951347",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/9951347",
+     "share_url": "https://share.libbyapp.com/title/9951347",
+     "owned": 47,
+     "available_copies": 1,
+     "holds": 0,
+     "wait_days": 2,
+     "narrators": [
+      "Dominic Hoffman"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "18251088",
+    "url": "https://www.hoopladigital.com/title/18251088"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=James%20everett",
+    "audible": {
+     "asin": "B0CBCY41WF",
+     "price": 20.25,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0CBCY41WF",
+     "narrators": [
+      "Dominic Hoffman"
+     ],
+     "runtime_min": 469
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:22.902063+00:00"
+  },
+  {
+   "id": "53914938",
+   "title": "The Rose Code",
+   "full_title": "The Rose Code",
+   "author": "Kate Quinn",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/53914938",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2021",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "5538203",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/5538203",
+     "share_url": "https://share.libbyapp.com/title/5538203",
+     "owned": 56,
+     "available_copies": 4,
+     "holds": 0,
+     "wait_days": 1,
+     "narrators": [
+      "Saskia Maarleveld"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "13377129",
+    "url": "https://www.hoopladigital.com/title/13377129"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Rose%20Code%20quinn",
+    "audible": {
+     "asin": "0062943499",
+     "price": 29.69,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/0062943499",
+     "narrators": [
+      "Saskia Maarleveld"
+     ],
+     "runtime_min": 962
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:23.609287+00:00"
+  },
+  {
+   "id": "51152447",
+   "title": "Caste: The Origins of Our Discontents",
+   "full_title": "Caste: The Origins of Our Discontents",
+   "author": "Isabel Wilkerson",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/51152447",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2020",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "5284095",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/5284095",
+     "share_url": "https://share.libbyapp.com/title/5284095",
+     "owned": 36,
+     "available_copies": 13,
+     "holds": 1,
+     "wait_days": 28,
+     "narrators": [
+      "Robin Miles"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "18838062",
+    "url": "https://www.hoopladigital.com/title/18838062"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Caste%20wilkerson",
+    "audible": {
+     "asin": "0593339800",
+     "price": 22.5,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/0593339800",
+     "narrators": [
+      "Robin Miles"
+     ],
+     "runtime_min": 910
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:24.816199+00:00"
+  },
+  {
+   "id": "60435878",
+   "title": "Carrie Soto Is Back",
+   "full_title": "Carrie Soto Is Back",
+   "author": "Taylor Jenkins Reid",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/60435878",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2022",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "8795274",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/8795274",
+     "share_url": "https://share.libbyapp.com/title/8795274",
+     "owned": 16,
+     "available_copies": 1,
+     "holds": 0,
+     "wait_days": 14,
+     "narrators": [
+      "Stacy Gonzalez",
+      "Mary Carillo",
+      "Patrick Mcenroe",
+      "Rob Simmelkjaer",
+      "Brendan Wayne",
+      "Max Meyers",
+      "Reynaldo Piniella",
+      "Vidish Athavale",
+      "Tom Bromhead",
+      "Heath Miller",
+      "Julia Whelan",
+      "Sara Arrington"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Carrie%20Soto%20Is%20Back%20reid&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Carrie%20Soto%20Is%20Back%20reid",
+    "audible": {
+     "asin": "B09SS8STH8",
+     "price": 20.25,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B09SS8STH8",
+     "narrators": [
+      "Stacy Gonzalez",
+      "Mary Carillo",
+      "Patrick Mcenroe",
+      "Rob Simmelkjaer",
+      "Brendan Wayne",
+      "Max Meyers",
+      "Reynaldo Piniella",
+      "Vidish Athavale",
+      "Tom Bromhead",
+      "Heath Miller",
+      "Julia Whelan",
+      "Sara Arrington"
+     ],
+     "runtime_min": 630
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-27T13:41:29.160852+00:00"
+  },
+  {
+   "id": "50202953",
+   "title": "Piranesi",
+   "full_title": "Piranesi",
+   "author": "Susanna Clarke",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/50202953",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2020",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "6320985",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/6320985",
+     "share_url": "https://share.libbyapp.com/title/6320985",
+     "owned": 20,
+     "available_copies": 0,
+     "holds": 443,
+     "wait_days": 1554,
+     "narrators": [
+      "Chiwetel Ejiofor"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "20475344",
+    "url": "https://www.hoopladigital.com/title/20475344"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Piranesi%20clarke",
+    "audible": {
+     "asin": "B0H75VCVGG",
+     "price": 17.0,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0H75VCVGG",
+     "narrators": [
+      "Chiwetel Ejiofor"
+     ],
+     "runtime_min": 418
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:27.328793+00:00"
+  },
+  {
+   "id": "217245618",
+   "title": "The Names",
+   "full_title": "The Names",
+   "author": "Florence Knapp",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/217245618",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2025",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "11126192",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/11126192",
+     "share_url": "https://share.libbyapp.com/title/11126192",
+     "owned": 40,
+     "available_copies": 0,
+     "holds": 84,
+     "wait_days": 1190,
+     "narrators": [
+      "Dervla Kirwan"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "12207046",
+    "url": "https://www.hoopladigital.com/title/12207046"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Names%20knapp",
+    "audible": {
+     "asin": "B0DG3STL1G",
+     "price": 19.8,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0DG3STL1G",
+     "narrators": [
+      "Dervla Kirwan"
+     ],
+     "runtime_min": 580
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:28.496066+00:00"
+  },
+  {
+   "id": "71872930",
+   "title": "North Woods",
+   "full_title": "North Woods",
+   "author": "Daniel       Mason",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/71872930",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2023",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "9631352",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/9631352",
+     "share_url": "https://share.libbyapp.com/title/9631352",
+     "owned": 23,
+     "available_copies": 1,
+     "holds": 83,
+     "wait_days": 588,
+     "narrators": [
+      "Mark Bramhall",
+      "Michael Crouch",
+      "Jason Culp",
+      "Mark Deakins",
+      "Jayne Entwistle",
+      "Billie Fulford-Brown",
+      "Arthur Morey",
+      "George Newbern",
+      "Kirsten Potter",
+      "Simon Vance"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=North%20Woods%20mason&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=North%20Woods%20mason",
+    "audible": {
+     "asin": "B0BWSLHZ59",
+     "price": 21.26,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0BWSLHZ59",
+     "narrators": [
+      "Mark Bramhall",
+      "Michael Crouch",
+      "Jason Culp",
+      "Mark Deakins",
+      "Jayne Entwistle",
+      "Billie Fulford-Brown",
+      "Arthur Morey",
+      "George Newbern",
+      "Kirsten Potter",
+      "Simon Vance"
+     ],
+     "runtime_min": 665
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:29.726940+00:00"
+  },
+  {
+   "id": "181110045",
+   "title": "The Briar Club",
+   "full_title": "The Briar Club",
+   "author": "Kate Quinn",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/181110045",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2024",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "10195089",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/10195089",
+     "share_url": "https://share.libbyapp.com/title/10195089",
+     "owned": 102,
+     "available_copies": 3,
+     "holds": 3,
+     "wait_days": 3,
+     "narrators": [
+      "Saskia Maarleveld"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "16324588",
+    "url": "https://www.hoopladigital.com/title/16324588"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Briar%20Club%20quinn",
+    "audible": {
+     "asin": "B0CKZH2Y5F",
+     "price": 29.69,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0CKZH2Y5F",
+     "narrators": [
+      "Saskia Maarleveld"
+     ],
+     "runtime_min": 903
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:30.379283+00:00"
+  },
+  {
+   "id": "215153740",
+   "title": "All the Colors of the Dark",
+   "full_title": "All the Colors of the Dark",
+   "author": "Chris  Whitaker",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/215153740",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2024",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "10316932",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/10316932",
+     "share_url": "https://share.libbyapp.com/title/10316932",
+     "owned": 27,
+     "available_copies": 0,
+     "holds": 1,
+     "wait_days": 28,
+     "narrators": [
+      "Edoardo Ballerini"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=All%20the%20Colors%20of%20the%20Dark%20whitaker&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=All%20the%20Colors%20of%20the%20Dark%20whitaker",
+    "audible": {
+     "asin": "B0CPL88V2M",
+     "price": 22.5,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0CPL88V2M",
+     "narrators": [
+      "Edoardo Ballerini"
+     ],
+     "runtime_min": 877
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "199698485",
+   "title": "The God of the Woods",
+   "full_title": "The God of the Woods",
+   "author": "Liz    Moore",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/199698485",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2024",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "10218223",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/10218223",
+     "share_url": "https://share.libbyapp.com/title/10218223",
+     "owned": 78,
+     "available_copies": 1,
+     "holds": 191,
+     "wait_days": 2688,
+     "narrators": [
+      "Saskia Maarleveld"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20God%20of%20the%20Woods%20moore&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20God%20of%20the%20Woods%20moore",
+    "audible": {
+     "asin": "B0CLGLVBMH",
+     "price": 24.57,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0CLGLVBMH",
+     "narrators": [
+      "Saskia Maarleveld"
+     ],
+     "runtime_min": 875
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:32.739847+00:00"
+  },
+  {
+   "id": "252577",
+   "title": "Angela's Ashes",
+   "full_title": "Angela's Ashes (Frank McCourt, #1)",
+   "author": "Frank McCourt",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/252577",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "1996",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "76246",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/76246",
+     "share_url": "https://share.libbyapp.com/title/76246",
+     "owned": 4,
+     "available_copies": 0,
+     "holds": 3,
+     "wait_days": 56,
+     "narrators": [
+      "Frank McCourt"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "11385198",
+    "url": "https://www.hoopladigital.com/title/11385198"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Angela%27s%20Ashes%20mccourt",
+    "audible": {
+     "asin": "B002UZZ14S",
+     "price": 22.49,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B002UZZ14S",
+     "narrators": [
+      "Frank McCourt"
+     ],
+     "runtime_min": 908
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:33.380799+00:00"
+  },
+  {
+   "id": "62334530",
+   "title": "None of This Is True",
+   "full_title": "None of This Is True",
+   "author": "Lisa Jewell",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/62334530",
+   "date_added": "9/7/2025",
+   "avg_rating": "",
+   "year": "2023",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "9240587",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/9240587",
+     "share_url": "https://share.libbyapp.com/title/9240587",
+     "owned": 24,
+     "available_copies": 0,
+     "holds": 163,
+     "wait_days": 1148,
+     "narrators": [
+      "Kristin Atherton",
+      "Ayesha Antoine",
+      "Louise Brealey",
+      "Alix Dunmore",
+      "Elliot Fitzpatrick",
+      "Lisa Jewell",
+      "Thomas Judd",
+      "Dominic Thorburn",
+      "Nicola Walker",
+      "Jenny Walser"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=None%20of%20This%20Is%20True%20jewell&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=None%20of%20This%20Is%20True%20jewell",
+    "audible": {
+     "asin": "B0BHFB2WQK",
+     "price": 19.49,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0BHFB2WQK",
+     "narrators": [
+      "Kristin Atherton",
+      "Ayesha Antoine",
+      "Louise Brealey",
+      "Alix Dunmore",
+      "Elliot Fitzpatrick",
+      "Lisa Jewell",
+      "Thomas Judd",
+      "Dominic Thorburn",
+      "Nicola Walker",
+      "Jenny Walser"
+     ],
+     "runtime_min": 631
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "180357146",
+   "title": "The Covenant of Water",
+   "full_title": "The Covenant of Water",
+   "author": "Abraham   Verghese",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/180357146",
+   "date_added": "8/24/2025",
+   "avg_rating": "",
+   "year": "2023",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "9575425",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/9575425",
+     "share_url": "https://share.libbyapp.com/title/9575425",
+     "owned": 91,
+     "available_copies": 26,
+     "holds": 0,
+     "wait_days": 1,
+     "narrators": [
+      "Abraham Verghese"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "15694495",
+    "url": "https://www.hoopladigital.com/title/15694495"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Covenant%20of%20Water%20verghese",
+    "audible": {
+     "asin": "B0BVDVR6XT",
+     "price": 5.99,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0BVDVR6XT",
+     "narrators": [
+      "Abraham Verghese"
+     ],
+     "runtime_min": 1876
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:35.339232+00:00"
+  },
+  {
+   "id": "52578297",
+   "title": "The Midnight Library",
+   "full_title": "The Midnight Library (The Midnight World, #1)",
+   "author": "Matt Haig",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/52578297",
+   "date_added": "8/24/2025",
+   "avg_rating": "",
+   "year": "2020",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "5328992",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/5328992",
+     "share_url": "https://share.libbyapp.com/title/5328992",
+     "owned": 47,
+     "available_copies": 0,
+     "holds": 113,
+     "wait_days": 798,
+     "narrators": [
+      "Carey Mulligan"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20Midnight%20Library%20haig&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Midnight%20Library%20haig",
+    "audible": {
+     "asin": "059334023X",
+     "price": 18.0,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/059334023X",
+     "narrators": [
+      "Carey Mulligan"
+     ],
+     "runtime_min": 530
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "23692271",
+   "title": "Sapiens: A Brief History of Humankind",
+   "full_title": "Sapiens: A Brief History of Humankind",
+   "author": "Yuval Noah Harari",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/23692271",
+   "date_added": "8/24/2025",
+   "avg_rating": "",
+   "year": "2011",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "3255516",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/3255516",
+     "share_url": "https://share.libbyapp.com/title/3255516",
+     "owned": 65,
+     "available_copies": 4,
+     "holds": 0,
+     "wait_days": 1,
+     "narrators": [
+      "Derek Perkins"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "11895338",
+    "url": "https://www.hoopladigital.com/title/11895338"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Sapiens%20harari",
+    "audible": {
+     "asin": "B0741G911Q",
+     "price": 29.69,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0741G911Q",
+     "narrators": [
+      "Derek Perkins"
+     ],
+     "runtime_min": 918
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:37.823786+00:00"
+  },
+  {
+   "id": "11925514",
+   "title": "Code Name Verity",
+   "full_title": "Code Name Verity (Code Name Verity, #1)",
+   "author": "Elizabeth Wein",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/11925514",
+   "date_added": "8/24/2025",
+   "avg_rating": "",
+   "year": "2012",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-Code%20Name%20Verity/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "17136550",
+    "url": "https://www.hoopladigital.com/title/17136550"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Code%20Name%20Verity%20wein",
+    "audible": {
+     "asin": "B0088PHSTA",
+     "price": 18.86,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0088PHSTA",
+     "narrators": [
+      "Morven Christie",
+      "Lucy Gaskell"
+     ],
+     "runtime_min": 603
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:39.384252+00:00"
+  },
+  {
+   "id": "4137",
+   "title": "Me Talk Pretty One Day",
+   "full_title": "Me Talk Pretty One Day",
+   "author": "David Sedaris",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/4137",
+   "date_added": "8/24/2025",
+   "avg_rating": "",
+   "year": "2000",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "87791",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/87791",
+     "share_url": "https://share.libbyapp.com/title/87791",
+     "owned": 5,
+     "available_copies": 0,
+     "holds": 26,
+     "wait_days": 189,
+     "narrators": [
+      "David Sedaris"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Me%20Talk%20Pretty%20One%20Day%20sedaris&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Me%20Talk%20Pretty%20One%20Day%20sedaris",
+    "audible": {
+     "asin": "B002V0QPH4",
+     "price": 17.94,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B002V0QPH4",
+     "narrators": [
+      "David Sedaris"
+     ],
+     "runtime_min": 351
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "15796700",
+   "title": "Americanah",
+   "full_title": "Americanah",
+   "author": "Chimamanda Ngozi Adichie",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/15796700",
+   "date_added": "8/24/2025",
+   "avg_rating": "",
+   "year": "2013",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "1366417",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/1366417",
+     "share_url": "https://share.libbyapp.com/title/1366417",
+     "owned": 17,
+     "available_copies": 11,
+     "holds": 0,
+     "wait_days": 4,
+     "narrators": [
+      "Adjoa Andoh"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "18521096",
+    "url": "https://www.hoopladigital.com/title/18521096"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Americanah%20adichie",
+    "audible": {
+     "asin": "B0CNFL4HRM",
+     "price": 24.75,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0CNFL4HRM",
+     "narrators": [
+      "Adjoa Andoh"
+     ],
+     "runtime_min": 1124
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:41.265999+00:00"
+  },
+  {
+   "id": "61272707",
+   "title": "What Looks Like Bravery: An Epic Journey Through Loss to Love",
+   "full_title": "What Looks Like Bravery: An Epic Journey Through Loss to Love",
+   "author": "Laurel Braitman",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/61272707",
+   "date_added": "8/23/2025",
+   "avg_rating": "",
+   "year": "",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-What%20Looks%20Like%20Bravery/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=What%20Looks%20Like%20Bravery%20braitman&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=What%20Looks%20Like%20Bravery%20braitman",
+    "audible": {
+     "asin": "B0BDT3HH1D",
+     "price": 18.74,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0BDT3HH1D",
+     "narrators": [
+      "Laurel Braitman"
+     ],
+     "runtime_min": 483
+    }
+   },
+   "friends": [],
+   "best": "buy",
+   "available_since": null
+  },
+  {
+   "id": "56238004",
+   "title": "The Good Lie",
+   "full_title": "The Good Lie",
+   "author": "A.R. Torre",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/56238004",
+   "date_added": "8/23/2025",
+   "avg_rating": "",
+   "year": "2021",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-The%20Good%20Lie/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "12196133",
+    "url": "https://www.hoopladigital.com/title/12196133"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Good%20Lie%20torre",
+    "audible": {
+     "asin": "1713584603",
+     "price": 18.76,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/1713584603",
+     "narrators": [
+      "Susan Dalian"
+     ],
+     "runtime_min": 486
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:44.542690+00:00"
+  },
+  {
+   "id": "61771675",
+   "title": "Hello Beautiful",
+   "full_title": "Hello Beautiful",
+   "author": "Ann Napolitano",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/61771675",
+   "date_added": "8/23/2025",
+   "avg_rating": "",
+   "year": "2023",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "9140708",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/9140708",
+     "share_url": "https://share.libbyapp.com/title/9140708",
+     "owned": 27,
+     "available_copies": 1,
+     "holds": 0,
+     "wait_days": 2,
+     "narrators": [
+      "Maura Tierney"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Hello%20Beautiful%20napolitano&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Hello%20Beautiful%20napolitano",
+    "audible": {
+     "asin": "B0B7VKMC1Y",
+     "price": 20.25,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0B7VKMC1Y",
+     "narrators": [
+      "Maura Tierney"
+     ],
+     "runtime_min": 906
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-28T01:43:30.074639+00:00"
+  },
+  {
+   "id": "22822858",
+   "title": "A Little Life",
+   "full_title": "A Little Life",
+   "author": "Hanya Yanagihara",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/22822858",
+   "date_added": "8/23/2025",
+   "avg_rating": "",
+   "year": "2015",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "9310811",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/9310811",
+     "share_url": "https://share.libbyapp.com/title/9310811",
+     "owned": 9,
+     "available_copies": 0,
+     "holds": 145,
+     "wait_days": 2044,
+     "narrators": [
+      "Oliver Wyman"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=A%20Little%20Life%20yanagihara&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=A%20Little%20Life%20yanagihara",
+    "audible": {
+     "asin": "B0DQQX8NVH",
+     "price": 33.07,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0DQQX8NVH",
+     "narrators": [
+      "Matt Bomer"
+     ],
+     "runtime_min": 1718
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "61049",
+   "title": "Autobiography of Red: A Novel in Verse",
+   "full_title": "Autobiography of Red: A Novel in Verse",
+   "author": "Anne Carson",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/61049",
+   "date_added": "8/23/2025",
+   "avg_rating": "",
+   "year": "1998",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "2740004",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/2740004",
+     "share_url": "https://share.libbyapp.com/title/2740004",
+     "owned": 1,
+     "available_copies": 0,
+     "holds": 17,
+     "wait_days": 252,
+     "narrators": [
+      "Paul Boehmer"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "11645572",
+    "url": "https://www.hoopladigital.com/title/11645572"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Autobiography%20of%20Red%20carson",
+    "audible": {
+     "asin": "B01FQJFXFQ",
+     "price": 12.86,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B01FQJFXFQ",
+     "narrators": [
+      "Paul Boehmer"
+     ],
+     "runtime_min": 235
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:47.583061+00:00"
+  },
+  {
+   "id": "18693910",
+   "title": "Barbarian Days: A Surfing Life",
+   "full_title": "Barbarian Days: A Surfing Life",
+   "author": "William Finnegan",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/18693910",
+   "date_added": "8/23/2025",
+   "avg_rating": "",
+   "year": "2015",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-Barbarian%20Days/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "18618143",
+    "url": "https://www.hoopladigital.com/title/18618143"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Barbarian%20Days%20finnegan",
+    "audible": {
+     "asin": "B00YMMTOI6",
+     "price": 23.83,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B00YMMTOI6",
+     "narrators": [
+      "William Finnegan"
+     ],
+     "runtime_min": 1088
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:49.193482+00:00"
+  },
+  {
+   "id": "15798109",
+   "title": "Toms River: A Story of Science and Salvation",
+   "full_title": "Toms River: A Story of Science and Salvation",
+   "author": "Dan Fagin",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/15798109",
+   "date_added": "8/23/2025",
+   "avg_rating": "",
+   "year": "2013",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "984372",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/984372",
+     "share_url": "https://share.libbyapp.com/title/984372",
+     "owned": 1,
+     "available_copies": 0,
+     "holds": 0,
+     "wait_days": 14,
+     "narrators": [
+      "Dan Woren"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=Toms%20River%20fagin&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=Toms%20River%20fagin",
+    "audible": {
+     "asin": "B00B4ETZ8O",
+     "price": 22.5,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B00B4ETZ8O",
+     "narrators": [
+      "Dan Woren"
+     ],
+     "runtime_min": 1111
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "33253215",
+   "title": "The Heart's Invisible Furies",
+   "full_title": "The Heart's Invisible Furies",
+   "author": "John Boyne",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/33253215",
+   "date_added": "8/23/2025",
+   "avg_rating": "",
+   "year": "2017",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "hold",
+     "media_id": "3046292",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/3046292",
+     "share_url": "https://share.libbyapp.com/title/3046292",
+     "owned": 9,
+     "available_copies": 0,
+     "holds": 54,
+     "wait_days": 257,
+     "narrators": [
+      "Stephen Hogan"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=The%20Heart%27s%20Invisible%20Furies%20boyne&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Heart%27s%20Invisible%20Furies%20boyne",
+    "audible": {
+     "asin": "B073XSZJKR",
+     "price": 24.75,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B073XSZJKR",
+     "narrators": [
+      "Stephen Hogan"
+     ],
+     "runtime_min": 1270
+    }
+   },
+   "friends": [],
+   "best": "hold",
+   "available_since": null
+  },
+  {
+   "id": "27189194",
+   "title": "One True Loves",
+   "full_title": "One True Loves",
+   "author": "Taylor Jenkins Reid",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/27189194",
+   "date_added": "8/23/2025",
+   "avg_rating": "",
+   "year": "2016",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "available",
+     "media_id": "2702481",
+     "url": "https://libbyapp.com/library/minuteman/everything/page-1/2702481",
+     "share_url": "https://share.libbyapp.com/title/2702481",
+     "owned": 24,
+     "available_copies": 3,
+     "holds": 0,
+     "wait_days": 3,
+     "narrators": [
+      "Julia Whelan"
+     ]
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "14442250",
+    "url": "https://www.hoopladigital.com/title/14442250"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=One%20True%20Loves%20reid",
+    "audible": {
+     "asin": "B0C7WK74GP",
+     "price": null,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/B0C7WK74GP",
+     "narrators": [
+      "Julia Whelan",
+      "Taylor Jenkins Reid"
+     ],
+     "runtime_min": 533
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:52.817393+00:00"
+  },
+  {
+   "id": "52149789",
+   "title": "The Best of Friends",
+   "full_title": "The Best of Friends",
+   "author": "Lucinda Berry",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/52149789",
+   "date_added": "8/23/2025",
+   "avg_rating": "",
+   "year": "2020",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-The%20Best%20of%20Friends/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "available",
+    "title_id": "16978008",
+    "url": "https://www.hoopladigital.com/title/16978008"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=The%20Best%20of%20Friends%20berry",
+    "audible": {
+     "asin": "1799759156",
+     "price": 18.76,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/1799759156",
+     "narrators": [
+      "Amy Rubinate",
+      "Tara Sands",
+      "Coleen Marlo"
+     ],
+     "runtime_min": 480
+    }
+   },
+   "friends": [],
+   "best": "now",
+   "available_since": "2026-11-25T17:51:54.973997+00:00"
+  },
+  {
+   "id": "45299992",
+   "title": "If You Tell: A True Story of Murder, Family Secrets, and the Unbreakable Bond of Sisterhood",
+   "full_title": "If You Tell: A True Story of Murder, Family Secrets, and the Unbreakable Bond of Sisterhood",
+   "author": "Gregg Olsen",
+   "cover": "",
+   "goodreads_url": "https://www.goodreads.com/book/show/45299992",
+   "date_added": "8/23/2025",
+   "avg_rating": "",
+   "year": "2019",
+   "libby": [
+    {
+     "library": "minuteman",
+     "library_name": "Minuteman",
+     "status": "not_owned",
+     "search_url": "https://libbyapp.com/search/minuteman/search/query-If%20You%20Tell/page-1"
+    }
+   ],
+   "hoopla": {
+    "status": "not_found",
+    "search_url": "https://www.hoopladigital.com/search?q=If%20You%20Tell%20olsen&scope=everything&type=direct"
+   },
+   "buy": {
+    "audible_search": "https://www.audible.com/search?keywords=If%20You%20Tell%20olsen",
+    "audible": {
+     "asin": "1799708225",
+     "price": 20.06,
+     "currency": "USD",
+     "url": "https://www.audible.com/pd/1799708225",
+     "narrators": [
+      "Karen Peakes"
+     ],
+     "runtime_min": 634
+    }
+   },
+   "friends": [],
+   "best": "buy",
+   "available_since": null
+  }
+ ]
+}
